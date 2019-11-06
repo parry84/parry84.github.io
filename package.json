@@ -1,9 +1,11 @@
 {
-  "name": "gatsby-absurd",
+  "name": "parry84-site",
   "private": true,
-  "description": "An absurd starter for Gatsby",
+  "description": "Parry84 personal site",
   "version": "0.1.0",
-  "author": "Ajay NS <ajay.ns@outlook.com>",
+  "author": "Emanuele Parrinello <parry84@gmail.com>",
+  "homepage": "https://parry84.github.io",
+  "private": true,
   "dependencies": {
     "@svgr/webpack": "^4.1.0",
     "gatsby": "^2.0.76",
@@ -28,9 +30,9 @@
     "styled-components": "^4.1.3"
   },
   "keywords": [
-    "gatsby"
+    "parry84"
   ],
-  "license": "MIT",
+  "license": "UNLICENSED",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
@@ -40,6 +42,7 @@
     "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "devDependencies": {
-    "prettier": "^1.15.2"
+    "prettier": "^1.15.2",
+    "gh-pages": "^2.1.1"
   }
 }
