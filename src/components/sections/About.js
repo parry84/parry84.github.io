@@ -79,6 +79,7 @@ const About = () => (
               <p>
                 I often need to flee the chaotic street of Milan,
                 just to get lost in the wilderness of the nearby Alps.
+                I always carry my reflex with me.
                 My dream is to visit Patagonia.
               </p>
             </div>

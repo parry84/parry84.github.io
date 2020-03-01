@@ -9,6 +9,7 @@ import ExternalLink from '@common/ExternalLink';
 import GithubIcon from '@static/icons/github.svg';
 import InstagramIcon from '@static/icons/instagram.svg';
 import FacebookIcon from '@static/icons/facebook.svg';
+import FiveHundredPxIcon from '@static/icons/500px.svg';
 
 const SOCIAL = [
   {
@@ -22,6 +23,10 @@ const SOCIAL = [
   {
     icon: FacebookIcon,
     link: 'https://www.facebook.com/emanuele.parrinello',
+  },
+  {
+    icon: FiveHundredPxIcon,
+    link: 'https://500px.com/parry84',
   },
 ];
 
