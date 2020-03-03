@@ -36,23 +36,18 @@ const Footer = () => (
       query {
         art_pot: file(
           sourceInstanceName: { eq: "art" }
-          name: { eq: "customers_pot" }
+          name: { eq: "lightbulb" }
         ) {
-          childImageSharp {
-            fluid(maxWidth: 960) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
-          }
+          publicURL
         }
       }
     `}
     render={data => (
       <React.Fragment>
         <Art>
-          <Img
-            fluid={data.art_pot.childImageSharp.fluid}
-            style={{ width: 480, maxWidth: '100%', marginBottom: -16 }}
-          />
+          <video id="background-video-1" playsinline autoPlay loop muted webkit-playsinline width="480">
+             <source src={data.art_pot.publicURL} type="video/mp4" />
+          </video>
         </Art>
         <FooterWrapper>
           <StyledContainer>

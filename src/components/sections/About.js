@@ -11,7 +11,7 @@ const About = () => (
       query {
         art_fast: file(
           sourceInstanceName: { eq: "art" }
-          name: { eq: "fast" }
+          name: { eq: "build" }
         ) {
           childImageSharp {
             fluid(maxWidth: 760) {
@@ -33,7 +33,7 @@ const About = () => (
 
         art_ideas: file(
           sourceInstanceName: { eq: "art" }
-          name: { eq: "ideas" }
+          name: { eq: "travel" }
         ) {
           childImageSharp {
             fluid(maxWidth: 760) {
