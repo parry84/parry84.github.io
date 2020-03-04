@@ -12,22 +12,7 @@ import FacebookIcon from '@static/icons/facebook.svg';
 import FiveHundredPxIcon from '@static/icons/500px.svg';
 
 const SOCIAL = [
-  {
-    icon: GithubIcon,
-    link: 'https://github.com/parry84',
-  },
-  {
-    icon: InstagramIcon,
-    link: 'https://instagram.com/elparro84/',
-  },
-  {
-    icon: FacebookIcon,
-    link: 'https://www.facebook.com/emanuele.parrinello',
-  },
-  {
-    icon: FiveHundredPxIcon,
-    link: 'https://500px.com/parry84',
-  },
+
 ];
 
 const Footer = () => (
@@ -52,7 +37,7 @@ const Footer = () => (
         <FooterWrapper>
           <StyledContainer>
             <Copyright>
-              <h2>Contacts</h2>
+              <h2>© Emanuele Parrinello 2020</h2>
             </Copyright>
             <SocialIcons>
               {SOCIAL.map(({ icon, link }) => (

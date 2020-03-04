@@ -6,37 +6,33 @@ import Img from 'gatsby-image';
 import { Section, Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
 
-import { ReactComponent as AirbnbLogo } from '@images/logos/airbnb.svg';
-import { ReactComponent as AppleMusicLogo } from '@images/logos/apple-music.svg';
-import { ReactComponent as CokeLogo } from '@images/logos/coca-cola.svg';
-import { ReactComponent as NodeLogo } from '@images/logos/nodejs.svg';
+import { ReactComponent as FacebookLogo } from '@images/logos/facebook.svg';
+import { ReactComponent as LinkedinLogo } from '@images/logos/linkedin.svg';
+import { ReactComponent as GithubLogo } from '@images/logos/github.svg';
+import { ReactComponent as FivehundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 
 const LOGOS = [
   {
-    logo: AirbnbLogo,
-    link: 'https://airbnb.io',
+    logo: LinkedinLogo,
+    link: 'https://www.linkedin.com/in/emanueleparrinello/',
   },
   {
-    logo: AppleMusicLogo,
-    link: 'https://www.apple.com/in/music/',
+    logo: GithubLogo,
+    link: 'https://github.com/parry84',
   },
   {
-    logo: CokeLogo,
-    link: 'https://coca-cola.com',
+    logo: FivehundredPxLogo,
+    link: 'https://500px.com/parry84',
   },
   {
-    logo: NodeLogo,
-    link: 'https://nodejs.org',
-  },
-  {
-    logo: NikeLogo,
-    link: 'https://nike.com',
+    logo: FacebookLogo,
+    link: 'https://www.facebook.com/emanuele.parrinello',
   },
   {
     logo: InstagramLogo,
-    link: 'https://instagram.com',
+    link: 'https://instagram.com/elparro84/',
   },
 ];
 
@@ -46,7 +42,7 @@ const UsedBy = () => (
       query {
         art_story: file(
           sourceInstanceName: { eq: "art" }
-          name: { eq: "tell_story" }
+          name: { eq: "team_work" }
         ) {
           childImageSharp {
             fluid(maxWidth: 1200) {
@@ -60,7 +56,7 @@ const UsedBy = () => (
       <Section id="brands" accent>
         <StyledContainer>
           <div>
-            <h1>Used by biggest in tech</h1>
+            <h1>Follow me</h1>
             <LogoGrid>
               {LOGOS.map(({ logo, link }) => (
                 <ExternalLink href={link}>{logo()}</ExternalLink>
@@ -85,7 +81,7 @@ const LogoGrid = styled.div`
 
   a {
     svg {
-      width: 100%;
+      width: 212px;
     }
   }
 
@@ -105,7 +101,7 @@ const StyledContainer = styled(Container)`
 `;
 
 const Art = styled.figure`
-  width: 600px;
+  width: 400px;
   position: absolute;
   top: -12%;
   right: 50%;
