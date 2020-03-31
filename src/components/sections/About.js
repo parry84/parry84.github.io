@@ -77,10 +77,10 @@ const About = () => (
             <div>
               <h2>Around the world</h2>
               <p>
-                I often need to flee the chaotic street of Milan,
+                I often need to flee the chaotic streets of Milan,
                 just to get lost in the wilderness of the nearby Alps.
                 I always carry my reflex with me.
-                My dream is to visit Patagonia.
+                My dream is to see the Aurora Borealis some day.
               </p>
             </div>
             <Art>
