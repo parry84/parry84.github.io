@@ -9,9 +9,9 @@ import ExternalLink from '@common/ExternalLink';
 import { ReactComponent as FacebookLogo } from '@images/logos/facebook.svg';
 import { ReactComponent as LinkedinLogo } from '@images/logos/linkedin.svg';
 import { ReactComponent as GithubLogo } from '@images/logos/github.svg';
-import { ReactComponent as FivehundredPxLogo } from '@images/logos/500px.svg';
-import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
+import { ReactComponent as FiveHundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
+import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
 
 const LOGOS = [
   {
@@ -23,7 +23,7 @@ const LOGOS = [
     link: 'https://github.com/parry84',
   },
   {
-    logo: FivehundredPxLogo,
+    logo: FiveHundredPxLogo,
     link: 'https://500px.com/parry84',
   },
   {
@@ -33,6 +33,10 @@ const LOGOS = [
   {
     logo: InstagramLogo,
     link: 'https://instagram.com/elparro84/',
+  },
+  {
+    logo: MyHeritageLogo,
+    link: 'https://www.myheritage.com/site-148248461/parry-family-tree',
   },
 ];
 
