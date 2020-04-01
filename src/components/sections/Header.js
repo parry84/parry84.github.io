@@ -15,7 +15,7 @@ const Header = () => (
           name: { eq: "me" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 1400) {
+            fluid(maxWidth: 1500) {
               ...GatsbyImageSharpFluid_withWebp_tracedSVG
             }
           }
@@ -57,12 +57,12 @@ const HeaderWrapper = styled.header`
 `;
 
 const Art = styled.figure`
-  width: 100%;
+  width: 80%;
   margin: 0;
 
   > div {
     width: 120%;
-    margin-bottom: -4.5%;
+    margin-bottom: 10%;
 
     @media (max-width: ${props => props.theme.screen.md}) {
       width: 100%;
