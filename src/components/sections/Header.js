@@ -63,6 +63,7 @@ const Art = styled.figure`
   > div {
     width: 100%;
     margin-bottom: 25%;
+    margin-left: 25%;
 
     @media (max-width: ${props => props.theme.screen.md}) {
       width: 100%;
