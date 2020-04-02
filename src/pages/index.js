@@ -12,12 +12,9 @@ import Footer from '@sections/Footer';
 
 const IndexPage = () => (
   <Layout>
-    <Navbar />
     <Header />
     <About />
     <Brands />
-    {/*<Team />
-    <Faq />*/}
     <Footer />
   </Layout>
 );
