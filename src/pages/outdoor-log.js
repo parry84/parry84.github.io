@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import Layout from '@common/Layout';
 import { Container } from '@components/global';
 
-const OutdoorLog = () => (
+const SecondPage = () => (
   <Layout>
     <Container>
       <h1>The Outdoor Log</h1>
@@ -15,4 +15,4 @@ const OutdoorLog = () => (
   </Layout>
 );
 
-export default OutdoorLog;
+export default SecondPage;
