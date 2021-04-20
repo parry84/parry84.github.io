@@ -14,10 +14,10 @@ const OutdoorLog = () => (
       <h2>Run the following program to generate my contact information:</h2>
       <SyntaxHighlighter language="racket" style={github}>
 {`#lang racket
-(define A (char->integer #\A))
-(define Z (char->integer #\Z))
-(define a (char->integer #\a))
-(define z (char->integer #\z))
+(define A (char->integer #\\A))
+(define Z (char->integer #\\Z))
+(define a (char->integer #\\a))
+(define z (char->integer #\\z))
  
 (define (rotate c)
   (define cnum (char->integer c))
