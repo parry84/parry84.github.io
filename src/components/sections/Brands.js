@@ -12,6 +12,8 @@ import { ReactComponent as GithubLogo } from '@images/logos/github.svg';
 import { ReactComponent as FiveHundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
+import { ReactComponent as GmailLogo } from '@images/logos/gmail.svg';
+
 
 const LOGOS = [
   {
@@ -66,11 +68,17 @@ const UsedBy = () => (
                 <ExternalLink href={link}>{logo()}</ExternalLink>
               ))}
             </LogoGrid>
+            <LogoGrid>
+              <h2>
+                <a href="/contacts">Or contact me</a>
+              </h2>
+            </LogoGrid>
           </div>
           <Art>
             <Img fluid={data.art_story.childImageSharp.fluid} />
           </Art>
         </StyledContainer>
+
       </Section>
     )}
   />
