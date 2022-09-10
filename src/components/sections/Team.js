@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Section, Container } from '@components/global';
 
@@ -47,9 +47,7 @@ const Team = () => (
             node {
               relativePath
               childImageSharp {
-                fluid(maxWidth: 400, maxHeight: 400) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(layout: CONSTRAINED)
               }
             }
           }
@@ -59,9 +57,7 @@ const Team = () => (
           name: { eq: "team_work" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 1600) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
@@ -78,7 +74,7 @@ const Team = () => (
 
               return (
                 <div>
-                  <Img fluid={img.childImageSharp.fluid} alt={name} />
+                  <GatsbyImage image={img.childImageSharp.gatsbyImageData} alt={name} />
                   <Title>{name}</Title>
                   <Subtitle>{role}</Subtitle>
                 </div>
@@ -86,10 +82,10 @@ const Team = () => (
             })}
           </TeamGrid>
           <Art>
-            <Img fluid={data.art_team.childImageSharp.fluid} />
+            <GatsbyImage image={data.art_team.childImageSharp.gatsbyImageData} />
           </Art>
           <ArtMobile>
-            <Img fluid={data.art_team.childImageSharp.fluid} />
+            <GatsbyImage image={data.art_team.childImageSharp.gatsbyImageData} />
           </ArtMobile>
         </Container>
       </Section>

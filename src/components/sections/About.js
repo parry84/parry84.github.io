@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Section, Container } from '@components/global';
 
@@ -14,9 +14,7 @@ const About = () => (
           name: { eq: "build" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 760) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
 
@@ -25,9 +23,7 @@ const About = () => (
           name: { eq: "learn_yourself" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 760) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
 
@@ -36,9 +32,7 @@ const About = () => (
           name: { eq: "travel" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 760) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
@@ -57,12 +51,12 @@ const About = () => (
               </p>
             </div>
             <Art>
-              <Img fluid={data.art_fast.childImageSharp.fluid} />
+              <GatsbyImage image={data.art_fast.childImageSharp.gatsbyImageData} />
             </Art>
           </Grid>
           <Grid inverse>
             <Art>
-              <Img fluid={data.art_learn.childImageSharp.fluid} />
+              <GatsbyImage image={data.art_learn.childImageSharp.gatsbyImageData} />
             </Art>
             <div>
               <h2>Crema</h2>
@@ -84,7 +78,7 @@ const About = () => (
               </p>
             </div>
             <Art>
-              <Img fluid={data.art_ideas.childImageSharp.fluid} />
+              <GatsbyImage image={data.art_ideas.childImageSharp.gatsbyImageData} />
             </Art>
           </Grid>
         </Container>

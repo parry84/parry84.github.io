@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Section, Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
@@ -12,7 +12,6 @@ import { ReactComponent as GithubLogo } from '@images/logos/github.svg';
 import { ReactComponent as FiveHundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
-import { ReactComponent as GmailLogo } from '@images/logos/gmail.svg';
 
 
 const LOGOS = [
@@ -51,9 +50,7 @@ const UsedBy = () => (
           name: { eq: "team_work" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 1200) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
@@ -75,7 +72,7 @@ const UsedBy = () => (
             </LogoGrid>
           </div>
           <Art>
-            <Img fluid={data.art_story.childImageSharp.fluid} />
+            <GatsbyImage image={data.art_story.childImageSharp.gatsbyImageData} />
           </Art>
         </StyledContainer>
 

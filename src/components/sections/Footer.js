@@ -1,15 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
 
 import { Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
-
-import GithubIcon from '@static/icons/github.svg';
-import InstagramIcon from '@static/icons/instagram.svg';
-import FacebookIcon from '@static/icons/facebook.svg';
-import FiveHundredPxIcon from '@static/icons/500px.svg';
 
 const SOCIAL = [
 

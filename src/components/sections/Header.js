@@ -1,10 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Container } from '@components/global';
-import ExternalLink from '@common/ExternalLink';
 
 const Header = () => (
   <StaticQuery
@@ -15,9 +14,7 @@ const Header = () => (
           name: { eq: "me" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 1500) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
+            gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
@@ -27,7 +24,7 @@ const Header = () => (
         <Container>
           <Grid>
             <Art>
-              <Img fluid={data.art_me.childImageSharp.fluid} />
+              <GatsbyImage image={data.art_me.childImageSharp.gatsbyImageData} />
             </Art>
             <Text>
               <h1>
@@ -92,15 +89,6 @@ const Text = styled.div`
 
   @media (max-width: ${props => props.theme.screen.md}) {
     justify-self: start;
-  }
-`;
-
-const StyledExternalLink = styled(ExternalLink)`
-  color: inherit;
-  text-decoration: none;
-
-  &:hover {
-    color: ${props => props.theme.color.black.regular};
   }
 `;
 
