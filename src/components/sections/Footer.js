@@ -24,7 +24,7 @@ const Footer = () => (
     render={data => (
       <React.Fragment>
         <Art>
-          <video id="background-video-1" playsinline autoPlay loop muted webkit-playsinline width="480">
+          <video id="background-video-1" playsInline autoPlay loop muted webkit-playsinline="true" width="480">
              <source src={data.art_pot.publicURL} type="video/mp4" />
           </video>
         </Art>

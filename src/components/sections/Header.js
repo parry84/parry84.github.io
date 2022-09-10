@@ -24,7 +24,7 @@ const Header = () => (
         <Container>
           <Grid>
             <Art>
-              <GatsbyImage image={data.art_me.childImageSharp.gatsbyImageData} />
+              <GatsbyImage image={data.art_me.childImageSharp.gatsbyImageData} alt="" />
             </Art>
             <Text>
               <h1>

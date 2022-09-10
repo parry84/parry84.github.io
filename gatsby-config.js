@@ -2,45 +2,46 @@ const path = require('path');
 
 module.exports = {
   plugins: [
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-svgr`,
-    `gatsby-plugin-styled-components`,
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-svgr',
+    'gatsby-plugin-styled-components',
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: `team`,
+        name: 'team',
         path: `${__dirname}/src/images/team`,
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: `art`,
+        name: 'art',
         path: `${__dirname}/src/images/art`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    'gatsby-plugin-image',
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: 'gatsby-plugin-manifest',
       options: {
-        name: `Absurd`,
-        short_name: `absurd`,
-        start_url: `/`,
-        background_color: `#8bd8ed`,
-        theme_color: `#8bd8ed`,
-        display: `minimal-ui`,
-        icon: `static/favicon.svg`,
+        name: 'Absurd',
+        short_name: 'absurd',
+        start_url: '/',
+        background_color: '#8bd8ed',
+        theme_color: '#8bd8ed',
+        display: 'minimal-ui',
+        icon: 'static/favicon.svg',
       },
     },
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: [`average`, `prata\:400,700`],
+        fonts: ['average', 'prata\:400,700'],
       },
     },
     {
-      resolve: `gatsby-plugin-alias-imports`,
+      resolve: 'gatsby-plugin-alias-imports',
       options: {
         alias: {
           '@components': path.resolve(__dirname, 'src/components'),
@@ -53,9 +54,9 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-google-tagmanager",
+      resolve: 'gatsby-plugin-google-tagmanager',
       options: {
-        id: "GTM-NCXS6P7",
+        id: 'GTM-NCXS6P7',
         includeInDevelopment: true,
         enableWebVitalsTracking: true,
       },

@@ -72,7 +72,7 @@ const UsedBy = () => (
             </LogoGrid>
           </div>
           <Art>
-            <GatsbyImage image={data.art_story.childImageSharp.gatsbyImageData} />
+            <GatsbyImage image={data.art_story.childImageSharp.gatsbyImageData} alt="" />
           </Art>
         </StyledContainer>
 

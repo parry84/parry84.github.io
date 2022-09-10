@@ -51,12 +51,12 @@ const About = () => (
               </p>
             </div>
             <Art>
-              <GatsbyImage image={data.art_fast.childImageSharp.gatsbyImageData} />
+              <GatsbyImage image={data.art_fast.childImageSharp.gatsbyImageData} alt="" />
             </Art>
           </Grid>
           <Grid inverse>
             <Art>
-              <GatsbyImage image={data.art_learn.childImageSharp.gatsbyImageData} />
+              <GatsbyImage image={data.art_learn.childImageSharp.gatsbyImageData} alt="" />
             </Art>
             <div>
               <h2>Crema</h2>
@@ -78,7 +78,7 @@ const About = () => (
               </p>
             </div>
             <Art>
-              <GatsbyImage image={data.art_ideas.childImageSharp.gatsbyImageData} />
+              <GatsbyImage image={data.art_ideas.childImageSharp.gatsbyImageData} alt="" />
             </Art>
           </Grid>
         </Container>

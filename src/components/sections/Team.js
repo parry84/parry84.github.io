@@ -82,10 +82,10 @@ const Team = () => (
             })}
           </TeamGrid>
           <Art>
-            <GatsbyImage image={data.art_team.childImageSharp.gatsbyImageData} />
+            <GatsbyImage image={data.art_team.childImageSharp.gatsbyImageData} alt="" />
           </Art>
           <ArtMobile>
-            <GatsbyImage image={data.art_team.childImageSharp.gatsbyImageData} />
+            <GatsbyImage image={data.art_team.childImageSharp.gatsbyImageData} alt="" />
           </ArtMobile>
         </Container>
       </Section>
