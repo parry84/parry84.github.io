@@ -37,7 +37,7 @@ const Footer = () => (
         <FooterWrapper>
           <StyledContainer>
             <Copyright>
-              <h2>© Emanuele Parrinello 2020</h2>
+              <h2>© Emanuele Parrinello 2022</h2>
             </Copyright>
             <SocialIcons>
               {SOCIAL.map(({ icon, link }) => (

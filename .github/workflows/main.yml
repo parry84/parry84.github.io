@@ -4,7 +4,7 @@ on: [push, repository_dispatch]
 
 jobs:
   update:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v1
