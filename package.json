@@ -1,7 +1,7 @@
 {
   "name": "parry84-site",
   "private": true,
-  "description": "Parry84 personal site",
+  "description": "parry84 personal site",
   "version": "0.2.0",
   "author": "Emanuele Parrinello <parry84@gmail.com>",
   "homepage": "https://parry84.github.io",
@@ -10,7 +10,7 @@
     "gatsby": "^4.22.1",
     "gatsby-cli": "^4.22.1",
     "gatsby-plugin-alias-imports": "^1.0.5",
-    "gatsby-plugin-google-analytics": "^4.22.0",
+    "gatsby-plugin-google-tagmanager": "^4.22.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-image": "^2.22.0",
     "gatsby-plugin-manifest": "^4.22.0",
@@ -37,11 +37,11 @@
   "license": "UNLICENSED",
   "scripts": {
     "build": "gatsby build",
-    "dev": "gatsby develop",
-    "start": "npm run dev",
-    "format": "prettier --write \"src/**/*.js\"",
-    "clean": "rm -rf .cache && rm -rf public",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages --dist public --branch master",
+    "format": "prettier --write \"src/**/*.js\""
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
