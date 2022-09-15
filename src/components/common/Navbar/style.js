@@ -4,7 +4,7 @@ import { Container } from '@components/global';
 
 export const Nav = styled.nav`
   padding: 16px 0;
-  background-color: ${props => props.theme.color.primary};
+  background-color: ${(props) => props.theme.color.primary};
   position: fixed;
   width: 100%;
   top: 0;
@@ -41,13 +41,13 @@ export const NavListWrapper = styled.div`
 
 export const NavItem = styled.li`
   margin: 0 0.75em;
-  font-family: ${props => props.theme.font.secondary};
-  ${props => props.theme.font_size.small};
+  font-family: ${(props) => props.theme.font.secondary};
+  ${(props) => props.theme.font_size.small};
 
   a {
     text-decoration: none;
     opacity: 0.7;
-    color: ${props => props.theme.color.black.regular};
+    color: ${(props) => props.theme.color.black.regular};
   }
 
   &.active {
@@ -59,22 +59,22 @@ export const NavItem = styled.li`
 
 export const MobileMenu = styled.div`
   width: 100%;
-  background: ${props => props.theme.color.primary};
+  background: ${(props) => props.theme.color.primary};
 `;
 
 export const Brand = styled.div`
-  font-family: ${props => props.theme.font.primary};
-  ${props => props.theme.font_size.large};
+  font-family: ${(props) => props.theme.font.primary};
+  ${(props) => props.theme.font_size.large};
 `;
 
 export const Mobile = styled.div`
   display: none;
 
-  @media (max-width: ${props => props.theme.screen.md}) {
+  @media (max-width: ${(props) => props.theme.screen.md}) {
     display: block;
   }
 
-  ${props =>
+  ${(props) =>
     props.hide &&
     `
     display: block;

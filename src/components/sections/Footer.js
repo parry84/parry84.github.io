@@ -5,27 +5,30 @@ import { StaticQuery, graphql } from 'gatsby';
 import { Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
 
-const SOCIAL = [
-
-];
+const SOCIAL = [];
 
 const Footer = () => (
   <StaticQuery
     query={graphql`
       query {
-        art_pot: file(
-          sourceInstanceName: { eq: "art" }
-          name: { eq: "lightbulb" }
-        ) {
+        art_pot: file(sourceInstanceName: { eq: "art" }, name: { eq: "lightbulb" }) {
           publicURL
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <React.Fragment>
         <Art>
-          <video id="background-video-1" playsInline autoPlay loop muted webkit-playsinline="true" width="480">
-             <source src={data.art_pot.publicURL} type="video/mp4" />
+          <video
+            id="background-video-1"
+            playsInline
+            autoPlay
+            loop
+            muted
+            webkit-playsinline="true"
+            width="480"
+          >
+            <source src={data.art_pot.publicURL} type="video/mp4" />
           </video>
         </Art>
         <FooterWrapper>
@@ -56,20 +59,20 @@ const SocialIcons = styled.div`
     height: 24px;
   }
 
-  @media (max-width: ${props => props.theme.screen.sm}) {
+  @media (max-width: ${(props) => props.theme.screen.sm}) {
     margin-top: 40px;
   }
 `;
 
 const FooterWrapper = styled.footer`
-  background-color: ${props => props.theme.color.primary};
+  background-color: ${(props) => props.theme.color.primary};
   padding: 32px 0;
 `;
 
 const Copyright = styled.div`
-  font-family: ${props => props.theme.font.secondary};
-  ${props => props.theme.font_size.small};
-  color: ${props => props.theme.color.black.regular};
+  font-family: ${(props) => props.theme.font.secondary};
+  ${(props) => props.theme.font_size.small};
+  color: ${(props) => props.theme.color.black.regular};
 
   a {
     text-decoration: none;
@@ -89,7 +92,7 @@ const StyledContainer = styled(Container)`
   justify-content: space-between;
   align-items: center;
 
-  @media (max-width: ${props => props.theme.screen.sm}) {
+  @media (max-width: ${(props) => props.theme.screen.sm}) {
     flex-direction: column;
     text-align: center;
   }

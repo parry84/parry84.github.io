@@ -13,7 +13,7 @@ const OutdoorLog = () => (
       <Link to="/">Go back to the homepage</Link>
       <h2>Run the following program to generate my contact information:</h2>
       <SyntaxHighlighter language="racket" style={github}>
-{`#lang racket
+        {`#lang racket
 (define A (char->integer #\\A))
 (define Z (char->integer #\\Z))
 (define a (char->integer #\\a))
@@ -33,7 +33,7 @@ const OutdoorLog = () => (
       </SyntaxHighlighter>
       <h2>My PGP key</h2>
       <pre>
-{`-----BEGIN PGP PUBLIC KEY BLOCK-----
+        {`-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF1LByEBEAC0Fn8I+zDgGHazHTTGT6Hp+2v8PDtnRv1GjaVkch/HEhiiAlmK
 ZymhjY8/AVmrIRpiUafnb7PHUouGvwz3unsTsWS6zv3thrfwApkcc9fdE/INBxec

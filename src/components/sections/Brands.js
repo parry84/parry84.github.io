@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import { GatsbyImage } from "gatsby-plugin-image"
+import { GatsbyImage } from 'gatsby-plugin-image';
 
 import { Section, Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
@@ -12,7 +12,6 @@ import { ReactComponent as GithubLogo } from '@images/logos/github.svg';
 import { ReactComponent as FiveHundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
-
 
 const LOGOS = [
   {
@@ -45,17 +44,14 @@ const UsedBy = () => (
   <StaticQuery
     query={graphql`
       query {
-        art_story: file(
-          sourceInstanceName: { eq: "art" }
-          name: { eq: "team_work" }
-        ) {
+        art_story: file(sourceInstanceName: { eq: "art" }, name: { eq: "team_work" }) {
           childImageSharp {
             gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <Section id="brands" accent>
         <StyledContainer>
           <div>
@@ -75,7 +71,6 @@ const UsedBy = () => (
             <GatsbyImage image={data.art_story.childImageSharp.gatsbyImageData} alt="" />
           </Art>
         </StyledContainer>
-
       </Section>
     )}
   />
@@ -94,7 +89,7 @@ const LogoGrid = styled.div`
     }
   }
 
-  @media (max-width: ${props => props.theme.screen.sm}) {
+  @media (max-width: ${(props) => props.theme.screen.sm}) {
     grid-template-columns: 1fr;
   }
 `;
@@ -104,7 +99,7 @@ const StyledContainer = styled(Container)`
   justify-content: flex-end;
   position: relative;
 
-  @media (max-width: ${props => props.theme.screen.md}) {
+  @media (max-width: ${(props) => props.theme.screen.md}) {
     justify-content: center;
   }
 `;
@@ -115,13 +110,13 @@ const Art = styled.figure`
   top: -12%;
   right: 50%;
 
-  @media (max-width: ${props => props.theme.screen.lg}) {
+  @media (max-width: ${(props) => props.theme.screen.lg}) {
     top: 0;
     right: 65%;
     width: 500px;
   }
 
-  @media (max-width: ${props => props.theme.screen.md}) {
+  @media (max-width: ${(props) => props.theme.screen.md}) {
     display: none;
   }
 `;

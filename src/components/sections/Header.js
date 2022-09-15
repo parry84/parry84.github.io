@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import { GatsbyImage } from "gatsby-plugin-image"
+import { GatsbyImage } from 'gatsby-plugin-image';
 
 import { Container } from '@components/global';
 
@@ -9,17 +9,14 @@ const Header = () => (
   <StaticQuery
     query={graphql`
       query {
-        art_me: file(
-          sourceInstanceName: { eq: "art" }
-          name: { eq: "me" }
-        ) {
+        art_me: file(sourceInstanceName: { eq: "art" }, name: { eq: "me" }) {
           childImageSharp {
             gatsbyImageData(layout: CONSTRAINED)
           }
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <HeaderWrapper>
         <Container>
           <Grid>
@@ -35,7 +32,6 @@ const Header = () => (
                 Welcome!
               </h1>
               <br />
-    
             </Text>
           </Grid>
         </Container>
@@ -45,10 +41,10 @@ const Header = () => (
 );
 
 const HeaderWrapper = styled.header`
-  background-color: ${props => props.theme.color.primary};
+  background-color: ${(props) => props.theme.color.primary};
   padding-top: 96px;
 
-  @media (max-width: ${props => props.theme.screen.md}) {
+  @media (max-width: ${(props) => props.theme.screen.md}) {
     padding-top: 128px;
   }
 `;
@@ -62,7 +58,7 @@ const Art = styled.figure`
     margin-bottom: 25%;
     margin-left: 25%;
 
-    @media (max-width: ${props => props.theme.screen.md}) {
+    @media (max-width: ${(props) => props.theme.screen.md}) {
       width: 100%;
     }
   }
@@ -74,7 +70,7 @@ const Grid = styled.div`
   align-items: center;
   grid-gap: 64px;
 
-  @media (max-width: ${props => props.theme.screen.md}) {
+  @media (max-width: ${(props) => props.theme.screen.md}) {
     grid-template-columns: 1fr;
     grid-gap: 80px;
 
@@ -87,7 +83,7 @@ const Grid = styled.div`
 const Text = styled.div`
   justify-self: center;
 
-  @media (max-width: ${props => props.theme.screen.md}) {
+  @media (max-width: ${(props) => props.theme.screen.md}) {
     justify-self: start;
   }
 `;

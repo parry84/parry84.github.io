@@ -9,15 +9,9 @@ const OutdoorLog = () => (
     <Container>
       <h1>Me</h1>
       <p>
-      🎯 Personal roadmap
-        Technical:
-        - Haskell: learn STM, Lenses, GADT, Effects, Generic Programming
-        - Learn Smalltalk for OOP
-        - Learn Racket and Common Lisp
-        - Read Structure and Interpretation of Programs
-        Non technical
-        - DELE B2
-        - Read Cien anos del soledad
+        🎯 Personal roadmap Technical: - Haskell: learn STM, Lenses, GADT, Effects, Generic
+        Programming - Learn Smalltalk for OOP - Learn Racket and Common Lisp - Read Structure and
+        Interpretation of Programs Non technical - DELE B2 - Read Cien anos del soledad
       </p>
       <Link to="/">Go back to the homepage</Link>
     </Container>

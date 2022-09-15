@@ -1,4 +1,3 @@
-
 const theme = {
   font: {
     primary: `'Amatic SC'`,

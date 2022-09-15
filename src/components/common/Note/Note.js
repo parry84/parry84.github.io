@@ -1,13 +1,13 @@
-import React from "react"
-import { graphql } from "gatsby"
-import { MDXProvider } from "@mdx-js/react"
+import React from 'react';
+import { graphql } from 'gatsby';
+import { MDXProvider } from '@mdx-js/react';
 import { ThemeProvider } from 'styled-components';
-import { Link } from "gatsby"
+import { Link } from 'gatsby';
 
 import theme from '@styles/theme';
 import GlobalStyles from '@styles/GlobalStyles';
 
-const shortcodes = { Link }
+const shortcodes = { Link };
 
 export default function PageTemplate({ data, children }) {
   return (
@@ -15,19 +15,17 @@ export default function PageTemplate({ data, children }) {
       <GlobalStyles />
       <h1>{data.mdx.frontmatter.title}</h1>
       <Link to="/notes">all notes</Link>
-      <MDXProvider components={shortcodes}>
-        {children}
-      </MDXProvider>
+      <MDXProvider components={shortcodes}>{children}</MDXProvider>
     </ThemeProvider>
-  )
+  );
 }
 
 export const query = graphql`
-  query($id: String!) {
+  query ($id: String!) {
     mdx(id: { eq: $id }) {
       frontmatter {
         title
       }
     }
   }
-`
+`;
