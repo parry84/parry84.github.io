@@ -6,7 +6,6 @@ const normalize = `
 
 const GlobalStyles = createGlobalStyle`
   ${normalize};
-  @import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Dosis:400,500,700&subset=latin,latin-ext');
 
   body {
     font-family: ${(props) => props.theme.font.secondary};

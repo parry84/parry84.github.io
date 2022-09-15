@@ -36,6 +36,10 @@ const SEO = () => {
       <meta name="keywords" content={SEO_DATA.keywords.join(', ')} />
       <meta name="author" content={SEO_DATA.author} />
       <title>{SEO_DATA.title}</title>
+      <link
+        href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Dosis:400,500,700&subset=latin,latin-ext"
+        rel="stylesheet"
+      />
       <html lang="en" />
     </Helmet>
   );
