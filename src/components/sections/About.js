@@ -1,78 +1,56 @@
 import React from 'react';
 import styled from 'styled-components';
-import { StaticQuery, graphql } from 'gatsby';
-import { GatsbyImage } from 'gatsby-plugin-image';
+import { StaticImage } from 'gatsby-plugin-image';
 
 import { Section, Container } from '@components/global';
 
 const About = () => (
-  <StaticQuery
-    query={graphql`
-      query {
-        art_fast: file(sourceInstanceName: { eq: "art" }, name: { eq: "build" }) {
-          childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED)
-          }
-        }
-
-        art_learn: file(sourceInstanceName: { eq: "art" }, name: { eq: "learn_yourself" }) {
-          childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED)
-          }
-        }
-
-        art_ideas: file(sourceInstanceName: { eq: "art" }, name: { eq: "travel" }) {
-          childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED)
-          }
-        }
-      }
-    `}
-    render={(data) => (
-      <Section id="about">
-        <Container>
-          <Grid>
-            <div>
-              <h2>Hi</h2>
-              <p>
-                My name is Emanuele Parrinello. I live in Milan, Italy. I moved here in 2010 just
-                after graduating in Computer Engineering. During these years I worked as a
-                developer, with a focus on digital electronics, cryptography and cybersecurity.
-              </p>
-            </div>
-            <Art>
-              <GatsbyImage image={data.art_fast.childImageSharp.gatsbyImageData} alt="" />
-            </Art>
-          </Grid>
-          <Grid inverse>
-            <Art>
-              <GatsbyImage image={data.art_learn.childImageSharp.gatsbyImageData} alt="" />
-            </Art>
-            <div>
-              <h2>Crema</h2>
-              <p>
-                I was born in Crema. I've always been a curious person and an avid learner.
-                Programming, physics, energy are among the topics that intrigue me.
-              </p>
-            </div>
-          </Grid>
-          <Grid>
-            <div>
-              <h2>Around the world</h2>
-              <p>
-                I often need to flee the chaotic streets of Milan, just to get lost in the{' '}
-                <a href="/outdoor-log">wilderness of the nearby Alps</a>. I always carry my reflex
-                with me. My dream is to see the Aurora Borealis some day.
-              </p>
-            </div>
-            <Art>
-              <GatsbyImage image={data.art_ideas.childImageSharp.gatsbyImageData} alt="" />
-            </Art>
-          </Grid>
-        </Container>
-      </Section>
-    )}
-  />
+  <Section id="about">
+    <Container>
+      <Grid>
+        <div>
+          <h2>Hi</h2>
+          <p>
+            My name is Emanuele Parrinello. I live in Milan, Italy. I moved here in 2010 just after
+            graduating in Computer Engineering. During these years I worked as a developer, with a
+            focus on digital electronics, cryptography and cybersecurity.
+          </p>
+        </div>
+        <Art>
+          <StaticImage src="../../images/art/fast.png" placeholder="tracedSVG" alt="fast" />
+        </Art>
+      </Grid>
+      <Grid inverse>
+        <Art>
+          <StaticImage
+            src="../../images/art/learn_yourself.png"
+            placeholder="tracedSVG"
+            alt="learn"
+          />
+        </Art>
+        <div>
+          <h2>Crema</h2>
+          <p>
+            I was born in Crema. I've always been a curious person and an avid learner. Programming,
+            physics, energy are among the topics that intrigue me.
+          </p>
+        </div>
+      </Grid>
+      <Grid>
+        <div>
+          <h2>Around the world</h2>
+          <p>
+            I often need to flee the chaotic streets of Milan, just to get lost in the{' '}
+            <a href="/outdoor-log">wilderness of the nearby Alps</a>. I always carry my reflex with
+            me. My dream is to see the Aurora Borealis some day.
+          </p>
+        </div>
+        <Art>
+          <StaticImage src="../../images/art/travel.png" placeholder="tracedSVG" alt="travel" />
+        </Art>
+      </Grid>
+    </Container>
+  </Section>
 );
 
 const Grid = styled.div`

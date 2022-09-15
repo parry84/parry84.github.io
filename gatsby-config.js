@@ -68,13 +68,6 @@ module.exports = {
         path: `${__dirname}/src/notes/`,
       },
     },
-    {
-      resolve: 'gatsby-plugin-mdx',
-      options: {
-        defaultLayouts: {
-          posts: require.resolve('./src/components/common/Note/index.js'),
-        },
-      },
-    },
+    'gatsby-plugin-mdx',
   ],
 };

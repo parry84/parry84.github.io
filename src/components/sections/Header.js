@@ -1,43 +1,33 @@
 import React from 'react';
 import styled from 'styled-components';
-import { StaticQuery, graphql } from 'gatsby';
-import { GatsbyImage } from 'gatsby-plugin-image';
+import { StaticImage } from 'gatsby-plugin-image';
 
 import { Container } from '@components/global';
 
 const Header = () => (
-  <StaticQuery
-    query={graphql`
-      query {
-        art_me: file(sourceInstanceName: { eq: "art" }, name: { eq: "me" }) {
-          childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED)
-          }
-        }
-      }
-    `}
-    render={(data) => (
-      <HeaderWrapper>
-        <Container>
-          <Grid>
-            <Art>
-              <GatsbyImage image={data.art_me.childImageSharp.gatsbyImageData} alt="" />
-            </Art>
-            <Text>
-              <h1>
-                Hey,
-                <br />
-                I'm Emanuele.
-                <br />
-                Welcome!
-              </h1>
-              <br />
-            </Text>
-          </Grid>
-        </Container>
-      </HeaderWrapper>
-    )}
-  />
+  <HeaderWrapper>
+    <Container>
+      <Grid>
+        <Art>
+          <StaticImage
+            src="../../images/art/me.png"
+            placeholder="blurred"
+            alt="Emanuele Parrinello"
+          />
+        </Art>
+        <Text>
+          <h1>
+            Hey,
+            <br />
+            I'm Emanuele.
+            <br />
+            Welcome!
+          </h1>
+          <br />
+        </Text>
+      </Grid>
+    </Container>
+  </HeaderWrapper>
 );
 
 const HeaderWrapper = styled.header`

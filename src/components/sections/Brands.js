@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { StaticQuery, graphql } from 'gatsby';
-import { GatsbyImage } from 'gatsby-plugin-image';
+import { StaticImage } from 'gatsby-plugin-image';
 
 import { Section, Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
@@ -41,39 +40,28 @@ const LOGOS = [
 ];
 
 const UsedBy = () => (
-  <StaticQuery
-    query={graphql`
-      query {
-        art_story: file(sourceInstanceName: { eq: "art" }, name: { eq: "team_work" }) {
-          childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED)
-          }
-        }
-      }
-    `}
-    render={(data) => (
-      <Section id="brands" accent>
-        <StyledContainer>
-          <div>
-            <h1>Follow me</h1>
-            <LogoGrid>
-              {LOGOS.map(({ logo, link }) => (
-                <ExternalLink href={link}>{logo()}</ExternalLink>
-              ))}
-            </LogoGrid>
-            <LogoGrid>
-              <h2>
-                <a href="/contacts">Or contact me</a>
-              </h2>
-            </LogoGrid>
-          </div>
-          <Art>
-            <GatsbyImage image={data.art_story.childImageSharp.gatsbyImageData} alt="" />
-          </Art>
-        </StyledContainer>
-      </Section>
-    )}
-  />
+  <Section id="contacts" accent>
+    <StyledContainer>
+      <div>
+        <h1>Follow me</h1>
+        <LogoGrid>
+          {LOGOS.map(({ logo, link }) => (
+            <ExternalLink key={logo} href={link}>
+              {logo()}
+            </ExternalLink>
+          ))}
+        </LogoGrid>
+        <LogoGrid>
+          <h2>
+            <a href="/contacts">Or contact me</a>
+          </h2>
+        </LogoGrid>
+      </div>
+      <Art>
+        <StaticImage src="../../images/art/team_work.png" placeholder="tracedSVG" alt="Contacts" />
+      </Art>
+    </StyledContainer>
+  </Section>
 );
 
 const LogoGrid = styled.div`

@@ -39,8 +39,8 @@
   ],
   "license": "UNLICENSED",
   "scripts": {
+    "develop": "gatsby develop",
     "build": "gatsby build",
-    "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "deploy": "gatsby build && gh-pages --dist public --branch master",
