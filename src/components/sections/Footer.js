@@ -35,6 +35,10 @@ const Footer = () => (
           <StyledContainer>
             <Copyright>
               <h2>© Emanuele Parrinello 2022</h2>
+              <div>
+                Illustration(s) from{' '}
+                <ExternalLink href="https://absurd.design">absurd.design</ExternalLink>.
+              </div>
             </Copyright>
             <SocialIcons>
               {SOCIAL.map(({ icon, link }) => (
