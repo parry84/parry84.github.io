@@ -6,7 +6,7 @@ import { Link } from 'gatsby';
 import Layout from '@common/Layout';
 import { Container } from '@components/global';
 
-const OutdoorLog = () => (
+const ContactPage = () => (
   <Layout>
     <Container>
       <h1>Contact me</h1>
@@ -89,4 +89,4 @@ hjISuqGIMXZl47/FsoiWPL4z2OAWU5fZeEZJ5If6xzl41u4liWA=
   </Layout>
 );
 
-export default OutdoorLog;
+export default ContactPage;

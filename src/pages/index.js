@@ -7,7 +7,7 @@ import About from '@sections/About';
 import Brands from '@sections/Brands';
 import Footer from '@sections/Footer';
 
-const IndexPage = () => (
+const HomePage = () => (
   <Layout>
     <Header />
     <About />
@@ -16,4 +16,4 @@ const IndexPage = () => (
   </Layout>
 );
 
-export default IndexPage;
+export default HomePage;
