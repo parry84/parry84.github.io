@@ -6,8 +6,8 @@ import { Container } from '@components/global';
 
 const Notes = () => {
   const data = useStaticQuery(graphql`
-    query GetBlogPosts {
-      allMdx {
+    query {
+      allMarkdownRemark {
         nodes {
           id
           frontmatter {
@@ -19,7 +19,7 @@ const Notes = () => {
     }
   `);
 
-  const posts = data.allMdx.nodes;
+  const posts = data.allMarkdownRemark.nodes;
 
   return (
     <Layout>
@@ -28,7 +28,7 @@ const Notes = () => {
         <p></p>
         <Link to="/">Go back to the homepage</Link>
         <ul>
-          {posts.map((post) => (
+          {posts.filter(() => false).map((post) => (
             <li key={post.id}>
               <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>{' '}
             </li>

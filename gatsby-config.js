@@ -68,6 +68,11 @@ module.exports = {
         path: `${__dirname}/src/notes/`,
       },
     },
-    'gatsby-plugin-mdx',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: ['gatsby-remark-bibliography']
+      }
+    }
   ],
 };

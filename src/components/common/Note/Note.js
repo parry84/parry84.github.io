@@ -1,28 +1,30 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { MDXProvider } from '@mdx-js/react';
-import { ThemeProvider } from 'styled-components';
-import { Link } from 'gatsby';
+import Layout from '@common/Layout';
+import { Container } from '@components/global';
 
-import theme from '@styles/theme';
-import GlobalStyles from '@styles/GlobalStyles';
+export default function PageTemplate({ data }) {
+  const {
+    note: {
+      frontmatter: { title },
+      html,
+    },
+  } = data;
 
-const shortcodes = { Link };
-
-export default function PageTemplate({ data, children }) {
   return (
-    <ThemeProvider theme={theme}>
-      <GlobalStyles />
-      <h1>{data.mdx.frontmatter.title}</h1>
-      <Link to="/notes">all notes</Link>
-      <MDXProvider components={shortcodes}>{children}</MDXProvider>
-    </ThemeProvider>
+    <Layout>
+      <Container>
+      <h1>{title}</h1>
+      <div dangerouslySetInnerHTML={{ __html: html }} />
+      </Container>
+    </Layout>
   );
 }
 
 export const query = graphql`
   query ($id: String!) {
-    mdx(id: { eq: $id }) {
+    note: markdownRemark(id: { eq: $id }) {
+      html
       frontmatter {
         title
       }

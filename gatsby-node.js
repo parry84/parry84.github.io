@@ -1,34 +1,35 @@
 const path = require("path")
-const postTemplate = path.resolve(`./src/components/common/Note/Note.js`)
+const noteTemplate = path.resolve(`./src/components/common/Note/Note.js`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
     const { createPage } = actions
-    const result = await graphql(`
+
+    const notesQuery = await graphql(`
     query {
-      allMdx {
+      allMarkdownRemark {
         nodes {
           id
           frontmatter {
             slug
-          }
-          internal {
-            contentFilePath
+            visible
           }
         }
       }
     }
   `)
 
-    if (result.errors) {
-        reporter.panicOnBuild('Error loading MDX result', result.errors)
+    if (notesQuery.errors) {
+        reporter.panicOnBuild('Error loading Markdown result', notesQuery.errors)
     }
 
-    const notes = result.data.allMdx.nodes
+    const notes = notesQuery.data.allMarkdownRemark.nodes
 
-    notes.forEach(node => {
+    notes
+    .filter(node => node.frontmatter.visible)
+    .forEach(node => {
         createPage({
-            path: node.frontmatter.slug,
-            component: `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}`,
+            path: `/notes/${node.frontmatter.slug}`,
+            component: noteTemplate,
             context: { id: node.id },
         })
     })
