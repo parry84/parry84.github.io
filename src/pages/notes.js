@@ -28,11 +28,13 @@ const Notes = () => {
         <p></p>
         <Link to="/">Go back to the homepage</Link>
         <ul>
-          {posts.filter(() => false).map((post) => (
-            <li key={post.id}>
-              <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>{' '}
-            </li>
-          ))}
+          {posts
+            .filter(() => false)
+            .map((post) => (
+              <li key={post.id}>
+                <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>{' '}
+              </li>
+            ))}
         </ul>
       </Container>
     </Layout>

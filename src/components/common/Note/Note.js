@@ -14,8 +14,8 @@ export default function PageTemplate({ data }) {
   return (
     <Layout>
       <Container>
-      <h1>{title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: html }} />
+        <h1 style={{ paddingBottom: 50, paddingTop: 50 }}>{title}</h1>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
       </Container>
     </Layout>
   );
