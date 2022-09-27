@@ -51,11 +51,11 @@ const UsedBy = () => (
             </ExternalLink>
           ))}
         </LogoGrid>
-        <LogoGrid>
+        <StyledContainer>
           <h2>
-            <a href="/contacts">Or contact me</a>
+            <a href="/contacts">or contact me</a>
           </h2>
-        </LogoGrid>
+        </StyledContainer>
       </div>
       <Art>
         <StaticImage src="../../images/art/team_work.png" placeholder="tracedSVG" alt="Contacts" />
@@ -75,6 +75,10 @@ const LogoGrid = styled.div`
     svg {
       width: 212px;
     }
+    text-decoration: none;
+    background: unset;
+    text-shadow: unset;
+    // TODO refactor with .no-tufte-underline
   }
 
   @media (max-width: ${(props) => props.theme.screen.sm}) {

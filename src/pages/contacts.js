@@ -2,6 +2,7 @@ import React from 'react';
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { github } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import { Link } from 'gatsby';
+import styled from 'styled-components';
 
 import Layout from '@common/Layout';
 import { Container } from '@components/global';
@@ -12,8 +13,9 @@ const ContactPage = () => (
       <h1>Contact me</h1>
       <Link to="/">Go back to the homepage</Link>
       <h2>Run the following program to generate my contact information:</h2>
-      <SyntaxHighlighter language="racket" style={github}>
-        {`#lang racket
+      <StyledContainer>
+        <SyntaxHighlighter language="racket" style={github}>
+          {`#lang racket
 (define A (char->integer #\\A))
 (define Z (char->integer #\\Z))
 (define a (char->integer #\\a))
@@ -21,7 +23,8 @@ const ContactPage = () => (
  
 (define (rotate c)
   (define cnum (char->integer c))
-  (define (shift base) (integer->char (+ base (modulo (+ -1 (- cnum base)) 26))))
+  (define (shift base) 
+        (integer->char (+ base (modulo (+ -1 (- cnum base)) 26))))
   (cond [(<= A cnum Z) (shift A)]
         [(<= a cnum z) (shift a)]
         [else c]))
@@ -30,8 +33,9 @@ const ContactPage = () => (
   (list->string (for/list ([c (in-string s)]) (rotate c))))
 
 (caesar "qbssz84@hnbjm.dpn")`}
-      </SyntaxHighlighter>
-      <h2>My PGP key</h2>
+        </SyntaxHighlighter>
+      </StyledContainer>
+      <h2>My PGP key:</h2>
       <pre>
         {`-----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -88,5 +92,17 @@ hjISuqGIMXZl47/FsoiWPL4z2OAWU5fZeEZJ5If6xzl41u4liWA=
     </Container>
   </Layout>
 );
+
+const StyledContainer = styled(Container)`
+  pre {
+    width: 60%;
+  }
+
+  code {
+    width: 90%;
+  }
+
+  // TODO refactor css
+`;
 
 export default ContactPage;

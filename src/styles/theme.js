@@ -1,7 +1,7 @@
 const theme = {
   font: {
-    primary: `'Amatic SC'`,
-    secondary: `'Dosis'`,
+    primary: `'et-book'`,
+    secondary: `'et-book'`,
   },
   font_size: {
     small: 'font-size: 20px; line-height: 30px',
