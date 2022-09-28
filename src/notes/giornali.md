@@ -1,6 +1,6 @@
 ---
 title: Crisi dei giornali, conseguenze e soluzione
-slug: giornalismo
+slug: giornali
 date created: 2022-09-27 22:51
 date updated: 2022-09-27 23:13
 visible: true
@@ -36,6 +36,7 @@ E oggi, secondo voi, quali sono le risorse sui cui vale la pena investire?
 
 Di seguito una selezione di fonti e progetti che consiglio di seguire:
 
+- Wikipedia. Non ha certo bisogno di presentazioni.
 - L'Avvocato dell'Atomo. Un progetto di informazione sull'energia atomica che può essere sostenuto attraverso [Patreon](https://www.patreon.com/nicodaemon).
 - <https://istitutoliberale.it/>: un Think Tank di orientamento liberale. Rilascia pubblicazioni di semplice lettura, sia gratuite che riservate ai soci.
 - <https://www.pewresearch.org/>: un istituto di indagini sociologiche, con particolare attenzione agli USA.
