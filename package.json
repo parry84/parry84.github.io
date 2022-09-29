@@ -37,7 +37,7 @@
   "keywords": [
     "parry84"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
