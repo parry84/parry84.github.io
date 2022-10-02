@@ -160,7 +160,7 @@ const GlobalStyles = createGlobalStyle`
       line-height: 1;
   }
   
-  hr {
+  /*hr {
       display: block;
       height: 1px;
       width: 55%;
@@ -168,7 +168,18 @@ const GlobalStyles = createGlobalStyle`
       border-top: 1px solid #ccc;
       margin: 1em 0;
       padding: 0;
-  }
+  }*/
+  hr {
+    display: block;
+    width: 100%;
+    border: 0;
+    margin: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
   
   p.subtitle {
       font-style: italic;
