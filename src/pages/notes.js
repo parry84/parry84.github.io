@@ -50,10 +50,6 @@ const Notes = () => {
 export default Notes;
 
 const StyledContainer = styled(Container)`
-  width: 55%;
-  padding-left: 12.5%;
-  max-width: 1400px;
-
   /*
   ** Adapted from https://github.com/clayh53/tufte-jekyll/blob/master/css/tufte.scss
   */

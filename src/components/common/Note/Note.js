@@ -56,6 +56,16 @@ const StyledContainer = styled(Container)`
   padding-left: 12.5%;
   max-width: 1400px;
 
+  @media (max-width: 760px) {
+    width: 100%;
+    padding-left: 10;
+    padding-right: 10;
+
+    p {
+      width: 100%;
+    }
+  }
+
   /*
   ** Adapted from https://github.com/clayh53/tufte-jekyll/blob/master/css/tufte.scss
   */

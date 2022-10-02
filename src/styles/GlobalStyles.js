@@ -127,12 +127,12 @@ const GlobalStyles = createGlobalStyle`
   }
   
   /* Adds dark mode */
-  @media (prefers-color-scheme: dark) {
+  /*@media (prefers-color-scheme: dark) {
       body {
           background-color: #151515;
           color: #ddd;
       }
-  }
+  }*/
   
   h1 {
       font-weight: 400;
@@ -338,11 +338,11 @@ const GlobalStyles = createGlobalStyle`
   }
   
   /* Adds dark mode */
-  @media (prefers-color-scheme: dark) {
+  /*@media (prefers-color-scheme: dark) {
       a:link, .tufte-underline, .hover-tufte-underline:hover {
           text-shadow: 0.03em 0 #151515, -0.03em 0 #151515, 0 0.03em #151515, 0 -0.03em #151515, 0.06em 0 #151515, -0.06em 0 #151515, 0.09em 0 #151515, -0.09em 0 #151515, 0.12em 0 #151515, -0.12em 0 #151515, 0.15em 0 #151515, -0.15em 0 #151515;
       }
-  }
+  }*/
   
   a:link::selection,
   a:link::-moz-selection {
@@ -489,9 +489,10 @@ const GlobalStyles = createGlobalStyle`
   
   @media (max-width: 760px) {
       body {
-          width: 84%;
-          padding-left: 8%;
-          padding-right: 8%;
+          //width: 84%;
+          width: 100%;
+          //padding-left: 8%;
+          //padding-right: 8%;
       }
   
       hr,

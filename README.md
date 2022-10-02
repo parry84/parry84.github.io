@@ -2,7 +2,7 @@
 
 This is the git repo behind my personal site, hosted at [parry84.github.io](https://parry84.github.io)
 
-![GitHub Pages Status](https://github.com/parry84/parry84.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+![GitHub Pages Status](https://github.com/parry84/parry84.github.io/actions/workflows/pages/pages-build-deployment/badge.svg) [<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=plastic">]("https://gitmoji.dev")
 
 ## 🛠 How it's built
 
