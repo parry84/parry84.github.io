@@ -1,48 +1,53 @@
 import React from 'react';
-import Helmet from 'react-helmet';
+import { useSiteMetadata } from '@hooks/use-seo-metadata';
 
-const SEO_DATA = {
-  description: 'Parry84 personal page',
-  title: 'Parry84',
-  url: '',
-  author: 'parry84',
-  keywords: ['parry84', 'emanuele', 'parrinello'],
+const Seo = ({ title, description, pathname, children }) => {
+  const {
+    title: defaultTitle,
+    description: defaultDescription,
+    author,
+    image,
+    siteUrl,
+    twitterUsername,
+  } = useSiteMetadata();
 
-  facebook: {
-    id: 'parry84',
-    img: '',
-  },
-};
+  const seo = {
+    title: title || defaultTitle,
+    description: description || defaultDescription,
+    author,
+    image: `${siteUrl}${image}`,
+    url: `${siteUrl}${pathname || ``}`,
+    twitterUsername,
+  };
 
-const SEO = () => {
   return (
-    <Helmet>
-      <meta property="fb:app_id" content={SEO_DATA.facebook.id} />
-      <meta property="og:title" content={SEO_DATA.title} />
+    <>
+      <title>{seo.title}</title>
+
+      <link rel="canonical" href={seo.url} />
+
+      <meta name="robots" content="all" />
+
+      <meta name="description" content={seo.description} />
+      <meta name="author" content={seo.author} />
+
+      <meta property="og:title" content={seo.title} />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content={SEO_DATA.url} />
-      <meta property="og:image" content={SEO_DATA.facebook.img} />
-      <meta property="og:description" content={SEO_DATA.description} />
+      <meta property="og:url" content={seo.url} />
+      <meta property="og:image" content={seo.image} />
+      <meta property="og:description" content={seo.description} />
 
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:creator" content="@hackinoutco" />
-      <meta name="twitter:site" content="@hackinoutco" />
-      <meta name="twitter:title" content={SEO_DATA.title} />
-      <meta name="twitter:description" content={SEO_DATA.description} />
-      <meta name="twitter:domain" content={SEO_DATA.url} />
-      <meta name="twitter:image:src" content={SEO_DATA.img} />
+      <meta name="twitter:creator" content="@elparro84" />
+      <meta name="twitter:site" content="@elparro84" />
+      <meta name="twitter:title" content={seo.title} />
+      <meta name="twitter:description" content={seo.description} />
+      <meta name="twitter:domain" content={seo.url} />
+      <meta name="twitter:image:src" content={seo.image} />
 
-      <meta name="description" content={SEO_DATA.description} />
-      <meta name="keywords" content={SEO_DATA.keywords.join(', ')} />
-      <meta name="author" content={SEO_DATA.author} />
-      <title>{SEO_DATA.title}</title>
-      <link
-        href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Dosis:400,500,700&subset=latin,latin-ext"
-        rel="stylesheet"
-      />
-      <html lang="en" />
-    </Helmet>
+      {children}
+    </>
   );
 };
 
-export default SEO;
+export default Seo;

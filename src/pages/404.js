@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Layout from '@common/Layout';
+import Seo from '@common/SEO';
 import { Container } from '@components/global';
 
 const NotFoundPage = () => (
@@ -13,3 +14,5 @@ const NotFoundPage = () => (
 );
 
 export default NotFoundPage;
+
+export const Head = () => <Seo title="404" pathname="/404" />;

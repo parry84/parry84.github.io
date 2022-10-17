@@ -1,8 +1,16 @@
 const path = require('path');
 
 module.exports = {
+  siteMetadata: {
+    title: `Emanuele Parrinello (parry84)`,
+    description: `Emanuele Parrinello (parry84) personal website. Software developer. Based in Milan`,
+    author: `Emanuele Parrinello`,
+    twitterUsername: `@elparro84`,
+    image: `/gatsby-icon.png`,
+    siteUrl: `https://parry84.github.io`,
+  },
   plugins: [
-    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-robots-txt',
     'gatsby-plugin-svgr',
     'gatsby-plugin-styled-components',
     {
@@ -48,6 +56,7 @@ module.exports = {
           '@common': path.resolve(__dirname, 'src/components/common'),
           '@images': path.resolve(__dirname, 'src/images'),
           '@sections': path.resolve(__dirname, 'src/components/sections'),
+          '@hooks': path.resolve(__dirname, 'src/hooks'),
           '@styles': path.resolve(__dirname, 'src/styles/'),
           '@static': path.resolve(__dirname, 'static/'),
         },

@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { Link, useStaticQuery, graphql } from 'gatsby';
 
 import Layout from '@common/Layout';
+import Seo from '@common/SEO';
 import { Container } from '@components/global';
 
 const Notes = () => {
@@ -35,7 +36,7 @@ const Notes = () => {
         <p></p>
         <ul>
           {posts
-            .filter(() => false)
+            .filter(() => true)
             .map((post) => (
               <li key={post.id}>
                 <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>{' '}
@@ -48,6 +49,14 @@ const Notes = () => {
 };
 
 export default Notes;
+
+export const Head = () => (
+  <Seo
+    title="Parry notes"
+    description="A collection of thoughts on software industry and personal life."
+    pathname="/notes"
+  />
+);
 
 const StyledContainer = styled(Container)`
   /*

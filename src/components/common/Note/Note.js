@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { graphql } from 'gatsby';
 import Layout from '@common/Layout';
+import Seo from '@common/SEO';
 import { Container } from '@components/global';
 import ExternalLink from '../ExternalLink';
 import { Link } from 'gatsby';
@@ -40,12 +41,23 @@ export default function PageTemplate({ data }) {
   );
 }
 
+export const Head = ({ data }) => {
+  const {
+    note: {
+      frontmatter: { title, slug },
+    },
+  } = data;
+
+  return <Seo title={title} pathname={`/notes/${slug}`} />;
+};
+
 export const query = graphql`
   query ($id: String!) {
     note: markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         title
+        slug
       }
     }
   }
