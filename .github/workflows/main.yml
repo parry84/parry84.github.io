@@ -1,6 +1,9 @@
 name: Update parry84.github.io
 
-on: [push, repository_dispatch]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   update:
