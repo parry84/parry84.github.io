@@ -83,6 +83,58 @@ module.exports = {
         gfm: true,
         plugins: ['gatsby-remark-bibliography']
       }
+    },
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              siteUrl
+            }
+          }
+          allSitePage {
+              nodes {
+                path
+              }
+          }
+          allMarkdownRemark {
+            nodes {
+              id
+              frontmatter {
+                title
+                slug
+                date_updated
+              }
+            }
+          }
+        }`,
+        resolveSiteUrl: ({
+          site: { siteMetadata: {siteUrl}} },
+        ) => siteUrl,
+        resolvePages: ({
+          allSitePage: { nodes: allPages },
+          allMarkdownRemark: { nodes: allMarkdownRemark },
+        }) => {
+          const noteNodeMap = allMarkdownRemark.reduce((acc, node) => {
+            const { frontmatter: { slug: slug } } = node
+            acc[`/notes/${slug}`] = node.frontmatter
+
+            return acc
+          }, {})
+
+          return allPages.map(page => {
+            return { ...page, ...noteNodeMap[page.path] }
+          })
+        },
+        serialize: ({ path, date_updated }) => {
+          return {
+            url: path,
+            lastmod: date_updated,
+          }
+        },
+      },
     }
   ],
 };
