@@ -30,7 +30,7 @@ export default function PageTemplate({ data }) {
         <footer>
           <div class="credits" style={{ paddingBottom: 50, paddingTop: 50 }}>
             CC BY-ND | Potete lasciare suggerimenti aprendo una Issue o una Pull Request su{' '}
-            <ExternalLink href="https://github.com/parry84/parry84.github.io/tree/develop/src/notes">
+            <ExternalLink href="https://github.com/parry84/parry84.github.io/tree/master/src/notes">
               GitHub
             </ExternalLink>
             .
