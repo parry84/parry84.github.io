@@ -21,6 +21,7 @@ export default function PageTemplate({ data }) {
         <header>
           <nav>
             <Link to="/">Home</Link>
+            <Link to="/notes">Notes</Link>
           </nav>
         </header>
         <h1 style={{ paddingBottom: 50, paddingTop: 50 }}>{title}</h1>

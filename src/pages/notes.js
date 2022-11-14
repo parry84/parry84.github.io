@@ -36,7 +36,7 @@ const Notes = () => {
         <p></p>
         <ul>
           {posts
-            .filter(() => false)
+            .filter(() => true)
             .map((post) => (
               <li key={post.id}>
                 <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>{' '}
