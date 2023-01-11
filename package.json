@@ -23,7 +23,7 @@
     "gatsby-plugin-svgr": "^3.0.0-beta.0",
     "gatsby-remark-bibliography": "git+https://github.com/parry84/gatsby-remark-bibliography.git",
     "gatsby-source-filesystem": "^4.23.0",
-    "gatsby-transformer-remark": "^5.23.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^4.23.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
