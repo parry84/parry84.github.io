@@ -30,7 +30,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         createPage({
             path: `/notes/${node.frontmatter.slug}`,
             component: noteTemplate,
-            context: { id: node.id },
+            context: { id: node.id, slug: node.frontmatter.slug },
         })
     })
 }

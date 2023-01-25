@@ -2,10 +2,11 @@
 title: La realtà non è come appare
 slug: reale
 date created: 2022-10-21 23:30
-date updated: 2022-10-22 23:30
+date updated: 2023-01-24 01:08
 visible: true
 tags:
   - scienza
+caption: Il Flammarion, incisione su legno di un artista sconosciuto
 ---
 
 Il tempo che rallenta, la massa che aumenta con la velocità. Tutte affermazioni a cui magari crediamo sulla fiducia, ma che intimamente ci sembrano assurde e incomprensibili. Eppure simili fratture fra percezione e realtà si sono verificate ciclicamente nella storia.

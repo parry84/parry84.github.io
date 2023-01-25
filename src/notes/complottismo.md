@@ -1,5 +1,5 @@
 ---
-title: "Psicologia del complottista"
+title: 'Psicologia del complottista'
 slug: complottismo
 date created: 2022-10-11 23:30
 date updated: 2022-10-12 00:06

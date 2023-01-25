@@ -2,10 +2,11 @@
 title: Perché non possiamo non dirci americani
 slug: antiamericanismo
 date created: 2022-10-22 15:30
-date updated: 2022-10-22 15:30
+date updated: 2023-01-26 22:30
 visible: true
 tags:
   - politica
+caption: "Washington attraversa il fiume Delaware, olio su tela del 1851, opera di Emanuel Leutze"
 ---
 
 _«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei più fastidiosi è la paura dell’americanismo»_\cite{bontempelli74}. Non è facile notarlo, quando ci si è immersi fino al collo, ma fateci caso: qualsiasi male del mondo, in qualche modo deve essere colpa degli USA:
@@ -21,7 +22,7 @@ _«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei 
 
 **Se un post sui _social network_ incolpasse l’America dell’estinzione dei dinosauri, molte persone metterebbero un _like_ e ricondividerebbero senza notarvi nulla di strano!**
 
-Antonio Gramsci dal carcere aveva avvertito: _«l’antiamericanismo è comico, prima di essere stupido»_\cite{gramsci}. Ma le loro sue parole caddero nel vuoto.
+Antonio Gramsci dal carcere aveva avvertito: *«l’antiamericanismo è comico, prima di essere stupido»*\cite{gramsci}. Ma le loro sue parole caddero nel vuoto.
 
 ---
 

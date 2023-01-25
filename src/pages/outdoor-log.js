@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'gatsby';
-
 import Layout from '@common/Layout';
 import Seo from '@common/SEO';
 import { Container } from '@components/global';
 import styled from 'styled-components';
+
 const OutdoorLog = () => (
   <Layout>
     <StyledContainer>

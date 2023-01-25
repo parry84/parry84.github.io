@@ -2,13 +2,14 @@
 title: Milano
 slug: milano
 date created: 2022-10-29 22:51
-date updated: 2022-10-29 23:13
+date updated: 2023-01-26 22:38
 visible: true
 tags:
   - viaggi
+caption: "Olio su tela, di Loredano Rizzotti, raffigurante casa di ringhiera"
 ---
 
-Ci sono città di evidente bellezza, e altre che invece richiedono di essere scoperte. È sempre più difficile trovare esperienze autentiche in città: l’aumento dei franchising e dei turisti hanno appiattito l’offerta, anche i navigli, ormai soffocati dalla _movida_, stanno perdendo la loro atmosfera.
+Ci sono città di evidente bellezza, e altre che invece richiedono di essere scoperte. È sempre più difficile trovare esperienze autentiche a Milano: l’aumento dei franchising e dei turisti hanno appiattito l’offerta, anche i Navigli, ormai soffocati dalla _movida_, stanno perdendo la loro atmosfera.
 
 Vorrei in questi appunti mantenere la lista dei miei _insider tips_:
 

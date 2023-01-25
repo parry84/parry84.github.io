@@ -29,7 +29,14 @@ module.exports = {
     },
     'gatsby-plugin-image',
     'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
+    {
+      resolve: 'gatsby-plugin-sharp',
+      options: {
+        defaults: {
+          placeholder: 'blurred',
+        },
+      },
+    },
     {
       resolve: 'gatsby-plugin-manifest',
       options: {

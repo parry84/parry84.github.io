@@ -566,16 +566,6 @@ const GlobalStyles = createGlobalStyle`
           width: 100%;
       }
   }
-
-
-
-
-
-
-
-
-
-
 `;
 
 export default GlobalStyles;
