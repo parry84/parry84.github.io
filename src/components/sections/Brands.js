@@ -51,14 +51,12 @@ const UsedBy = () => (
             </ExternalLink>
           ))}
         </LogoGrid>
-        <StyledContainer>
-          <h2>
-            <a href="/contacts">or contact me</a>
-          </h2>
-        </StyledContainer>
+        <h2>
+          <a href="/contacts">or contact me</a>
+        </h2>
       </div>
       <Art>
-        <StaticImage src="../../images/art/team_work.png" placeholder="tracedSVG" alt="Contacts" />
+        <StaticImage src="../../images/art/contact.png" placeholder="tracedSVG" alt="Contacts" />
       </Art>
     </StyledContainer>
   </Section>
@@ -99,8 +97,8 @@ const StyledContainer = styled(Container)`
 const Art = styled.figure`
   width: 400px;
   position: absolute;
-  top: -12%;
-  right: 50%;
+  top: 12%;
+  right: 60%;
 
   @media (max-width: ${(props) => props.theme.screen.lg}) {
     top: 0;
