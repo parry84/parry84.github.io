@@ -6,25 +6,25 @@
   "author": "Emanuele Parrinello <parry84@gmail.com>",
   "homepage": "https://parry84.github.io",
   "dependencies": {
-    "@svgr/webpack": "^6.3.1",
+    "@svgr/webpack": "^6.5.1",
     "bibtex-parse-js": "^0.0.24",
-    "gatsby": "^4.24.0",
-    "gatsby-cli": "^4.24.0",
+    "gatsby": "^5.5.0",
+    "gatsby-cli": "^5.5.0",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-google-fonts": "^1.0.1",
-    "gatsby-plugin-google-tagmanager": "^4.23.1",
-    "gatsby-plugin-image": "^2.23.1",
-    "gatsby-plugin-manifest": "^4.23.1",
-    "gatsby-plugin-offline": "^5.23.1",
-    "gatsby-plugin-robots-txt": "^1.7.1",
-    "gatsby-plugin-sharp": "^4.23.1",
-    "gatsby-plugin-sitemap": "^5.24.0",
-    "gatsby-plugin-styled-components": "^5.23.0",
+    "gatsby-plugin-google-tagmanager": "^5.5.0",
+    "gatsby-plugin-image": "^3.5.0",
+    "gatsby-plugin-manifest": "^5.5.0",
+    "gatsby-plugin-offline": "^6.5.0",
+    "gatsby-plugin-robots-txt": "^1.8.0",
+    "gatsby-plugin-sharp": "^5.5.0",
+    "gatsby-plugin-sitemap": "^6.5.0",
+    "gatsby-plugin-styled-components": "^6.5.0",
     "gatsby-plugin-svgr": "^3.0.0-beta.0",
     "gatsby-remark-bibliography": "git+https://github.com/parry84/gatsby-remark-bibliography.git",
-    "gatsby-source-filesystem": "^4.23.0",
-    "gatsby-transformer-remark": "^5.23.1",
-    "gatsby-transformer-sharp": "^4.23.1",
+    "gatsby-source-filesystem": "^5.5.0",
+    "gatsby-transformer-remark": "^6.5.0",
+    "gatsby-transformer-sharp": "^5.5.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
@@ -32,7 +32,7 @@
     "react-dom": "^18.2.0",
     "react-scrollspy": "^3.4.3",
     "react-syntax-highlighter": "^15.5.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.6"
   },
   "keywords": [
     "parry84"
@@ -47,7 +47,7 @@
     "format": "prettier --write \"src/**/*.{js,jsx,json,md}\""
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "prettier": "^2.7.1"
+    "gh-pages": "^5.0.0",
+    "prettier": "^2.8.3"
   }
 }
