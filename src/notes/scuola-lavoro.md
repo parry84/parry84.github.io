@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Può suonare quasi offensivo per chi ha perso i capelli studiando Meccanica Razionale o Fisiologia eppure, vi assicuro che è proprio così. In effetti, un laureato in questi studi, anche se poco brillante, troverà abbastanza agevolmente un lavoro (e, visti i tempi, non è affatto male come risultato). Quindi, tali facoltà sono quelle che oggi, più facilmente, garantiscono una vita discreta e prevedibile.
+<span class="newthought">Può suonare</span> quasi offensivo per chi ha perso i capelli studiando Meccanica Razionale o Fisiologia eppure, vi assicuro che è proprio così. In effetti, un laureato in questi studi, anche se poco brillante, troverà abbastanza agevolmente un lavoro (e, visti i tempi, non è affatto male come risultato). Quindi, tali facoltà sono quelle che oggi, più facilmente, garantiscono una vita discreta e prevedibile.
 
 Fino a pochi decenni fa, l’insieme degli studi che garantivano automaticamente l’ascesa sociale era più popoloso. Architetti, avvocati, dentisti e commercialisti delle scorse generazioni hanno fatto i soldi facili indipendentemente dal proprio talento (o dalla propria mediocrità professionale).
 

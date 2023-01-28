@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Gli italiani hanno un chiodo fisso che non accenna a svanire: “Con l’euro è raddoppiato tutto”. Ormai è un luogo comune che si pensa per sentito dire.
+<span class="newthought">Gli italiani</span> hanno un chiodo fisso che non accenna a svanire: “Con l’euro è raddoppiato tutto”. Ormai è un luogo comune che si pensa per sentito dire.
 
 Ma cosa vuol dire, realmente, che è “raddoppiato tutto”? Secondo l’interpretazione letterale, significherebbe che nella notte fra il 31 dicembre 2021 e il 1° gennaio 2002 i prezzi sono sono stati moltiplicati per due. Quindi, se un’automobile fosse costata 20.000.000 ₤ il giorno dopo l’avremmo pagata circa 20.000 €. Ovviamente ciò è assurdo e basta recuperare un po’ di fatture e scontrini dell’epoca per constatarlo.
 Gli scettici immediatamente ribatteranno: “Eh vabbè! Ma noi intendevamo che sono raddoppiate le cose che realmente impattano sulla nostra vita, tipo la pizza, la birra, etc…”. Ma anche qui si potrebbero analizzare i fatti. Alcuni esempi:

@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Detta così, può sembrare una provocazione masochistica. Ci siamo viziati per decadi col “tutto gratis”, quindi perché mai ora vorremmo regalare soldi a Mark Zuckerberg, che in fin dei conti ne ha già anche troppi?
+<span class="newthought">Detta così</span>, può sembrare una provocazione masochistica. Ci siamo viziati per decadi col “tutto gratis”, quindi perché mai ora vorremmo regalare soldi a Mark Zuckerberg, che in fin dei conti ne ha già anche troppi?
 
 Oltretutto, non essendo i servizi web fatti di materie prime come il pane e la pasta, fatichiamo a capire quali costi debbano sostenere e, quindi, su quali basi un abbonamento sarebbe giustificato. Tuttavia, questi costi esistono e sono enormi. Per esempio:
 

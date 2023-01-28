@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Nel 2019 i cittadini italiani trasferitisi all’estero sono stati 122mila\cite{migrazioni}. Di questi uno su tre (28mila) sono laureati, soprattutto in materie STEM. Il 7% dei dottori di ricerca italiani sono emigrati in altri paesi\cite{ricercatori}. Il costo del fenomeno, secondo Tria, ammonta a 14 miliardi all'anno, poco meno dell'1% del PIL\cite{tria} (formare un laureato costa allo Stato 108 mila euro, a cui si sommano le mancate entrate fiscali\cite{costo}). Oltretutto, questa perdita non è compensata da un’equivalente immigrazione di qualità: i migliori studenti dal mondo preferiscono il nord Europa e l’America.
+<span class="newthought">Nel 2019</span> i cittadini italiani trasferitisi all’estero sono stati 122mila\cite{migrazioni}. Di questi uno su tre (28mila) sono laureati, soprattutto in materie STEM. Il 7% dei dottori di ricerca italiani sono emigrati in altri paesi\cite{ricercatori}. Il costo del fenomeno, secondo Tria, ammonta a 14 miliardi all'anno, poco meno dell'1% del PIL\cite{tria} (formare un laureato costa allo Stato 108 mila euro, a cui si sommano le mancate entrate fiscali\cite{costo}). Oltretutto, questa perdita non è compensata da un’equivalente immigrazione di qualità: i migliori studenti dal mondo preferiscono il nord Europa e l’America.
 
 Le analisi su questo tema sono ripetitive: gli stipendi sono bassi, mancano le opportunità, servono più investimenti. Ma difficilmente una soluzione arriverà dall’alto poiché manca un’autentica volontà politica: la maggior parte degli elettori sono, e sempre di più saranno, in età avanzata e quindi focalizzati sui loro interessi pensionistici.
 

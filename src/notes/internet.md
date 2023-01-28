@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Il titolo può sembrare una provocazione. Le immagini degli zombie persi negli schermi dei propri smartphone, sulla metro, al ristorante, in famiglia, sono quotidianamente indicate come il simbolo della decadenza culturale e sociale dei nostri tempi. Una piaga da combattere.
+<span class="newthought">Il titolo</span> può sembrare una provocazione. Le immagini degli zombie persi negli schermi dei propri smartphone, sulla metro, al ristorante, in famiglia, sono quotidianamente indicate come il simbolo della decadenza culturale e sociale dei nostri tempi. Una piaga da combattere.
 
 Niente di più sbagliato. Molte delle conversazioni in cui mi capita di essere coinvolto seguono dei cliché alquanto prevedibili e noiosi. Per esempio, le chiacchiere sul calcio o sul COVID-19, immutabilmente assemblate dalle stesse frasi: “eh, ma bisogna vedere questo autunno come va”, “mia cugina che ha fatto il vaccino e poi è stata male”. In quell’istante non c’è gesto più salvifico che sbloccare lo smartphone! E questa maggior probabilità di trovare risposte migliori online piuttosto che dalla persona di fronte, vale per quasi ogni argomento. **Del resto chi di voi ha un amico interessante un quarto rispetto a Google?**
 

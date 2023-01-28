@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Dai vaccini all’Ucraina, dal “new world order” al 5G, dal _gender_ all’”Europa che ci vuole obbligare a mangiare gli insetti” e alle scie chimiche. Il copione del complottista, modellato dall’assorbimento acritico di alcune pagine Internet, si ripete sempre identico. Se ci abbiamo a che fare, l’unica salvezza è nel riuscire cambiare discorso oppure [rifugiarsi nel cellulare](/notes/internet).
+<span class="newthought">Dai vaccini</span> all’Ucraina, dal “new world order” al 5G, dal _gender_ all’”Europa che ci vuole obbligare a mangiare gli insetti” e alle scie chimiche. Il copione del complottista, modellato dall’assorbimento acritico di alcune pagine Internet, si ripete sempre identico. Se ci abbiamo a che fare, l’unica salvezza è nel riuscire cambiare discorso oppure [rifugiarsi nel cellulare](/notes/internet).
 
 E queste teorie cospiratorie, spesso dannose e fuorvianti, non accennano a sparire nonostante il progresso occidentale e la scolarizzazione di massa. Devono quindi sussistere dei meccanismi mentali più complessi.
 

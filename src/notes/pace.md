@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-Il «capitalismo» è un po’ come il «diavolo» durante il medioevo, la colpa di tutti i malanni dell’umanità, fra cui ovviamente tutte le guerre. Pertanto la pace nel mondo salute arriverà solo con la distruzione del capitalismo e l'instaurazione del suo opposto, che è il socialismo.
+<span class="newthought">Il «capitalismo»</span> è un po’ come il «diavolo» durante il medioevo, la colpa di tutti i malanni dell’umanità, fra cui ovviamente tutte le guerre. Pertanto la pace nel mondo salute arriverà solo con la distruzione del capitalismo e l'instaurazione del suo opposto, che è il socialismo.
 Purtroppo però la fede cieca nelle ideologie non aiuta a ragionare e porta spesso a prendere decisioni errate. Io vorrei mostrare, a coloro non fossero ermeticamente impermeabili alla logica, che tale idea è assolutamente falsa e che è, anzi, proprio il contrario a essere vero.
 
 In effetti è del tutto intuitivo come la globalizzazione favorisca la pace: maggiori intrecci commerciali interdipendenze economiche fra gli stati rendono la guerra molto meno appetibile, oltre che più complicata. Si pensi ad esempio alla nuova economia digitale e alle opportunità che offre: le conquiste territoriali oggigiorno non sono più la via più breve alla ricchezza.

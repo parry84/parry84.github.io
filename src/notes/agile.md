@@ -8,7 +8,7 @@ tags:
   - tecnologia
 ---
 
-La Pandemia ha radicalmente e improvvisamente cambiato il mondo del lavoro dell’IT. Se in precedenza lo _smart working_ rappresentava un’eccezione, ora il _full remote_ costituisce la normalità per buona parte delle aziende del settore. E questo fenomeno sembra destinato a durare.
+<span class="newthought">La Pandemia</span> ha radicalmente e improvvisamente cambiato il mondo del lavoro dell’IT. Se in precedenza lo _smart working_ rappresentava un’eccezione, ora il _full remote_ costituisce la normalità per buona parte delle aziende del settore. E questo fenomeno sembra destinato a durare.
 
 Questo però ha un impatto per le società tecnologiche che hanno strutturato i propri processi secondo la metodologia _Agile_, dove, al fine di ottenere cicli di sviluppo più veloci, viene esaltata la collaborazione _vis-à-vis_ e una routine poco burocratica.
 

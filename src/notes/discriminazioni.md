@@ -10,7 +10,7 @@ caption: "MARCUS AURELIUS ANTONINUS AUGUSTUS / black and white, Daniel Coulmann"
 
 ---
 
-Invece che immaginare un mondo ideale, gli Stoici mirano a controllare le proprie emozioni per affrontare il mondo così com’è. Su queste basi, lo Stoicismo suggerirebbe alle minoranze vulnerabili di ricordare ogni giorno: “sarò oggetto di pregiudizi e verrò emarginato”. Questa proposta di meditare sull’inevitabilità della sofferenza può sembrare del tutto anomala rispetto all’attuale popolarità del pensiero positivo.
+<span class="newthought">Invece che</span> immaginare un mondo ideale, gli Stoici mirano a controllare le proprie emozioni per affrontare il mondo così com’è. Su queste basi, lo Stoicismo suggerirebbe alle minoranze vulnerabili di ricordare ogni giorno: “sarò oggetto di pregiudizi e verrò emarginato”. Questa proposta di meditare sull’inevitabilità della sofferenza può sembrare del tutto anomala rispetto all’attuale popolarità del pensiero positivo.
 
 <div class="epigraph">
     <blockquote>

@@ -13,7 +13,7 @@ summary: Il voto elettronico è afflitto da rischi di sicurezza ineliminabili ch
 
 ---
 
-Le elezioni americane del 2016, e la relativa diatriba sui brogli elettorali hanno riacceso il dibattito sul voto elettronico (“e-voting”). **Nonostante può sembrare (e probabilmente è) vantaggioso in termini di efficienza, esso è, tuttavia, pragmaticamente, una pessima idea**.
+<span class="newthought">Le elezioni</span> americane del 2016, e la relativa diatriba sui brogli elettorali hanno riacceso il dibattito sul voto elettronico (“e-voting”). **Nonostante può sembrare (e probabilmente è) vantaggioso in termini di efficienza, esso è, tuttavia, pragmaticamente, una pessima idea**.
 
 La ragione primaria riguarda la fiducia: per una democrazia funzionale è di vitale importanza la fiducia nei cittadini. Il mero seme del dubbio, anche ingiustificato, è problematico e ne indebolisce le fondamenta.
 
