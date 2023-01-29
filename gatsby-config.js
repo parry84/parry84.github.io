@@ -119,7 +119,7 @@ module.exports = {
               frontmatter {
                 title
                 slug
-                date_updated
+                dateUpdated
               }
             }
           }
