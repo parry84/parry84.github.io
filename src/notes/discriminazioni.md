@@ -1,13 +1,12 @@
 ---
 title: Un approccio stoico alle discriminazioni
 slug: discriminazioni
-date created: 2022-11-02 23:51
-date updated: 2023-01-24 01:23
+dateCreated: 2022-11-02 23:51
+dateUpdated: 2023-01-24 01:23
 visible: true
 tags:
   - politica
-caption: "MARCUS AURELIUS ANTONINUS AUGUSTUS / black and white, Daniel Coulmann"
-
+caption: 'MARCUS AURELIUS ANTONINUS AUGUSTUS / black and white, Daniel Coulmann'
 ---
 
 <span class="newthought">Invece che</span> immaginare un mondo ideale, gli Stoici mirano a controllare le proprie emozioni per affrontare il mondo così com’è. Su queste basi, lo Stoicismo suggerirebbe alle minoranze vulnerabili di ricordare ogni giorno: “sarò oggetto di pregiudizi e verrò emarginato”. Questa proposta di meditare sull’inevitabilità della sofferenza può sembrare del tutto anomala rispetto all’attuale popolarità del pensiero positivo.

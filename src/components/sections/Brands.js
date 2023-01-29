@@ -56,7 +56,7 @@ const UsedBy = () => (
         </h2>
       </div>
       <Art>
-        <StaticImage src="../../images/art/contact.png" placeholder="tracedSVG" alt="Contacts" />
+        <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
       </Art>
     </StyledContainer>
   </Section>

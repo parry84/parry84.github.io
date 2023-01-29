@@ -1,8 +1,8 @@
 ---
-title: "La nostra ora più buia"
+title: 'La nostra ora più buia'
 slug: europa
-date created: 2023-01-28 19:11
-date updated: 2023-01-28 19:11
+dateCreated: 2023-01-28 19:11
+dateUpdated: 2023-01-28 19:11
 visible: true
 tags:
   - politica

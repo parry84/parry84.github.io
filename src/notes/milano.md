@@ -1,12 +1,12 @@
 ---
 title: Milano
 slug: milano
-date created: 2022-10-29 22:51
-date updated: 2023-01-26 22:38
+dateCreated: 2022-10-29 22:51
+dateUpdated: 2023-01-26 22:38
 visible: true
 tags:
   - viaggi
-caption: "Olio su tela, di Loredano Rizzotti, raffigurante casa di ringhiera"
+caption: 'Olio su tela, di Loredano Rizzotti, raffigurante casa di ringhiera'
 ---
 
 <span class="newthought">Ci sono città</span> di evidente bellezza, e altre che invece richiedono di essere scoperte. È sempre più difficile trovare esperienze autentiche a Milano: l’aumento dei franchising e dei turisti hanno appiattito l’offerta, anche i Navigli, ormai soffocati dalla _movida_, stanno perdendo la loro atmosfera.

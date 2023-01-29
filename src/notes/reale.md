@@ -1,8 +1,8 @@
 ---
 title: La realtà non è come appare
 slug: reale
-date created: 2022-10-21 23:30
-date updated: 2023-01-24 01:08
+dateCreated: 2022-10-21 23:30
+dateUpdated: 2023-01-24 01:08
 visible: true
 tags:
   - scienza

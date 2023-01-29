@@ -1,8 +1,8 @@
 ---
 title: Vent’anni di euro
 slug: euro
-date created: 2022-10-21 23:30
-date updated: 2022-10-22 23:30
+dateCreated: 2022-10-21 23:30
+dateUpdated: 2022-10-22 23:30
 visible: true
 tags:
   - politica

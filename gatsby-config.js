@@ -1,5 +1,12 @@
 const path = require('path');
 
+/*require('ts-node').register({
+  compilerOptions: {
+      module: 'commonjs',
+      target: 'es2017',
+  },
+})*/
+
 module.exports = {
   siteMetadata: {
     title: `Emanuele Parrinello (parry84)`,

@@ -1,12 +1,12 @@
 ---
 title: Perché non possiamo non dirci americani
 slug: antiamericanismo
-date created: 2022-10-22 15:30
-date updated: 2023-01-26 22:30
+dateCreated: 2022-10-22 15:30
+dateUpdated: 2023-01-26 22:30
 visible: true
 tags:
   - politica
-caption: "Washington attraversa il fiume Delaware, olio su tela del 1851, opera di Emanuel Leutze"
+caption: 'Washington attraversa il fiume Delaware, olio su tela del 1851, opera di Emanuel Leutze'
 ---
 
 _«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei più fastidiosi è la paura dell’americanismo»_\cite{bontempelli74}. Non è facile notarlo, quando ci si è immersi fino al collo, ma fateci caso: qualsiasi male del mondo, in qualche modo deve essere colpa degli USA:

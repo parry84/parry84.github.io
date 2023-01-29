@@ -33,7 +33,10 @@ const Notes = () => {
   return (
     <NoteLayout title="Parry Notes" hero={hero}>
       <div class="epigraph">
-        <h2>La felicità personale e il bene comune sono determinati dalla nostra capacità di pensare profondamente e razionalmente. </h2>
+        <h2>
+          La felicità personale e il bene comune sono determinati dalla nostra capacità di pensare
+          profondamente e razionalmente.{' '}
+        </h2>
       </div>
       <ul>
         {notes

@@ -17,14 +17,14 @@ const About = () => (
           </p>
         </div>
         <Art>
-          <StaticImage src="../../images/art/fast.png" placeholder="tracedSVG" alt="fast" />
+          <StaticImage src="../../images/art/fast.png" placeholder="blurred" alt="fast" />
         </Art>
       </Grid>
       <Grid inverse>
         <Art>
           <StaticImage
             src="../../images/art/learn_yourself.png"
-            placeholder="tracedSVG"
+            placeholder="blurred"
             alt="learn"
           />
         </Art>
@@ -46,7 +46,7 @@ const About = () => (
           </p>
         </div>
         <Art>
-          <StaticImage src="../../images/art/travel.png" placeholder="tracedSVG" alt="travel" />
+          <StaticImage src="../../images/art/travel.png" placeholder="blurred" alt="travel" />
         </Art>
       </Grid>
     </Container>

@@ -1,8 +1,8 @@
 ---
 title: Una questione di equilibrio
 slug: giusto-mezzo
-date created: 2022-11-15 00:11
-date updated: 2022-11-15 00:11
+dateCreated: 2022-11-15 00:11
+dateUpdated: 2022-11-15 00:11
 visible: true
 tags:
   - filosofia

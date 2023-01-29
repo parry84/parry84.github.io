@@ -1,8 +1,8 @@
 ---
 title: Perché dovresti passare più tempo su Internet
 slug: internet
-date created: 2022-09-29 22:51
-date updated: 2022-09-29 23:13
+dateCreated: 2022-09-29 22:51
+dateUpdated: 2022-09-29 23:13
 visible: true
 tags:
   - politica

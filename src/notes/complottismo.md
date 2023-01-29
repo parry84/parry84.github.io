@@ -1,8 +1,8 @@
 ---
 title: 'Psicologia del complottista'
 slug: complottismo
-date created: 2022-10-11 23:30
-date updated: 2022-10-12 00:06
+dateCreated: 2022-10-11 23:30
+dateUpdated: 2022-10-12 00:06
 visible: true
 tags:
   - politica

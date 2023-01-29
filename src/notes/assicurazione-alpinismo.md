@@ -1,8 +1,8 @@
 ---
 title: Assicurazione per l'alpinismo all'estero
 slug: assicurazione-alpinismo
-date created: 2022-09-20 22:51
-date updated: 2022-09-27 23:13
+dateCreated: 2022-09-20 22:51
+dateUpdated: 2022-09-27 23:13
 visible: true
 tags:
   - montagna

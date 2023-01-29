@@ -1,8 +1,8 @@
 ---
 title: Il falso mito dell’eguaglianza
 slug: eguaglianza
-date created: 2022-10-29 22:51
-date updated: 2022-10-29 23:13
+dateCreated: 2022-10-29 22:51
+dateUpdated: 2022-10-29 23:13
 visible: true
 tags:
   - viaggi

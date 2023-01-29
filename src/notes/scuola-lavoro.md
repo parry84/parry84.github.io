@@ -1,8 +1,8 @@
 ---
 title: Ingegneria e Medicina sono le facoltà universitarie più facili.
 slug: scuola-lavoro
-date created: 2022-11-12 14:51
-date updated: 2022-11-12 14:51
+dateCreated: 2022-11-12 14:51
+dateUpdated: 2022-11-12 14:51
 visible: true
 tags:
   - politica

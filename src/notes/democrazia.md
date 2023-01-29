@@ -1,11 +1,12 @@
 ---
 title: "Democrazia: il prezzo dell'indifferenza"
 slug: democrazia
-date created: 2023-01-27 19:11
-date updated: 2023-01-27 19:11
+dateCreated: 2023-01-27 19:11
+dateUpdated: 2023-01-27 19:11
 visible: true
 tags:
   - politica
+caption: 'Illustrazione © absurd.design'
 ---
 
 Ci sono situazioni nella vita in cui si è tentati da scorciatoie che comportano dei rischi. Per questioni importanti, come la manutenzione di un aereo, sarebbe pericolosissimo omettere dei controlli allo scopo di risparmiare tempo.

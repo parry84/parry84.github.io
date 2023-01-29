@@ -25,12 +25,7 @@ export default function NodeLayout({ title, hero, children }) {
               </label>
               <input class="margin-toggle" id="sidenote-7" type="checkbox" />
               <span class="marginnote">
-                <GatsbyImage
-                  image={hero.gatsbyImageData}
-                 
-                  backgroundColor="00ff00"
-                  alt=""
-                />
+                <GatsbyImage image={hero.gatsbyImageData} backgroundColor="00ff00" alt="" />
                 {hero.caption}
               </span>
             </p>
@@ -221,7 +216,7 @@ const StyledContainer = styled(Container)`
     h2,
     h3,
     ul {
-        width: 100%;
+      width: 100%;
     }
   }
 `;

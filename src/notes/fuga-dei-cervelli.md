@@ -1,8 +1,8 @@
 ---
 title: Come affrontare la fuga dei cervelli
 slug: fuga-dei-cervelli
-date created: 2022-11-08 23:51
-date updated: 2022-11-08 23:51
+dateCreated: 2022-11-08 23:51
+dateUpdated: 2022-11-08 23:51
 visible: true
 tags:
   - politica

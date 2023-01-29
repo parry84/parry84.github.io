@@ -1,8 +1,8 @@
 ---
 title: Crisi dei giornali, conseguenze e soluzione
 slug: giornali
-date created: 2022-09-27 22:51
-date updated: 2022-09-27 23:13
+dateCreated: 2022-09-27 22:51
+dateUpdated: 2022-09-27 23:13
 visible: true
 tags:
   - politica

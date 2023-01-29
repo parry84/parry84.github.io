@@ -1,8 +1,8 @@
 ---
 title: La pace del Dio Denaro
 slug: pace
-date created: 2022-10-29 14:43
-date updated: 2022-10-29 14:43
+dateCreated: 2022-10-29 14:43
+dateUpdated: 2022-10-29 14:43
 visible: true
 tags:
   - politica
