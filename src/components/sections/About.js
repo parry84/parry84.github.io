@@ -32,7 +32,7 @@ const About = () => (
           <h2>Crema</h2>
           <p>
             I was born in Crema. I've always been a curious person and an avid learner. Programming,
-            physics, energy are among the topics that intrigue me.
+            physics, energy are among the <a href="/notes">topics that intrigue me</a>.
           </p>
         </div>
       </Grid>
