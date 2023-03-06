@@ -8,7 +8,7 @@ tags:
   - politica
 ---
 
-<span class="newthought">L’informazione<span> in è crisi oramai da diversi anni. Le tirature sono ridotte ai minimi termini. Gli abbonamenti digitali stentano a decollare. La fiducia dei cittadini nella stampa sta scomparendo. Si cerca di pareggiare i conti esclusivamente comprimendo i costi (ormai un articolo è pagato pochi centesimi a parola). Ma questo porta solo a cadere ulteriormente nella spirale negativa.
+<span class="newthought">L’informazione</span> in è crisi oramai da diversi anni. Le tirature sono ridotte ai minimi termini. Gli abbonamenti digitali stentano a decollare. La fiducia dei cittadini nella stampa sta scomparendo. Si cerca di pareggiare i conti esclusivamente comprimendo i costi (ormai un articolo è pagato pochi centesimi a parola). Ma questo porta solo a cadere ulteriormente nella spirale negativa.
 Si potrebbe frettolosamente imputare il 100% della colpa ai giornali: il crollo delle vendite è la giusta punizione per l’attuale qualità scadente della stampa.
 
 Io trovo invece che la colpa sia principalmente dei lettori: Internet ci ha abituato al tutto gratis, ma questo ha ucciso la qualità. E i contenuti mediocri, infestati da banner sempre più fastidiosi e invadenti, non sono nemmeno realmente gratis. Perché quando poi facciamo la spesa pagheremo comunque un sovrapprezzo legato alla pubblicità e alla sua intermediazione. Teniamo inoltre a mente che “quando una cosa è gratis, _il prodotto sei tu_”, ovvero il totale ribaltamento del celebre motto:
