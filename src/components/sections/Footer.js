@@ -86,9 +86,12 @@ const Copyright = styled.div`
 
 const Art = styled.figure`
   display: flex;
+  align-items: center;
   justify-content: center;
   margin: 0;
+  margin-bottom: 48px;
   margin-top: 48px;
+  max-width: 100%;
 `;
 
 const StyledContainer = styled(Container)`

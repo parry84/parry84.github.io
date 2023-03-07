@@ -5,14 +5,14 @@ import Seo from '@common/SEO';
 
 import Header from '@sections/Header';
 import About from '@sections/About';
-import Brands from '@sections/Brands';
+import Social from '@sections/Social';
 import Footer from '@sections/Footer';
 
 const HomePage = () => (
   <Layout>
     <Header />
     <About />
-    <Brands />
+    <Social />
     <Footer />
   </Layout>
 );

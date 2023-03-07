@@ -7,7 +7,7 @@ import { Nav, NavItem, Brand, StyledContainer, NavListWrapper, MobileMenu, Mobil
 
 import { ReactComponent as MenuIcon } from '@static/icons/menu.svg';
 
-//const NAV_ITEMS = ['About', 'Brands', 'Team', 'FAQ'];
+//const NAV_ITEMS = ['About', 'Social', 'Team', 'FAQ'];
 const NAV_ITEMS = [''];
 
 class Navbar extends Component {

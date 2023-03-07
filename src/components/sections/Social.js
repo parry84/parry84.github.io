@@ -5,11 +5,13 @@ import { StaticImage } from 'gatsby-plugin-image';
 import { Section, Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
 
+import { ReactComponent as EmailLogo } from '@images/logos/email.svg';
 import { ReactComponent as FacebookLogo } from '@images/logos/facebook.svg';
 import { ReactComponent as LinkedinLogo } from '@images/logos/linkedin.svg';
 import { ReactComponent as GithubLogo } from '@images/logos/github.svg';
 import { ReactComponent as FiveHundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
+import { ReactComponent as YoutubeLogo } from '@images/logos/youtube.svg';
 import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
 
 const LOGOS = [
@@ -34,16 +36,23 @@ const LOGOS = [
     link: 'https://instagram.com/elparro84/',
   },
   {
+    logo: YoutubeLogo,
+    link: 'https://www.youtube.com/@parry84',
+  },
+  {
     logo: MyHeritageLogo,
     link: 'https://www.myheritage.com/site-148248461/parry-family-tree',
   },
+  {
+    logo: EmailLogo,
+    link: '/contacts',
+  },
 ];
 
-const UsedBy = () => (
+const Social = () => (
   <Section id="contacts" accent>
     <StyledContainer>
       <div>
-        <h1>Follow me</h1>
         <LogoGrid>
           {LOGOS.map(({ logo, link }) => (
             <ExternalLink key={logo} href={link}>
@@ -51,9 +60,6 @@ const UsedBy = () => (
             </ExternalLink>
           ))}
         </LogoGrid>
-        <h2>
-          <a href="/contacts">or contact me</a>
-        </h2>
       </div>
       <Art>
         <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
@@ -67,11 +73,11 @@ const LogoGrid = styled.div`
   grid-template-columns: 1fr 1fr;
   grid-gap: 64px;
   justify-items: center;
-  margin-top: 96px;
 
   a {
     svg {
       width: 212px;
+      height: 50px;
     }
     text-decoration: none;
     background: unset;
@@ -97,7 +103,6 @@ const StyledContainer = styled(Container)`
 const Art = styled.figure`
   width: 400px;
   position: absolute;
-  top: 12%;
   right: 60%;
 
   @media (max-width: ${(props) => props.theme.screen.lg}) {
@@ -111,4 +116,4 @@ const Art = styled.figure`
   }
 `;
 
-export default UsedBy;
+export default Social;

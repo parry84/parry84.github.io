@@ -18,7 +18,7 @@ const ContactPage = () => (
         </nav>
       </header>
       <h1>Contact me</h1>
-      <h2>Run the following program to generate my contact information:</h2>
+      <h2>Run the following program to reveal my email:</h2>
 
       <SyntaxHighlighter language="racket" style={github}>
         {`#lang racket
