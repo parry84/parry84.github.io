@@ -13,7 +13,7 @@ caption: Bozzetto raffigurante Il Pensatore di Auguste Rodin
 
 In questi tempi frenetici, raramente ci concediamo il tempo di meditare sulla nostra vita e su come viverla. Spesso ci limitiamo a pensare e agire per sentito dire. Eppure questo _senso comune_ è pieno di errori e pregiudizi.
 
-“Iscriviti a giurisprudenza”; “Lavora duramente per fare carriera”; “Sposati e fai figli”; “Studiare è da sfigati”; “Segui il tuo istinto”. E così ci intrappoliamo in relazioni e impieghi inadatti a noi, spendiamo i nostri soldi per oggetti e viaggi di cui ci pentiremo e sogniamo «sogni di altri sognatori»\cite{gaber}. Le opinioni popolari ci orientano su strade sbagliate e ci conducono all’infelicità.
+“Iscriviti a giurisprudenza”; “Lavora duramente per fare carriera”; “Sposati e fai figli”; “Studiare è da sfigati”; “Segui il tuo istinto”. E così ci intrappoliamo in relazioni e impieghi inadatti a noi, spendiamo i nostri soldi per oggetti e viaggi di cui ci pentiremo e sogniamo _«sogni di altri sognatori»_\cite{gaber}. Le opinioni popolari ci orientano su strade sbagliate e ci conducono all’infelicità.
 
 La soluzione sta quindi nella profondità del pensiero: sottoporre le proprie idee a un esame scrupoloso, piuttosto che agire impulsivamente.
 
