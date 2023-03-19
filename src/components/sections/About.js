@@ -32,7 +32,8 @@ const About = () => (
           <h2>Crema</h2>
           <p>
             I was born in Crema. I've always been a curious person and an avid learner.{' '}
-            <a href="/notes">On these pages</a>, I share my reflections on life, technology, and more.
+            <a href="/notes">On these pages</a>, I share my reflections on life, technology, and
+            more.
           </p>
         </div>
       </Grid>

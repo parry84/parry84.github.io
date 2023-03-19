@@ -1,9 +1,9 @@
 import React from 'react';
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { github } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import { Link } from 'gatsby';
 import styled from 'styled-components';
 
+import Navbar from '@common/Navbar';
 import Layout from '@common/Layout';
 import Seo from '@common/SEO';
 import { Container } from '@components/global';
@@ -12,10 +12,7 @@ const ContactPage = () => (
   <Layout>
     <StyledContainer>
       <header>
-        <nav>
-          <Link to="/">Home</Link>
-          <Link to="/notes">Notes</Link>
-        </nav>
+        <Navbar />
       </header>
       <h1>Contact me</h1>
       <h2>Run the following program to reveal my email:</h2>

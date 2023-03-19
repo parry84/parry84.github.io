@@ -1,9 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import Layout from '@common/Layout';
+import Navbar from '@common/Navbar';
 import { Container } from '@components/global';
 import ExternalLink from '../ExternalLink';
-import { Link } from 'gatsby';
+
 import { GatsbyImage } from 'gatsby-plugin-image';
 
 export default function NodeLayout({ title, hero, children }) {
@@ -11,10 +12,7 @@ export default function NodeLayout({ title, hero, children }) {
     <Layout>
       <StyledContainer>
         <header>
-          <nav>
-            <Link to="/">Home</Link>
-            <Link to="/notes">Notes</Link>
-          </nav>
+          <Navbar />
         </header>
         <article>
           <h1>{title}</h1>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import Navbar from '@common/Navbar';
 import Layout from '@common/Layout';
 import Seo from '@common/SEO';
 import { Container } from '@components/global';
@@ -9,10 +9,7 @@ const OutdoorLog = () => (
   <Layout>
     <StyledContainer>
       <header>
-        <nav>
-          <Link to="/">Home</Link>
-          <Link to="/notes">Notes</Link>
-        </nav>
+        <Navbar />
       </header>
     </StyledContainer>
     <Container>
