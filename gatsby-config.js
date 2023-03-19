@@ -30,6 +30,13 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        name: 'notes',
+        path: `${__dirname}/src/notes/`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
         name: 'art',
         path: `${__dirname}/src/images/art`,
       },
@@ -45,11 +52,14 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: 'gatsby-transformer-remark',
       options: {
+        gfm: true,
         plugins: [
+          'gatsby-remark-bibliography',
+          'gatsby-remark-tufte',
           {
-            resolve: `gatsby-remark-images`,
+            resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 590,
             },
@@ -96,20 +106,6 @@ module.exports = {
         includeInDevelopment: true,
         enableWebVitalsTracking: true,
       },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'notes',
-        path: `${__dirname}/src/notes/`,
-      },
-    },
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        gfm: true,
-        plugins: ['gatsby-remark-bibliography']
-      }
     },
     {
       resolve: 'gatsby-plugin-sitemap',
