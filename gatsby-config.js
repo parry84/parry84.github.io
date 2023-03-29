@@ -105,6 +105,7 @@ module.exports = {
         id: 'GTM-NCXS6P7',
         includeInDevelopment: true,
         enableWebVitalsTracking: true,
+        selfHostedOrigin: 'https://keyhzgng.leuw.stape.io',
       },
     },
     {
@@ -134,30 +135,34 @@ module.exports = {
           }
         }`,
         resolveSiteUrl: ({
-          site: { siteMetadata: {siteUrl}} },
-        ) => siteUrl,
+          site: {
+            siteMetadata: { siteUrl },
+          },
+        }) => siteUrl,
         resolvePages: ({
           allSitePage: { nodes: allPages },
           allMarkdownRemark: { nodes: allMarkdownRemark },
         }) => {
           const noteNodeMap = allMarkdownRemark.reduce((acc, node) => {
-            const { frontmatter: { slug: slug } } = node
-            acc[`/notes/${slug}`] = node.frontmatter
+            const {
+              frontmatter: { slug: slug },
+            } = node;
+            acc[`/notes/${slug}`] = node.frontmatter;
 
-            return acc
-          }, {})
+            return acc;
+          }, {});
 
-          return allPages.map(page => {
-            return { ...page, ...noteNodeMap[page.path] }
-          })
+          return allPages.map((page) => {
+            return { ...page, ...noteNodeMap[page.path] };
+          });
         },
         serialize: ({ path, date_updated }) => {
           return {
             url: path,
             lastmod: date_updated,
-          }
+          };
         },
       },
-    }
+    },
   ],
 };
