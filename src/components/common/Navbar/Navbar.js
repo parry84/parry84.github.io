@@ -7,7 +7,7 @@ export default function Navbar() {
     <nav>
       <Link to="/">Home</Link>
       <Link to="/notes">Notes</Link>
-      <Link to="https://war.ukraine.ua/">Support Ukraine 🇺🇦</Link>
+      <a href="https://war.ukraine.ua/support-ukraine/">Support Ukraine 🇺🇦</a>
     </nav>
   );
 }

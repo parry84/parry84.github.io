@@ -32,7 +32,7 @@ const Notes = () => {
 
   return (
     <NoteLayout title="Parry Notes" hero={hero}>
-      <div class="epigraph">
+      <div className="epigraph">
         <h2>
           La felicità personale e il bene comune sono determinati dalla nostra capacità di pensare
           profondamente e razionalmente.{' '}

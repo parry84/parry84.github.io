@@ -17,21 +17,21 @@ export default function NodeLayout({ title, hero, children }) {
         <article>
           <h1>{title}</h1>
           <section>
-            <p>
-              <label class="margin-toggle" for="sidenote-7">
+            <div className="main">
+              <label className="margin-toggle" htmlFor="sidenote-7">
                 ⊕
               </label>
-              <input class="margin-toggle" id="sidenote-7" type="checkbox" />
-              <span class="marginnote">
+              <input className="margin-toggle" id="sidenote-7" type="checkbox" />
+              <span className="marginnote">
                 <GatsbyImage image={hero.gatsbyImageData} backgroundColor="00ff00" alt="" />
                 {hero.caption}
               </span>
-            </p>
+            </div>
             {children}
           </section>
         </article>
         <footer>
-          <div class="credits" style={{ paddingBottom: 50, paddingTop: 50 }}>
+          <div className="credits" style={{ paddingBottom: 50, paddingTop: 50 }}>
             CC BY-ND | Potete lasciare suggerimenti aprendo una Issue o una Pull Request su{' '}
             <ExternalLink href="https://github.com/parry84/parry84.github.io/tree/master/src/notes">
               GitHub
@@ -164,6 +164,8 @@ const StyledContainer = styled(Container)`
     padding: 1.4rem 0 1.2rem 0;
   }
 
+  // TODO customization over Tufte
+  .main,
   p,
   footer,
   table,
@@ -208,6 +210,7 @@ const StyledContainer = styled(Container)`
   }
 
   @media (max-width: 760px) {
+    .main,
     p,
     footer,
     table,
