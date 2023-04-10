@@ -1,6 +1,5 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import styled from 'styled-components';
 import NoteLayout from '@common/NoteLayout';
 import ShareLinks from '@common/Share';
 import Seo from '@common/SEO';
@@ -38,10 +37,7 @@ export default function PageTemplate({ data }) {
   return (
     <NoteLayout title={title} hero={hero}>
       <div dangerouslySetInnerHTML={{ __html: html }} />
-      <SocialFooter>
-        Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}
-        <ShareLinks note={note} />
-      </SocialFooter>
+      <>Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}</>
     </NoteLayout>
   );
 }
@@ -73,10 +69,4 @@ export const query = graphql`
       }
     }
   }
-`;
-
-const SocialFooter = styled.div`
-  margin-top: 96px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
 `;

@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { StaticImage } from 'gatsby-plugin-image';
 
-import { Section, Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
 
 import { ReactComponent as EmailLogo } from '@images/logos/email.svg';
@@ -13,6 +12,8 @@ import { ReactComponent as FiveHundredPxLogo } from '@images/logos/500px.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as YoutubeLogo } from '@images/logos/youtube.svg';
 import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
+
+import * as styles from '@sections/Social.module.scss';
 
 const LOGOS = [
   {
@@ -50,25 +51,30 @@ const LOGOS = [
 ];
 
 const Social = () => (
-  <Section id="contacts" accent>
-    <StyledContainer>
+  <div className="section" id="contacts" data-accent>
+    <div className={styles.styledContainer}>
       <div>
-        <LogoGrid>
+        <div className={styles.logoGrid}>
           {LOGOS.map(({ logo, link }) => (
             <ExternalLink key={logo} href={link}>
               {logo()}
             </ExternalLink>
           ))}
-        </LogoGrid>
+        </div>
       </div>
-      <Art>
+      <div className={styles.art}>
         <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
-      </Art>
-    </StyledContainer>
-  </Section>
+      </div>
+    </div>
+  </div>
 );
 
-const LogoGrid = styled.div`
+const StyledContainer = (props) => <>{props.children}</>;
+const LogoGrid = (props) => <>{props.children}</>;
+const Art = (props) => <>{props.children}</>;
+const Section = (props) => <>{props.children}</>;
+
+/*const LogoGrid = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 64px;
@@ -114,6 +120,6 @@ const Art = styled.figure`
   @media (max-width: ${(props) => props.theme.screen.md}) {
     display: none;
   }
-`;
+`;*/
 
 export default Social;

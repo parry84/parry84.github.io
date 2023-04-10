@@ -1,0 +1,51 @@
+@import '@styles/theme.scss';
+
+.logoGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 64px;
+  justify-items: center;
+
+  a {
+    svg {
+      width: 212px;
+      height: 50px;
+    }
+    text-decoration: none;
+    background: unset;
+    text-shadow: unset;
+    /* TODO refactor with .no-tufte-underline */
+  }
+
+  @media (max-width: $screen__sm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/*const StyledContainer = styled(Container)`*/
+.styledContainer {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+
+  @media (max-width: $screen__md) {
+    justify-content: center;
+  }
+}
+
+/* const Art = styled.figure` */
+.art {
+  width: 400px;
+  position: absolute;
+  right: 60%;
+
+  @media (max-width: $screen__lg) {
+    top: 0;
+    right: 65%;
+    width: 500px;
+  }
+
+  @media (max-width: $screen__md) {
+    display: none;
+  }
+}

@@ -1,0 +1,29 @@
+@import '@styles/theme.scss';
+
+/*export const Container = styled.div` */
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+
+  @media (min-width: $screen__xs) {
+    max-width: 540px;
+  }
+
+  @media (min-width: $screen__sm) {
+    max-width: 720px;
+  }
+
+  @media (min-width: $screen__md) {
+    max-width: 960px;
+  }
+
+  @media (min-width: $screen__lg) {
+    max-width: 1200px;
+  }
+
+  [data-fluid='true'] {
+    max-width: 1200px !important;
+  }
+}

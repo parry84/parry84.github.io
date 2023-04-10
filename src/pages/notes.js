@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { Link, useStaticQuery, graphql } from 'gatsby';
 import NoteLayout from '@common/NoteLayout';

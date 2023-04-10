@@ -60,7 +60,7 @@ const Team = () => (
       }
     `}
     render={(data) => (
-      <Section id="team" accent="secondary">
+      <Section id="team" data-accent="secondary">
         <Container style={{ position: 'relative' }}>
           <h1>The Team</h1>
           <TeamGrid>
@@ -88,7 +88,7 @@ const Team = () => (
   />
 );
 
-const TeamGrid = styled.div`
+/*const TeamGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, 200px);
   grid-template-rows: min-content;
@@ -147,6 +147,6 @@ const Title = styled.p`
 const Subtitle = styled.p`
   ${(props) => props.theme.font_size.small};
   color: ${(props) => props.theme.color.black.light};
-`;
+`;*/
 
 export default Team;

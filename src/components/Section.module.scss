@@ -1,0 +1,19 @@
+@import '@styles/theme.scss';
+
+/*export const Section = styled.section`*/
+.section {
+  padding: 128px 0;
+  overflow: hidden;
+
+  @media (max-width: $screen__md) {
+    padding: 96px 0;
+  }
+
+  [data-accent='true'] {
+    background-color: $color__primary;
+  }
+
+  [data-accent='secondary'] {
+    background-color: $color__white__dark;
+  }
+}

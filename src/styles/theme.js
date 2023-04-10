@@ -1,4 +1,4 @@
-const theme = {
+/*const theme = {
   font: {
     primary: `'et-book'`,
     secondary: `'et-book'`,
@@ -30,4 +30,4 @@ const theme = {
   },
 };
 
-export default theme;
+export default theme;*/

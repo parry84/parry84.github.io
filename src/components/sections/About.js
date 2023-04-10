@@ -1,13 +1,13 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticImage } from 'gatsby-plugin-image';
 
-import { Section, Container } from '@components/global';
+// import { Section, Container } from '@components/global';
+import * as styles from '@sections/About.module.scss';
 
 const About = () => (
-  <Section id="about">
-    <Container>
-      <Grid>
+  <div className="section" id="about">
+    <div className="container">
+      <div className={styles.grid}>
         <div>
           <h2>Hi</h2>
           <p>
@@ -16,18 +16,18 @@ const About = () => (
             focus on digital electronics, cryptography and cybersecurity.
           </p>
         </div>
-        <Art>
+        <div className={styles.art}>
           <StaticImage src="../../images/art/fast.png" placeholder="blurred" alt="fast" />
-        </Art>
-      </Grid>
-      <Grid inverse>
-        <Art>
+        </div>
+      </div>
+      <div className={styles.grid} data-inverse>
+        <div className={styles.art}>
           <StaticImage
             src="../../images/art/learn_yourself.png"
             placeholder="blurred"
             alt="learn"
           />
-        </Art>
+        </div>
         <div>
           <h2>Crema</h2>
           <p>
@@ -36,8 +36,8 @@ const About = () => (
             more.
           </p>
         </div>
-      </Grid>
-      <Grid>
+      </div>
+      <div className={styles.grid}>
         <div>
           <h2>Around the world</h2>
           <p>
@@ -46,15 +46,20 @@ const About = () => (
             me. My dream is to see the Aurora Borealis some day.
           </p>
         </div>
-        <Art>
+        <div className={styles.art}>
           <StaticImage src="../../images/art/travel.png" placeholder="blurred" alt="travel" />
-        </Art>
-      </Grid>
-    </Container>
-  </Section>
+        </div>
+      </div>
+    </div>
+  </div>
 );
 
-const Grid = styled.div`
+const Grid = (props) => <>{props.children}</>;
+const Art = (props) => <>{props.children}</>;
+const Section = (props) => <>{props.children}</>;
+const Container = (props) => <>{props.children}</>;
+
+/*const Grid = styled.div`
   display: grid;
   grid-template-columns: 3fr 2fr;
   grid-gap: 40px;
@@ -98,5 +103,6 @@ const Art = styled.figure`
   max-width: 380px;
   width: 100%;
 `;
+*/
 
 export default About;

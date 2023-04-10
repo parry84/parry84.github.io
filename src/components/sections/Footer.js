@@ -1,9 +1,7 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-
-import { Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
+import * as styles from '@sections/Footer.module.scss';
 
 const SOCIAL = [];
 
@@ -18,7 +16,7 @@ const Footer = () => (
     `}
     render={(data) => (
       <React.Fragment>
-        <Art>
+        <div className={styles.art}>
           <video
             id="background-video-1"
             playsInline
@@ -30,31 +28,37 @@ const Footer = () => (
           >
             <source src={data.art_pot.publicURL} type="video/mp4" />
           </video>
-        </Art>
-        <FooterWrapper>
-          <StyledContainer>
-            <Copyright>
+        </div>
+        <div className={styles.footerWrapper}>
+          <div className={styles.styledContainer}>
+            <div className={styles.copyright}>
               <h2>© Emanuele Parrinello 2023</h2>
               <div>
                 Illustration(s) from{' '}
                 <ExternalLink href="https://absurd.design">absurd.design</ExternalLink>.
               </div>
-            </Copyright>
-            <SocialIcons>
+            </div>
+            <div className={styles.socialIcons}>
               {SOCIAL.map(({ icon, link }) => (
                 <ExternalLink href={link}>
                   <img src={icon} alt="link" />
                 </ExternalLink>
               ))}
-            </SocialIcons>
-          </StyledContainer>
-        </FooterWrapper>
+            </div>
+          </div>
+        </div>
       </React.Fragment>
     )}
   />
 );
 
-const SocialIcons = styled.div`
+const Art = (props) => <>{props.children}</>;
+const FooterWrapper = (props) => <>{props.children}</>;
+const StyledContainer = (props) => <>{props.children}</>;
+const Copyright = (props) => <>{props.children}</>;
+const SocialIcons = (props) => <>{props.children}</>;
+
+/*const SocialIcons = styled.div`
   display: flex;
 
   img {
@@ -104,5 +108,5 @@ const StyledContainer = styled(Container)`
     text-align: center;
   }
 `;
-
+*/
 export default Footer;

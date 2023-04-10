@@ -1,0 +1,56 @@
+@import '@styles/theme.scss';
+
+/*const SocialIcons = styled.div`*/
+.socialIcons {
+  display: flex;
+
+  @media (max-width: $screen__sm) {
+    margin-top: 40px;
+  }
+}
+
+.socialIcons > img {
+  margin: 0 8px;
+  width: 24px;
+  height: 24px;
+}
+
+/*const FooterWrapper = styled.footer`*/
+.footerWrapper {
+  background-color: $color__primary;
+  padding: 32px 0;
+}
+
+/*const Copyright = styled.div`*/
+.copyright {
+  font-family: $font__secondary $font_size__small;
+  color: $color__black__regular;
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+/*const Art = styled.figure`*/
+.art {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  margin-bottom: 48px;
+  margin-top: 48px;
+  max-width: 100%;
+}
+
+/* const StyledContainer = styled(Container)` */
+.styledContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media (max-width: $screen__sm) {
+    flex-direction: column;
+    text-align: center;
+  }
+}

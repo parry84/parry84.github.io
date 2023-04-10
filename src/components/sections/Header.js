@@ -1,21 +1,19 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticImage } from 'gatsby-plugin-image';
-
-import { Container } from '@components/global';
+import * as styles from '@sections/Header.module.scss';
 
 const Header = () => (
-  <HeaderWrapper>
-    <Container>
-      <Grid>
-        <Art>
+  <div className={styles.headerWrapper}>
+    <div className={styles.container}>
+      <div className={styles.grid}>
+        <div className={styles.art}>
           <StaticImage
             src="../../images/art/me.png"
             placeholder="blurred"
             alt="Emanuele Parrinello"
           />
-        </Art>
-        <Text>
+        </div>
+        <div className={styles.text}>
           <h1>
             Hey,
             <br />
@@ -24,13 +22,18 @@ const Header = () => (
             Welcome!
           </h1>
           <br />
-        </Text>
-      </Grid>
-    </Container>
-  </HeaderWrapper>
+        </div>
+      </div>
+    </div>
+  </div>
 );
 
-const HeaderWrapper = styled.header`
+const Art = (props) => <>{props.children}</>;
+const HeaderWrapper = (props) => <>{props.children}</>;
+const Grid = (props) => <>{props.children}</>;
+const Text = (props) => <>{props.children}</>;
+
+/*const HeaderWrapper = styled.header`
   background-color: ${(props) => props.theme.color.primary};
   padding-top: 96px;
 
@@ -76,6 +79,6 @@ const Text = styled.div`
   @media (max-width: ${(props) => props.theme.screen.md}) {
     justify-self: start;
   }
-`;
+`;*/
 
 export default Header;

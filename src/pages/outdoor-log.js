@@ -1,9 +1,11 @@
+'use client';
+
 import React from 'react';
 import Navbar from '@common/Navbar';
 import Layout from '@common/Layout';
 import Seo from '@common/SEO';
-import { Container } from '@components/global';
-import styled from 'styled-components';
+import { Container } from '@components/Container';
+//import styled from 'styled-components';
 
 const OutdoorLog = () => (
   <Layout>
@@ -29,123 +31,125 @@ export default OutdoorLog;
 
 export const Head = () => <Seo title="The Outdoor Log" pathname="/outdoor-log" />;
 
-const StyledContainer = styled(Container)`
-  width: 55%;
-  padding-left: 12.5%;
-  max-width: 1400px;
+const StyledContainer = (props) => <>{props.children}</>;
 
-  @media (max-width: 760px) {
-    width: 100%;
-    padding-left: 10;
-    padding-right: 10;
+// const StyledContainer = styled(Container)`
+//   width: 55%;
+//   padding-left: 12.5%;
+//   max-width: 1400px;
 
-    p {
-      width: 100%;
-    }
-  }
+//   @media (max-width: 760px) {
+//     width: 100%;
+//     padding-left: 10;
+//     padding-right: 10;
 
-  /*
-  ** Adapted from https://github.com/clayh53/tufte-jekyll/blob/master/css/tufte.scss
-  */
+//     p {
+//       width: 100%;
+//     }
+//   }
 
-  body {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
+//   /*
+//   ** Adapted from https://github.com/clayh53/tufte-jekyll/blob/master/css/tufte.scss
+//   */
 
-  body > header,
-  body > footer {
-    flex: none;
-  }
+//   body {
+//     display: flex;
+//     flex-direction: column;
+//     height: 100%;
+//   }
 
-  body > article {
-    flex: 1 0 auto;
-  }
+//   body > header,
+//   body > footer {
+//     flex: none;
+//   }
 
-  header > nav {
-    padding: 3rem 3rem 0 0;
-    font-size: 1.3rem;
-    font-family: 'Gill Sans';
-  }
+//   body > article {
+//     flex: 1 0 auto;
+//   }
 
-  @media (max-width: 760px) {
-    header > nav {
-      padding-top: 2rem;
-      padding-right: 0px;
-    }
-  }
+//   header > nav {
+//     padding: 3rem 3rem 0 0;
+//     font-size: 1.3rem;
+//     font-family: 'Gill Sans';
+//   }
 
-  header > nav a {
-    display: block;
-    float: right;
-    padding: 0;
-    margin: 0 2rem 0 0;
+//   @media (max-width: 760px) {
+//     header > nav {
+//       padding-top: 2rem;
+//       padding-right: 0px;
+//     }
+//   }
 
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    text-decoration: none;
+//   header > nav a {
+//     display: block;
+//     float: right;
+//     padding: 0;
+//     margin: 0 2rem 0 0;
 
-    /* Needed to make the links clickable. */
-    position: relative;
-    z-index: 1;
-  }
+//     letter-spacing: 0.15em;
+//     text-transform: uppercase;
+//     text-decoration: none;
 
-  header > nav a:first-child {
-    margin-right: 0;
-  }
+//     /* Needed to make the links clickable. */
+//     position: relative;
+//     z-index: 1;
+//   }
 
-  header nav a:link {
-    background-image: none;
-  }
+//   header > nav a:first-child {
+//     margin-right: 0;
+//   }
 
-  footer {
-    width: 95%;
-    font-size: 1.1rem;
-  }
+//   header nav a:link {
+//     background-image: none;
+//   }
 
-  footer code {
-    font-size: 0.9rem;
-  }
+//   footer {
+//     width: 95%;
+//     font-size: 1.1rem;
+//   }
 
-  footer a code {
-    font-size: 0.9rem;
-  }
+//   footer code {
+//     font-size: 0.9rem;
+//   }
 
-  footer hr {
-    display: block;
-    width: 100%;
-    border: 0;
-    margin: 0;
-    height: 1px;
-    background-image: -webkit-linear-gradient(
-      left,
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0.75),
-      rgba(0, 0, 0, 0)
-    );
-    background-image: -moz-linear-gradient(
-      left,
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0.75),
-      rgba(0, 0, 0, 0)
-    );
-    background-image: -ms-linear-gradient(
-      left,
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0.75),
-      rgba(0, 0, 0, 0)
-    );
-    background-image: -o-linear-gradient(
-      left,
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0.75),
-      rgba(0, 0, 0, 0)
-    );
-  }
+//   footer a code {
+//     font-size: 0.9rem;
+//   }
 
-  footer .credits {
-    text-align: center;
-    padding: 1.4rem 0 1.2rem 0;
-  }
-`;
+//   footer hr {
+//     display: block;
+//     width: 100%;
+//     border: 0;
+//     margin: 0;
+//     height: 1px;
+//     background-image: -webkit-linear-gradient(
+//       left,
+//       rgba(0, 0, 0, 0),
+//       rgba(0, 0, 0, 0.75),
+//       rgba(0, 0, 0, 0)
+//     );
+//     background-image: -moz-linear-gradient(
+//       left,
+//       rgba(0, 0, 0, 0),
+//       rgba(0, 0, 0, 0.75),
+//       rgba(0, 0, 0, 0)
+//     );
+//     background-image: -ms-linear-gradient(
+//       left,
+//       rgba(0, 0, 0, 0),
+//       rgba(0, 0, 0, 0.75),
+//       rgba(0, 0, 0, 0)
+//     );
+//     background-image: -o-linear-gradient(
+//       left,
+//       rgba(0, 0, 0, 0),
+//       rgba(0, 0, 0, 0.75),
+//       rgba(0, 0, 0, 0)
+//     );
+//   }
+
+//   footer .credits {
+//     text-align: center;
+//     padding: 1.4rem 0 1.2rem 0;
+//   }
+// `;

@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+/*import styled from 'styled-components';
 
 import { Container } from '@components/global';
 
@@ -84,3 +84,4 @@ export const Mobile = styled.div`
     }
   `}
 `;
+*/

@@ -1,13 +1,9 @@
 const path = require('path');
 
-/*require('ts-node').register({
-  compilerOptions: {
-      module: 'commonjs',
-      target: 'es2017',
-  },
-})*/
-
 module.exports = {
+  flags: {
+    PARTIAL_HYDRATION: true
+  },
   siteMetadata: {
     title: `Emanuele Parrinello (parry84)`,
     description: `Emanuele Parrinello (parry84) personal website. Software developer. Based in Milan`,
@@ -18,8 +14,8 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-robots-txt',
+    'gatsby-plugin-sass',
     'gatsby-plugin-svgr',
-    'gatsby-plugin-styled-components',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
