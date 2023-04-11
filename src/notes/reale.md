@@ -9,6 +9,8 @@ tags:
 caption: Il Flammarion, incisione su legno di un artista sconosciuto
 ---
 
+##
+
 <span class="newthought">Il tempo</span> che rallenta, la massa che aumenta con la velocità. Tutte affermazioni a cui magari crediamo sulla fiducia, ma che intimamente ci sembrano assurde e incomprensibili. Eppure simili fratture fra percezione e realtà si sono verificate ciclicamente nella storia.
 
 Nella Mileto del VI secolo a.C., un uomo di nome Anassimandro, capì per la prima volta che la Terra galleggia nello Spazio. Precedentemente era convinzione comune che la Terra poggiasse su altra terra, o su enormi tartarughe, o su colonne bibliche.

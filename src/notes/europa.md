@@ -8,9 +8,13 @@ tags:
   - politica
 ---
 
-### La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europa unita, speranza per una nuova epoca di pace, è sotto attacco da nemici esterni e interni, e il fuoco dei suoi ideali sembra morente nell’indifferenza generale. È nostro compito superare questa stanchezza intellettuale e tornare a essere protagonisti del progresso
+##
 
----
+<p class="subtitle">
+La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europa unita, speranza per una nuova epoca di pace, è sotto attacco da nemici esterni e interni, e il fuoco dei suoi ideali sembra morente nell’indifferenza generale. È nostro compito superare questa stanchezza intellettuale e tornare a essere protagonisti del progresso
+</p>
+
+##
 
 <span class="newthought">Ti verrebbe</span> mai in mente di entrare in casa di uno sconosciuto uccidere tutti quelli che ci vivono e impadronirti della casa? Ovviamente no, sarebbe sbagliato. Eppure quando i governi decidono d'invadere altri paesi uccidendo milioni di uomini, altrettante persone, brave e oneste, accorrono all'appello, anche a costo della propria vita.
 

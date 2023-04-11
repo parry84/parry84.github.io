@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">La risoluzione</span> del Parlamento Europeo del 19 settembre 2019 dove si equiparano Nazifascismo e Comunismo ha suscitato un atteso vespaio.
 
 In effetti nella nostra società ci scandalizziamo (giustamente) verso chi si proclama fascista, ma lo stesso non avviene verso chi si proclama comunista. Si cercano sempre dei comodi distinguo fra _“comunismo”_ e _“stalinismo”_. Si spiega che il vero comunismo, a differenza del nazismo, non è affatto un'ideologia di sopraffazione e morte: semplicemente, nelle sue realizzazioni pratiche ci dei drammatici errori e che tali incidenti di percorso non furono mai colpa del pensiero di Marx, bensì degli uomini che non seppero applicarlo correttamente.

@@ -1,18 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { ThemeProvider } from 'styled-components';
 
-import theme from '@styles/theme';
-import GlobalStyles from '@styles/GlobalStyles';
+import '@styles/reset.css';
+import '@styles/tufte.css';
 
-const Layout = ({ children }) => (
-  <ThemeProvider theme={theme}>
-    <>
-      <GlobalStyles />
-      {children}
-    </>
-  </ThemeProvider>
-);
+const Layout = ({ children }) => <>{children}</>;
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

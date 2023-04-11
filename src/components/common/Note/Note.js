@@ -1,9 +1,10 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import styled from 'styled-components';
 import NoteLayout from '@common/NoteLayout';
 import ShareLinks from '@common/Share';
 import Seo from '@common/SEO';
+
+import * as styles from './Note.module.scss';
 
 export default function PageTemplate({ data }) {
   if (data.artHero == null) {
@@ -38,10 +39,10 @@ export default function PageTemplate({ data }) {
   return (
     <NoteLayout title={title} hero={hero}>
       <div dangerouslySetInnerHTML={{ __html: html }} />
-      <SocialFooter>
+      <div className={styles.socialFooter}>
         Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}
         <ShareLinks note={note} />
-      </SocialFooter>
+      </div>
     </NoteLayout>
   );
 }
@@ -73,10 +74,4 @@ export const query = graphql`
       }
     }
   }
-`;
-
-const SocialFooter = styled.div`
-  margin-top: 96px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
 `;

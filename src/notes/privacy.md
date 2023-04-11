@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">Durante</span> un viaggio in America Latina mi è capitato di esibire il mio passaporto, certificazioni vaccinali e altri documenti senza dover firmare scartoffie per il trattamento dei dati. Mi sono sentito nudo…
 
 In effetti negli ultimi anni, fra GDPR, banner dei cookie, password robuste, abbiamo assistito a un’attenzione verso il tema della privacy. Molti la vivono addirittura con fastidio. Qualcun’altro invece custodisce con paranoia la propria identità, temendo lo strapotere di _Big Tech_.

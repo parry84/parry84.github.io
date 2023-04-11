@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">Di recente</span> vi è stato un aumento della frequentazione della montagna dovuto a vari fattori, quali la pandemia, le belle fotografie su Instagram e forse anche il caldo.
 
 Nonostante il pensiero comune voglia considerare positivamente questo fenomeno, vi sono diversi lati oscuri. Alcuni di essi sono immediatamente riconoscibili nell’aumento del traffico e la difficoltà di parcheggio nelle località di montagna, o nella quantità di fazzoletti sporchi e altri rifiuti che ormai costellano i nostri sentieri. Purtroppo _quantità_ e _qualità_ sono due concetti ben diversi e le frotte dei “neo-montanari” hanno spesso mantenuto le loro cattive abitudini “cittadine” e le loro strutture del pensiero.

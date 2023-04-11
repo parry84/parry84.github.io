@@ -9,7 +9,13 @@ tags:
 caption: J. J. Grandville, stampa, 1845
 ---
 
-### Secondo il Dilemma del Prigioniero, gli individui razionali potrebbero scegliere di non cooperare anche se farlo fosse nell’interesse di tutte le parti coinvolte. Dando priorità ai propri interessi personali si può giungere a un risultato peggiore in termini generali
+##
+
+<p class="subtitle">
+Secondo il Dilemma del Prigioniero, gli individui razionali potrebbero scegliere di non cooperare anche se farlo fosse nell’interesse di tutte le parti coinvolte. Dando priorità ai propri interessi personali si può giungere a un risultato peggiore in termini generali
+</p>
+
+##
 
 <span class="newthought">La Teoria</span> dei Giochi è un ramo della matematica che studia come le persone prendono decisioni quando sono in competizione. Il Dilemma del Prigioniero è un esempio classico di situazione in cui due individui devono decidere se collaborare o meno, e la scelta di ognuno influirà sul risultato per entrambi.
 

@@ -1,8 +1,10 @@
+'use client';
+
 import React from 'react';
 
 import Layout from '@common/Layout';
 import Seo from '@common/SEO';
-import { Container } from '@components/global';
+import { Container } from '@components/Container';
 
 const NotFoundPage = () => (
   <Layout>

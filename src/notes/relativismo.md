@@ -9,6 +9,8 @@ tags:
 caption: 'M. C. Escher, Relativity, dettaglio. Litografia, 1953'
 ---
 
+##
+
 <div class='epigraph'>
 
 > «La più grande malattia filosofica del nostro tempo è costituita dal relativismo intellettuale e dal relativismo morale.»

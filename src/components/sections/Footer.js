@@ -1,9 +1,8 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-
-import { Container } from '@components/global';
+import { Container } from '@components/Container';
 import ExternalLink from '@common/ExternalLink';
+import * as styles from '@sections/Footer.module.scss';
 
 const SOCIAL = [];
 
@@ -18,7 +17,7 @@ const Footer = () => (
     `}
     render={(data) => (
       <React.Fragment>
-        <Art>
+        <figure className={styles.art}>
           <video
             id="background-video-1"
             playsInline
@@ -30,79 +29,30 @@ const Footer = () => (
           >
             <source src={data.art_pot.publicURL} type="video/mp4" />
           </video>
-        </Art>
-        <FooterWrapper>
-          <StyledContainer>
-            <Copyright>
-              <h2>© Emanuele Parrinello 2023</h2>
-              <div>
-                Illustration(s) from{' '}
-                <ExternalLink href="https://absurd.design">absurd.design</ExternalLink>.
+        </figure>
+        <footer className={styles.footerWrapper}>
+          <Container>
+            <div className={styles.styledContainer}>
+              <div className={styles.copyright}>
+                <h2>© Emanuele Parrinello 2023</h2>
+                <div>
+                  Illustration(s) from{' '}
+                  <ExternalLink href="https://absurd.design">absurd.design</ExternalLink>.
+                </div>
               </div>
-            </Copyright>
-            <SocialIcons>
-              {SOCIAL.map(({ icon, link }) => (
-                <ExternalLink href={link}>
-                  <img src={icon} alt="link" />
-                </ExternalLink>
-              ))}
-            </SocialIcons>
-          </StyledContainer>
-        </FooterWrapper>
+              <div className={styles.socialIcons}>
+                {SOCIAL.map(({ icon, link }) => (
+                  <ExternalLink href={link}>
+                    <img src={icon} alt="link" />
+                  </ExternalLink>
+                ))}
+              </div>
+            </div>
+          </Container>
+        </footer>
       </React.Fragment>
     )}
   />
 );
-
-const SocialIcons = styled.div`
-  display: flex;
-
-  img {
-    margin: 0 8px;
-    width: 24px;
-    height: 24px;
-  }
-
-  @media (max-width: ${(props) => props.theme.screen.sm}) {
-    margin-top: 40px;
-  }
-`;
-
-const FooterWrapper = styled.footer`
-  background-color: ${(props) => props.theme.color.primary};
-  padding: 32px 0;
-`;
-
-const Copyright = styled.div`
-  font-family: ${(props) => props.theme.font.secondary};
-  ${(props) => props.theme.font_size.small};
-  color: ${(props) => props.theme.color.black.regular};
-
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-`;
-
-const Art = styled.figure`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
-  margin-bottom: 48px;
-  margin-top: 48px;
-  max-width: 100%;
-`;
-
-const StyledContainer = styled(Container)`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  @media (max-width: ${(props) => props.theme.screen.sm}) {
-    flex-direction: column;
-    text-align: center;
-  }
-`;
 
 export default Footer;

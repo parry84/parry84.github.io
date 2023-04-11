@@ -8,6 +8,8 @@ tags:
   - arte
 ---
 
+##
+
 <span class="newthought">Perché</span> siamo attratti dalla bellezza? Nelle cose belle percepiamo qualità di cui abbiamo bisogno, ma che mancano nella nostra vita: armonia, equilibrio, pace, forza. La bellezza ha quindi una funzione importante. Essa rivela importanti verità sulla felicità, ed è compito degli artisti aiutarci a vivere vite felici.
 
 La fotografia mi ha insegnato ad apprezzare i piccoli dettagli e a trovare la bellezza anche dove non ci si aspetterebbe di trovarla. Anche un vecchio attrezzo agricolo arrugginito può risultare affascinante e suggestivo. Se per una descrizione oggettiva della realtà, mille parole valgono quasi sempre più di un’immagine, nelle [mie esplorazioni](https://500px.com/p/parry84) preferisco ribaltare l’assunto razionalista: non è l’utile a essere bello, ma è il bello a essere utile.

@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">Nelle sue</span> forme più estreme, il politicamente corretto costituisce una minaccia alla libertà d’espressione. È dunque giusto, e doveroso, contrastare ogni forma di maccartismo culturale e i dogmi del conformismo. Tuttavia, nell’era del populismo, il suo duale, ovvero il _politicamente scorretto_, ha preso una brutta piega, fatta di luoghi comuni, spesso banali, che sterilizzano il discorso piuttosto che farlo progredire.
 
 I nuovi meccanismi social premiano la polemica _low cost_ garantendo un’automatica visibilità a chi la spara più grossa. Basta mezz’ora nella sezione commenti per constatare che al momento non esiste nessuna dittatura del politicamente corretto, ma, al contrario, esiste una volgarità senza limiti.

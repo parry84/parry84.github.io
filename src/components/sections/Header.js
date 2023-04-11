@@ -1,21 +1,20 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticImage } from 'gatsby-plugin-image';
-
-import { Container } from '@components/global';
+import { Container } from '@components/Container';
+import * as styles from '@sections/Header.module.scss';
 
 const Header = () => (
-  <HeaderWrapper>
+  <header className={styles.headerWrapper}>
     <Container>
-      <Grid>
-        <Art>
+      <div className={styles.grid}>
+        <figure className={styles.art}>
           <StaticImage
             src="../../images/art/me.png"
             placeholder="blurred"
             alt="Emanuele Parrinello"
           />
-        </Art>
-        <Text>
+        </figure>
+        <div className={styles.text}>
           <h1>
             Hey,
             <br />
@@ -24,58 +23,10 @@ const Header = () => (
             Welcome!
           </h1>
           <br />
-        </Text>
-      </Grid>
+        </div>
+      </div>
     </Container>
-  </HeaderWrapper>
+  </header>
 );
-
-const HeaderWrapper = styled.header`
-  background-color: ${(props) => props.theme.color.primary};
-  padding-top: 96px;
-
-  @media (max-width: ${(props) => props.theme.screen.md}) {
-    padding-top: 128px;
-  }
-`;
-
-const Art = styled.figure`
-  width: 80%;
-  margin: 0;
-
-  > div {
-    width: 100%;
-    margin-bottom: 25%;
-    margin-left: 25%;
-
-    @media (max-width: ${(props) => props.theme.screen.md}) {
-      width: 100%;
-    }
-  }
-`;
-
-const Grid = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
-  grid-gap: 64px;
-
-  @media (max-width: ${(props) => props.theme.screen.md}) {
-    grid-template-columns: 1fr;
-    grid-gap: 80px;
-
-    > ${Art} {
-      order: 2;
-    }
-  }
-`;
-
-const Text = styled.div`
-  justify-self: center;
-
-  @media (max-width: ${(props) => props.theme.screen.md}) {
-    justify-self: start;
-  }
-`;
 
 export default Header;

@@ -8,6 +8,8 @@ tags:
   - filosofia
 ---
 
+##
+
 <span class="newthought">Esistere è</span> un fenomeno colossale, e, sin dall’alba dei tempi, l’Uomo si è interrogato sul suo significato. È stato durante un viaggio in barca lungo il fiume Ogooué (Gabon), a inizio ‘900, quando nella mente di Albert Schweitzer balenarono le parole _“Riverenza per la vita”_.
 
 Che significa? Tu dai valore alla tua vita? Vuoi continuare a vivere? Certamente sì! Questa è la consapevolezza basilare immediatamente disponibile alla conoscenza, che accomuna tutti gli esseri viventi: il desiderio di continuare a vivere. L’uomo con la sua razionalità ascolta il suo cuore, e comprende questa verità: “Io sono la vita che vuole vivere in mezzo alla vita che vuole vivere”.

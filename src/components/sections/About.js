@@ -1,13 +1,14 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticImage } from 'gatsby-plugin-image';
 
-import { Section, Container } from '@components/global';
+import { Section } from '@components/Section';
+import { Container } from '@components/Container';
+import * as styles from '@sections/About.module.scss';
 
 const About = () => (
   <Section id="about">
     <Container>
-      <Grid>
+      <div className={styles.grid}>
         <div>
           <h2>Hi</h2>
           <p>
@@ -16,18 +17,18 @@ const About = () => (
             focus on digital electronics, cryptography and cybersecurity.
           </p>
         </div>
-        <Art>
+        <figure className={styles.art}>
           <StaticImage src="../../images/art/fast.png" placeholder="blurred" alt="fast" />
-        </Art>
-      </Grid>
-      <Grid inverse>
-        <Art>
+        </figure>
+      </div>
+      <div className={styles.grid} data-inverse>
+        <figure className={styles.art}>
           <StaticImage
             src="../../images/art/learn_yourself.png"
             placeholder="blurred"
             alt="learn"
           />
-        </Art>
+        </figure>
         <div>
           <h2>Crema</h2>
           <p>
@@ -36,8 +37,8 @@ const About = () => (
             more.
           </p>
         </div>
-      </Grid>
-      <Grid>
+      </div>
+      <div className={styles.grid}>
         <div>
           <h2>Around the world</h2>
           <p>
@@ -46,57 +47,12 @@ const About = () => (
             me. My dream is to see the Aurora Borealis some day.
           </p>
         </div>
-        <Art>
+        <figure className={styles.art}>
           <StaticImage src="../../images/art/travel.png" placeholder="blurred" alt="travel" />
-        </Art>
-      </Grid>
+        </figure>
+      </div>
     </Container>
   </Section>
 );
-
-const Grid = styled.div`
-  display: grid;
-  grid-template-columns: 3fr 2fr;
-  grid-gap: 40px;
-  text-align: right;
-  align-items: center;
-  justify-items: center;
-  margin: 24px 0;
-
-  ${(props) =>
-    props.inverse &&
-    `
-    text-align: left;
-    grid-template-columns: 2fr 3fr;
-  `}
-
-  h2 {
-    margin-bottom: 16px;
-  }
-
-  @media (max-width: ${(props) => props.theme.screen.md}) {
-    grid-template-columns: 1fr;
-    text-align: left;
-    margin-bottom: 96px;
-
-    &:last-child {
-      margin-bottom: 24px;
-    }
-
-    ${(props) =>
-      props.inverse &&
-      `
-        ${Art} {
-          order: 2;
-        }
-    `}
-  }
-`;
-
-const Art = styled.figure`
-  margin: 0;
-  max-width: 380px;
-  width: 100%;
-`;
 
 export default About;

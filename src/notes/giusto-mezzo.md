@@ -8,6 +8,8 @@ tags:
   - filosofia
 ---
 
+##
+
 <span class="newthought">In un mondo</span> sempre più polarizzato è importate evitare estremi dogmatici. Uno strumento che ci viene in aiuto è il principio del _Giusto Mezzo_, espresso da Aristotele\cite{aristotele}, secondo cui la virtù umana altro non è che il punto di equilibro tra due opposti errori, l’uno dei quali pecca per difetto e l’altro per eccesso. I Greci consideravano la moderazione essere un attributo della bellezza, e di conseguenza, buona.
 
 Nel secondo libro dell’Etica Nicomachea, il Filosofo elenca le singole virtù:

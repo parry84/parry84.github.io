@@ -1,0 +1,42 @@
+@import '@styles/theme.scss';
+
+.grid {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  grid-gap: 40px;
+  text-align: right;
+  align-items: center;
+  justify-items: center;
+  margin: 24px 0;
+
+  &[data-inverse] {
+    text-align: left;
+    grid-template-columns: 2fr 3fr;
+  }
+
+  h2 {
+    margin-bottom: 16px;
+  }
+
+  @media (max-width: $screen__md) {
+    grid-template-columns: 1fr;
+    text-align: left;
+    margin-bottom: 96px;
+
+    &:last-child {
+      margin-bottom: 24px;
+    }
+
+    &[data-inverse] {
+      .art {
+        order: 2;
+      }
+    }
+  }
+}
+
+figure.art {
+  margin: 0;
+  max-width: 380px;
+  width: 100%;
+}

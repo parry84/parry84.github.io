@@ -18,9 +18,9 @@
     "gatsby-plugin-manifest": "^5.8.0",
     "gatsby-plugin-offline": "^6.8.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
+    "gatsby-plugin-sass": "^6.8.0",
     "gatsby-plugin-sharp": "^5.8.1",
     "gatsby-plugin-sitemap": "^6.8.0",
-    "gatsby-plugin-styled-components": "^6.8.0",
     "gatsby-plugin-svgr": "^3.0.0-beta.0",
     "gatsby-remark-bibliography": "git+https://github.com/parry84/gatsby-remark-bibliography.git",
     "gatsby-remark-images": "^7.8.0",
@@ -29,6 +29,7 @@
     "gatsby-transformer-remark": "^6.8.0",
     "gatsby-transformer-sharp": "^5.8.0",
     "install": "^0.13.0",
+    "node-sass": "^8.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
@@ -36,9 +37,8 @@
     "react-dom": "^18.2.0",
     "react-scrollspy": "^3.4.3",
     "react-share": "^4.4.1",
-    "react-syntax-highlighter": "^15.5.0",
-    "styled-components": "^5.3.9",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "tufte-css": "^1.8.0"
   },
   "keywords": [
     "parry84"
@@ -50,7 +50,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "deploy": "gatsby build && gh-pages --dist public --branch master",
-    "format": "prettier --write \"src/**/*.{js,jsx,json,md}\""
+    "format": "prettier --write \"src/**/*.{js,jsx,json,md,css,scss}\""
   },
   "devDependencies": {
     "@types/node": "^18.15.11",

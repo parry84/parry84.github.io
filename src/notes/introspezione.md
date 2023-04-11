@@ -9,6 +9,8 @@ tags:
 caption: Bozzetto raffigurante Il Pensatore di Auguste Rodin
 ---
 
+##
+
 <span class="newthought">Questa esortazione</span>, «γνῶθι σαυτόν», era inscritta sul frontone del tempio di Apollo a Delfi.
 
 In questi tempi frenetici, raramente ci concediamo il tempo di meditare sulla nostra vita e su come viverla. Spesso ci limitiamo a pensare e agire per sentito dire. Eppure questo _senso comune_ è pieno di errori e pregiudizi.
