@@ -1,7 +1,6 @@
 @import '@styles/theme.scss';
 
-/*export const Section = styled.section`*/
-.section {
+section.section {
   padding: 128px 0;
   overflow: hidden;
 
@@ -9,11 +8,11 @@
     padding: 96px 0;
   }
 
-  [data-accent='true'] {
+  &[data-accent='primary'] {
     background-color: $color__primary;
   }
 
-  [data-accent='secondary'] {
+  &[data-accent='secondary'] {
     background-color: $color__white__dark;
   }
 }

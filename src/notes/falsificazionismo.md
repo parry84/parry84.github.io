@@ -9,6 +9,8 @@ tags:
 caption: 'Illustrazione tratta dal volume "Scènes de la vie privée et publique des animaux" a cura di Pierre Jules Hetzel pubblicato a Parigi fra il 1840 e il 1842'
 ---
 
+##
+
 <span class="newthought">Fa parte</span> della natura umana: vediamo solo quello che vogliamo vedere. Cerchiamo solo conferme di ciò che già crediamo e pensiamo. Vogliamo sempre credere di essere nel giusto e non accettiamo l’idea di essere contraddetti dalla realtà. Questo però porta a chiuderci irreparabilmente nei nostri errori.
 
 Come uscirne?

@@ -4,6 +4,8 @@ import NoteLayout from '@common/NoteLayout';
 import ShareLinks from '@common/Share';
 import Seo from '@common/SEO';
 
+import * as styles from './Note.module.scss';
+
 export default function PageTemplate({ data }) {
   if (data.artHero == null) {
     data.artHero = {
@@ -37,7 +39,10 @@ export default function PageTemplate({ data }) {
   return (
     <NoteLayout title={title} hero={hero}>
       <div dangerouslySetInnerHTML={{ __html: html }} />
-      <>Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}</>
+      <div className={styles.socialFooter}>
+        Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}
+        <ShareLinks note={note} />
+      </div>
     </NoteLayout>
   );
 }

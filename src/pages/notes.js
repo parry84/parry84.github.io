@@ -34,21 +34,23 @@ const Notes = () => {
 
   return (
     <NoteLayout title="Parry Notes" hero={hero}>
-      <div className="epigraph">
-        <h2>
+      <section>
+        <p className="subtitle">
           La felicità personale e il bene comune sono determinati dalla nostra capacità di pensare
-          profondamente e razionalmente.{' '}
-        </h2>
-      </div>
-      <ul>
-        {notes
-          .filter(() => true)
-          .map((note) => (
-            <li key={note.id}>
-              <Link to={note.frontmatter.slug}>{note.frontmatter.title}</Link>{' '}
-            </li>
-          ))}
-      </ul>
+          profondamente e razionalmente.
+        </p>
+      </section>
+      <section>
+        <ul>
+          {notes
+            .filter(() => true)
+            .map((note) => (
+              <li key={note.id}>
+                <Link to={note.frontmatter.slug}>{note.frontmatter.title}</Link>{' '}
+              </li>
+            ))}
+        </ul>
+      </section>
     </NoteLayout>
   );
 };

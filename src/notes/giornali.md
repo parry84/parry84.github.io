@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">L’informazione</span> in è crisi oramai da diversi anni. Le tirature sono ridotte ai minimi termini. Gli abbonamenti digitali stentano a decollare. La fiducia dei cittadini nella stampa sta scomparendo. Si cerca di pareggiare i conti esclusivamente comprimendo i costi (ormai un articolo è pagato pochi centesimi a parola). Ma questo porta solo a cadere ulteriormente nella spirale negativa.
 Si potrebbe frettolosamente imputare il 100% della colpa ai giornali: il crollo delle vendite è la giusta punizione per l’attuale qualità scadente della stampa.
 

@@ -9,6 +9,8 @@ tags:
 caption: 'Illustrazione © absurd.design'
 ---
 
+##
+
 <span class="newthought">Ci sono</span> situazioni nella vita in cui si è tentati da scorciatoie che comportano dei rischi. Per questioni importanti, come la manutenzione di un aereo, sarebbe pericolosissimo omettere dei controlli allo scopo di risparmiare tempo.
 
 Anche l’ordinamento sociale è oggetto di questo dilemma: ancora oggi siamo sedotti dall’“uomo forte” in grado di offrire soluzioni miracolose ai nostri problemi. Tale imprudenza è stata foriera di tragedie in passato e nel presente: si pensi, ad esempio, alla Russia di Putin trascinata in una guerra terribile e senza senso, o alla politica Zero Covid della Cina o all’iperinflazione in Turchia e Venezuela. Questi popoli hanno lasciato le loro sorti nelle mani dei dittatori e ora non possono più opporsi alle scelte sbagliate.

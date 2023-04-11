@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   flags: {
-    PARTIAL_HYDRATION: true
+    PARTIAL_HYDRATION: false
   },
   siteMetadata: {
     title: `Emanuele Parrinello (parry84)`,

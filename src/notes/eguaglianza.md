@@ -8,6 +8,8 @@ tags:
   - viaggi
 ---
 
+##
+
 Puntuale, ogni anno, arriva il forum di Davos. E in concomitanza con quest'ultimo, il fatidico rapporto Oxfam sulla disparità sociale, accompagnato da articoli, libri, manifestazioni dove le disparità economiche “causate dal neoliberismo” sono accusate di aver impoverito i popoli.
 
 Certamente la disuguaglianza non è una virtù ed è un problema quando diventa eccessiva, quando offende la dignità delle persone, quando impedisce o blocca le potenzialità di sviluppo. Ma è necessario sfatare alcuni miti.

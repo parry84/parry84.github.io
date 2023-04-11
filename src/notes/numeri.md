@@ -9,6 +9,8 @@ tags:
 caption: 'Marin Mersenne: Harmonicorum, libri XII: in quibus agitur de sonorum natura, causis, et affectibus; de consonantiis, dissonantiis, rationibus, generibus, modis, cantibus, compositione, orbisque totius harmonicis instrumentis, Paris 1648.'
 ---
 
+##
+
 <div class="epigraph">
     <blockquote>
         <p>«L’ingegneria è l’arte di dare un senso compiuto alla parola abbastanza.»</p>

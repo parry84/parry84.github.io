@@ -1,26 +1,18 @@
 'use client';
 
 import React from 'react';
-import SyntaxHighlighter from 'react-syntax-highlighter';
-import { github } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-//import styled from 'styled-components';
-
-import Navbar from '@common/Navbar';
-import Layout from '@common/Layout';
 import Seo from '@common/SEO';
-import { Container } from '@components/Container';
+import NoteLayout from '@common/NoteLayout';
 
 const ContactPage = () => (
-  <Layout>
-    <StyledContainer>
-      <header>
-        <Navbar />
-      </header>
-      <h1>Contact me</h1>
-      <h2>Run the following program to reveal my email:</h2>
-
-      <SyntaxHighlighter language="racket" style={github}>
-        {`#lang racket
+  <NoteLayout title="Contact me" hero="">
+    <section>
+      <p className="subtitle">Run the following program to reveal my email</p>
+    </section>
+    <section>
+      <pre>
+        <code>
+          {`#lang racket
 (define A (char->integer #\\A))
 (define Z (char->integer #\\Z))
 (define a (char->integer #\\a))
@@ -38,9 +30,13 @@ const ContactPage = () => (
   (list->string (for/list ([c (in-string s)]) (rotate c))))
 
 (caesar "qbssz84@hnbjm.dpn")`}
-      </SyntaxHighlighter>
-
-      <h2>My PGP key:</h2>
+        </code>
+      </pre>
+    </section>
+    <section>
+      <p className="subtitle">My PGP key</p>
+    </section>
+    <section>
       <pre>
         {`-----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -94,141 +90,9 @@ hjISuqGIMXZl47/FsoiWPL4z2OAWU5fZeEZJ5If6xzl41u4liWA=
 =/FPo
 -----END PGP PUBLIC KEY BLOCK-----`}
       </pre>
-    </StyledContainer>
-  </Layout>
+    </section>
+  </NoteLayout>
 );
-
-const StyledContainer = (props) => <>{props.children}</>;
-
-// const StyledContainer = styled(Container)`
-//   pre {
-//     width: 60%;
-//   }
-
-//   code {
-//     width: 90%;
-//   }
-
-//   // TODO refactor css
-//   width: 55%;
-//   padding-left: 12.5%;
-//   max-width: 1400px;
-
-//   @media (max-width: 760px) {
-//     width: 100%;
-//     padding-left: 10;
-//     padding-right: 10;
-
-//     p {
-//       width: 100%;
-//     }
-//   }
-
-//   /*
-//   ** Adapted from https://github.com/clayh53/tufte-jekyll/blob/master/css/tufte.scss
-//   */
-
-//   body {
-//     display: flex;
-//     flex-direction: column;
-//     height: 100%;
-//   }
-
-//   body > header,
-//   body > footer {
-//     flex: none;
-//   }
-
-//   body > article {
-//     flex: 1 0 auto;
-//   }
-
-//   header > nav {
-//     padding: 3rem 3rem 0 0;
-//     font-size: 1.3rem;
-//     font-family: 'Gill Sans';
-//   }
-
-//   @media (max-width: 760px) {
-//     header > nav {
-//       padding-top: 2rem;
-//       padding-right: 0px;
-//     }
-//   }
-
-//   header > nav a {
-//     display: block;
-//     float: right;
-//     padding: 0;
-//     margin: 0 2rem 0 0;
-
-//     letter-spacing: 0.15em;
-//     text-transform: uppercase;
-//     text-decoration: none;
-
-//     /* Needed to make the links clickable. */
-//     position: relative;
-//     z-index: 1;
-//   }
-
-//   header > nav a:first-child {
-//     margin-right: 0;
-//   }
-
-//   header nav a:link {
-//     background-image: none;
-//   }
-
-//   footer {
-//     width: 95%;
-//     font-size: 1.1rem;
-//   }
-
-//   footer code {
-//     font-size: 0.9rem;
-//   }
-
-//   footer a code {
-//     font-size: 0.9rem;
-//   }
-
-//   footer hr {
-//     display: block;
-//     width: 100%;
-//     border: 0;
-//     margin: 0;
-//     height: 1px;
-//     background-image: -webkit-linear-gradient(
-//       left,
-//       rgba(0, 0, 0, 0),
-//       rgba(0, 0, 0, 0.75),
-//       rgba(0, 0, 0, 0)
-//     );
-//     background-image: -moz-linear-gradient(
-//       left,
-//       rgba(0, 0, 0, 0),
-//       rgba(0, 0, 0, 0.75),
-//       rgba(0, 0, 0, 0)
-//     );
-//     background-image: -ms-linear-gradient(
-//       left,
-//       rgba(0, 0, 0, 0),
-//       rgba(0, 0, 0, 0.75),
-//       rgba(0, 0, 0, 0)
-//     );
-//     background-image: -o-linear-gradient(
-//       left,
-//       rgba(0, 0, 0, 0),
-//       rgba(0, 0, 0, 0.75),
-//       rgba(0, 0, 0, 0)
-//     );
-//   }
-
-//   footer .credits {
-//     text-align: center;
-//     padding: 1.4rem 0 1.2rem 0;
-//   }
-// `;
 
 export default ContactPage;
 

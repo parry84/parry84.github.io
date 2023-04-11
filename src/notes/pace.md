@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">Il «capitalismo»</span> è un po’ come il «diavolo» durante il medioevo, la colpa di tutti i malanni dell’umanità, fra cui ovviamente tutte le guerre. Pertanto la pace nel mondo salute arriverà solo con la distruzione del capitalismo e l'instaurazione del suo opposto, che è il socialismo.
 Purtroppo però la fede cieca nelle ideologie non aiuta a ragionare e porta spesso a prendere decisioni errate. Io vorrei mostrare, a coloro non fossero ermeticamente impermeabili alla logica, che tale idea è assolutamente falsa e che è, anzi, proprio il contrario a essere vero.
 

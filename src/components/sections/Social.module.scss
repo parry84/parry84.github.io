@@ -22,7 +22,6 @@
   }
 }
 
-/*const StyledContainer = styled(Container)`*/
 .styledContainer {
   display: flex;
   justify-content: flex-end;
@@ -33,8 +32,7 @@
   }
 }
 
-/* const Art = styled.figure` */
-.art {
+figure.art {
   width: 400px;
   position: absolute;
   right: 60%;

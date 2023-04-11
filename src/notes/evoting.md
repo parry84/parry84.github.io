@@ -9,9 +9,13 @@ tags:
 summary: Il voto elettronico è afflitto da rischi di sicurezza ineliminabili che non sono giustificati dai vantaggi reali. Il solo sospetto di frode elettorale mina di per sé lo stato di salute della democrazia, in quanto basata sulla fiducia.
 ---
 
-### Il voto elettronico è afflitto da rischi di sicurezza ineliminabili e ingiustificati dai vantaggi reali. Il solo sospetto di frode elettorale mina di per sé lo stato di salute della democrazia, essendo basata sulla fiducia
+##
 
----
+<p class="subtitle">
+Il voto elettronico è afflitto da rischi di sicurezza ineliminabili e ingiustificati dai vantaggi reali. Il solo sospetto di frode elettorale mina di per sé lo stato di salute della democrazia, essendo basata sulla fiducia
+</p>
+
+##
 
 <span class="newthought">Le elezioni</span> americane del 2016, e la relativa diatriba sui brogli elettorali hanno riacceso il dibattito sul voto elettronico (“e-voting”). **Nonostante può sembrare (e probabilmente è) vantaggioso in termini di efficienza, esso è, tuttavia, pragmaticamente, una pessima idea**.
 

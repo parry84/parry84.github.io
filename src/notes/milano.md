@@ -9,6 +9,8 @@ tags:
 caption: 'Olio su tela, di Loredano Rizzotti, raffigurante casa di ringhiera'
 ---
 
+##
+
 <span class="newthought">Ci sono città</span> di evidente bellezza, e altre che invece richiedono di essere scoperte. È sempre più difficile trovare esperienze autentiche a Milano: l’aumento dei franchising e dei turisti hanno appiattito l’offerta, anche i Navigli, ormai soffocati dalla _movida_, stanno perdendo la loro atmosfera.
 
 Vorrei in questi appunti mantenere la lista dei miei _insider tips_:

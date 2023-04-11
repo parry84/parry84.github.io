@@ -9,7 +9,7 @@
   justify-items: center;
   margin: 24px 0;
 
-  [data-inverse='true'] {
+  &[data-inverse] {
     text-align: left;
     grid-template-columns: 2fr 3fr;
   }
@@ -27,7 +27,7 @@
       margin-bottom: 24px;
     }
 
-    [data-inverse='true'] {
+    &[data-inverse] {
       .art {
         order: 2;
       }
@@ -35,7 +35,7 @@
   }
 }
 
-.art {
+figure.art {
   margin: 0;
   max-width: 380px;
   width: 100%;

@@ -8,6 +8,8 @@ tags:
   - politica
 ---
 
+##
+
 <span class="newthought">Ogni mattina</span> il mondo pare più confuso e disordinato del giorno precedente. Sembra che nulla vada per il verso giusto. Cerchiamo continuamente di aggiustare la nostra vita, ma i nostri sforzi creano problemi maggiori di quelli che si volevano risolvere.
 
 La stessa inesorabile forza di disintegrazione sta divorando tutti noi, indipendentemente da dove viviamo o dal sistema politico che adottiamo: è quindi sciocco incolpare singoli dirigenti o ideologie per un problema che è universale: la causa risiede in una legge fisica fondamentale, e che, come tale, non potrà essere cambiata da alcun governo, protesta o petizione su _change.org_.

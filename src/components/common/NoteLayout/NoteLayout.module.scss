@@ -1,0 +1,12 @@
+.tufteLayout {
+  width: 87.5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12.5%;
+  max-width: 1400px;
+
+  @media (max-width: 760px) {
+    padding: 0;
+    width: 100%;
+  }
+}

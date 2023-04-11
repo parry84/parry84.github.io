@@ -1,6 +1,5 @@
 @import '@styles/theme.scss';
 
-/*const SocialIcons = styled.div`*/
 .socialIcons {
   display: flex;
 
@@ -15,13 +14,11 @@
   height: 24px;
 }
 
-/*const FooterWrapper = styled.footer`*/
-.footerWrapper {
+footer.footerWrapper {
   background-color: $color__primary;
   padding: 32px 0;
 }
 
-/*const Copyright = styled.div`*/
 .copyright {
   font-family: $font__secondary $font_size__small;
   color: $color__black__regular;
@@ -32,8 +29,7 @@
   }
 }
 
-/*const Art = styled.figure`*/
-.art {
+figure.art {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -43,7 +39,6 @@
   max-width: 100%;
 }
 
-/* const StyledContainer = styled(Container)` */
 .styledContainer {
   display: flex;
   justify-content: space-between;

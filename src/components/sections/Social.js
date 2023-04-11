@@ -1,8 +1,10 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticImage } from 'gatsby-plugin-image';
 
 import ExternalLink from '@common/ExternalLink';
+
+import { Container } from '@components/Container';
+import { Section } from '@components/Section';
 
 import { ReactComponent as EmailLogo } from '@images/logos/email.svg';
 import { ReactComponent as FacebookLogo } from '@images/logos/facebook.svg';
@@ -51,9 +53,12 @@ const LOGOS = [
 ];
 
 const Social = () => (
-  <div className="section" id="contacts" data-accent>
-    <div className={styles.styledContainer}>
-      <div>
+  <Section id="contacts" accent="primary">
+    <Container>
+      <div className={styles.styledContainer}>
+        <figure className={styles.art}>
+          <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
+        </figure>
         <div className={styles.logoGrid}>
           {LOGOS.map(({ logo, link }) => (
             <ExternalLink key={logo} href={link}>
@@ -62,64 +67,8 @@ const Social = () => (
           ))}
         </div>
       </div>
-      <div className={styles.art}>
-        <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
-      </div>
-    </div>
-  </div>
+    </Container>
+  </Section>
 );
-
-const StyledContainer = (props) => <>{props.children}</>;
-const LogoGrid = (props) => <>{props.children}</>;
-const Art = (props) => <>{props.children}</>;
-const Section = (props) => <>{props.children}</>;
-
-/*const LogoGrid = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 64px;
-  justify-items: center;
-
-  a {
-    svg {
-      width: 212px;
-      height: 50px;
-    }
-    text-decoration: none;
-    background: unset;
-    text-shadow: unset;
-    // TODO refactor with .no-tufte-underline
-  }
-
-  @media (max-width: ${(props) => props.theme.screen.sm}) {
-    grid-template-columns: 1fr;
-  }
-`;
-
-const StyledContainer = styled(Container)`
-  display: flex;
-  justify-content: flex-end;
-  position: relative;
-
-  @media (max-width: ${(props) => props.theme.screen.md}) {
-    justify-content: center;
-  }
-`;
-
-const Art = styled.figure`
-  width: 400px;
-  position: absolute;
-  right: 60%;
-
-  @media (max-width: ${(props) => props.theme.screen.lg}) {
-    top: 0;
-    right: 65%;
-    width: 500px;
-  }
-
-  @media (max-width: ${(props) => props.theme.screen.md}) {
-    display: none;
-  }
-`;*/
 
 export default Social;

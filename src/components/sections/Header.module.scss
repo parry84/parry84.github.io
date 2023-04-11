@@ -1,6 +1,6 @@
 @import '@styles/theme.scss';
 
-.headerWrapper {
+header.headerWrapper {
   background-color: $color__primary;
   padding-top: 96px;
 
@@ -9,11 +9,11 @@
   }
 }
 
-.art {
+figure.art {
   width: 80%;
   margin: 0;
 
-  div {
+  > div {
     width: 100%;
     margin-bottom: 25%;
     margin-left: 25%;
