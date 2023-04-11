@@ -37,7 +37,6 @@
     "react-dom": "^18.2.0",
     "react-scrollspy": "^3.4.3",
     "react-share": "^4.4.1",
-    "react-syntax-highlighter": "^15.5.0",
     "ts-node": "^10.9.1",
     "tufte-css": "^1.8.0"
   },
