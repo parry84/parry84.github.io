@@ -46,6 +46,8 @@ Each of the sections in the site are placed in `src/sections`. Data is usually s
 
 The component `src/components/common/SEO.js` handles all meta data and SEO content, modify the `SEO_DATA` variable to add the data automatically. For application manifest data and favicon, modify the `gatsby-plugin-manifest` configuration in `gatsby-config.js`.
 
+The canonical paths are withouth the trailing slash (a path with the trailing slash will redirect to the canonical version).
+
 ### Styling
 
 This project uses a CSS reset and the Tufte CSS as global style and CSS modules for styling components.

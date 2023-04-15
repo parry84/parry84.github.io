@@ -4,6 +4,7 @@ module.exports = {
   flags: {
     PARTIAL_HYDRATION: false
   },
+  trailingSlash: "never",
   siteMetadata: {
     title: `Emanuele Parrinello (parry84)`,
     description: `Emanuele Parrinello (parry84) personal website. Software developer. Based in Milan`,
@@ -16,13 +17,6 @@ module.exports = {
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-sass',
     'gatsby-plugin-svgr',
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'team',
-        path: `${__dirname}/src/images/team`,
-      },
-    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -152,10 +146,10 @@ module.exports = {
             return { ...page, ...noteNodeMap[page.path] };
           });
         },
-        serialize: ({ path, date_updated }) => {
+        serialize: ({ path, dateUpdated }) => {
           return {
             url: path,
-            lastmod: date_updated,
+            lastmod: dateUpdated,
           };
         },
       },

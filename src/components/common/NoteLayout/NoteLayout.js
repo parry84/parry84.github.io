@@ -5,7 +5,7 @@ import Navbar from '@common/Navbar';
 import Layout from '@common/Layout';
 import ExternalLink from '../ExternalLink';
 
-import { GatsbyImage } from 'gatsby-plugin-image';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
 import * as styles from './NoteLayout.module.scss';
 
@@ -25,7 +25,6 @@ export default function NodeLayout({ title, hero, children }) {
               </label>
               <input className="margin-toggle" id="sidenote-7" type="checkbox" />
               <span className="marginnote">
-                <GatsbyImage image={hero.gatsbyImageData} backgroundColor="00ff00" alt="" />
                 {hero.caption}
               </span>
             </p>
