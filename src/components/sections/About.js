@@ -1,6 +1,6 @@
 import React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
-
+import { Link } from 'gatsby';
 import { Section } from '@components/Section';
 import { Container } from '@components/Container';
 import * as styles from '@sections/About.module.scss';
@@ -33,8 +33,8 @@ const About = () => (
           <h2>Crema</h2>
           <p>
             I was born in Crema. I've always been a curious person and an avid learner.{' '}
-            <a href="/notes">On these pages</a>, I share my reflections on life, technology, and
-            more.
+            <Link to="/notes/">On these pages</Link>, I share my reflections on life, technology,
+            and more.
           </p>
         </div>
       </div>
@@ -43,8 +43,8 @@ const About = () => (
           <h2>Around the world</h2>
           <p>
             I often need to flee the chaotic streets of Milan, just to get lost in the{' '}
-            <a href="/outdoor-log">wilderness of the nearby Alps</a>. I always carry my reflex with
-            me. My dream is to see the Aurora Borealis some day.
+            <Link to="/outdoor-log/">wilderness of the nearby Alps</Link>. I always carry my reflex
+            with me. My dream is to see the Aurora Borealis some day.
           </p>
         </div>
         <figure className={styles.art}>

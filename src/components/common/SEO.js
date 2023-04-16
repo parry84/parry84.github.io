@@ -24,7 +24,7 @@ const Seo = ({ title, description, pathname, children }) => {
     <>
       <title>{seo.title}</title>
 
-      <link rel="canonical" href={seo.url} />
+      <link rel="canonical" href={`${seo.url}/`} />
 
       <meta name="robots" content="all" />
 
@@ -33,7 +33,7 @@ const Seo = ({ title, description, pathname, children }) => {
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content={seo.url} />
+      <meta property="og:url" content={`${seo.url}/`} />
       <meta property="og:image" content={seo.image} />
       <meta property="og:description" content={seo.description} />
 
@@ -42,7 +42,7 @@ const Seo = ({ title, description, pathname, children }) => {
       <meta name="twitter:site" content="@elparro84" />
       <meta name="twitter:title" content={seo.title} />
       <meta name="twitter:description" content={seo.description} />
-      <meta name="twitter:domain" content={seo.url} />
+      <meta name="twitter:domain" content={`${seo.url}/`} />
       <meta name="twitter:image:src" content={seo.image} />
 
       {children}

@@ -4,7 +4,7 @@ module.exports = {
   flags: {
     PARTIAL_HYDRATION: false
   },
-  trailingSlash: "never",
+  trailingSlash: "always",
   siteMetadata: {
     title: `Emanuele Parrinello (parry84)`,
     description: `Emanuele Parrinello (parry84) personal website. Software developer. Based in Milan`,
@@ -137,7 +137,7 @@ module.exports = {
             const {
               frontmatter: { slug: slug },
             } = node;
-            acc[`/notes/${slug}`] = node.frontmatter;
+            acc[`/notes/${slug}/`] = node.frontmatter;
 
             return acc;
           }, {});

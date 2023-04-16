@@ -23,7 +23,7 @@ Quante volte è possibile piegare un foglio di carta? Dopo 7 pieghe, lo spessore
 
 La matematica è noiosa e difficile. Per questo, nella vita, tendiamo a ignorare gli aspetti quantitativi. Ancor peggio che fare i conti senza l’oste: i conti, non li facciamo proprio. Male! Dai numeri dipende la stabilità di un edificio e il successo o il fallimento di un’azienda.
 
-Fu Platone a riconoscere l’enorme importanza della matematica, quale via d’accesso alla dialettica. Quanti battibecchi, quante posizioni polarizzate svanirebbero all’istante se provassimo a misurare la realtà! E non si commetta l’errore di considerare la precisione come sinonimo di mancanza di fantasia, o aridità del pensiero: _«Musica est scientia bene modulandi.»_\cite{agostino} scrisse Sant’Agostino durante la sua permanenza a [Milano](/notes/milano), ovvero la scienza del “movimento ben regolato”, e impegna quindi più la ragione che i sensi.
+Fu Platone a riconoscere l’enorme importanza della matematica, quale via d’accesso alla dialettica. Quanti battibecchi, quante posizioni polarizzate svanirebbero all’istante se provassimo a misurare la realtà! E non si commetta l’errore di considerare la precisione come sinonimo di mancanza di fantasia, o aridità del pensiero: _«Musica est scientia bene modulandi.»_\cite{agostino} scrisse Sant’Agostino durante la sua permanenza a [Milano](/notes/milano/), ovvero la scienza del “movimento ben regolato”, e impegna quindi più la ragione che i sensi.
 
 Se i calcoli ci intimidiscono, non denigriamoli dunque come la volpe nella famosa favola, non saremmo certo delle volpi!
 

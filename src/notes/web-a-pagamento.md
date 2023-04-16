@@ -26,7 +26,7 @@ E questa pubblicità online, oltre a essere fastidiosa, è interamente pagata da
 
 Innanzitutto, che questi costi includono anche la produzione dei contenuti pubblicitari (George Clooney non ha recitato gratis nello spot Martini), quindi in realtà stiamo pagando i servizi “gratis” più di quanto ci costerebbero se non fossero _free_.
 
-Ma soprattutto, questo modello presenta un lato ancora più discutibile: dal punto di vista delle società web, **gli utenti non sono clienti, ma sono il prodotto venduto agli inserzionisti**. E questo porta invariabilmente alla generazione di contenuti di qualità sempre più bassa, alla presenza di _banner_ sempre più invasivi, alla violazione della _privacy_ e al dominio degli algoritmi. Questo fenomeno è particolarmente evidente nei [siti d'informazione e _news_](/notes/giornali). Dal livello a cui si è degenerati si può sperare che sia giunta la fine di quest’era, per lasciare spazio a modelli più sostenibili.
+Ma soprattutto, questo modello presenta un lato ancora più discutibile: dal punto di vista delle società web, **gli utenti non sono clienti, ma sono il prodotto venduto agli inserzionisti**. E questo porta invariabilmente alla generazione di contenuti di qualità sempre più bassa, alla presenza di _banner_ sempre più invasivi, alla violazione della _privacy_ e al dominio degli algoritmi. Questo fenomeno è particolarmente evidente nei [siti d'informazione e _news_](/notes/giornali/). Dal livello a cui si è degenerati si può sperare che sia giunta la fine di quest’era, per lasciare spazio a modelli più sostenibili.
 
 <div class="epigraph">
     <blockquote>

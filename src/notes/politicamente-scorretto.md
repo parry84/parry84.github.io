@@ -14,7 +14,7 @@ tags:
 
 I nuovi meccanismi social premiano la polemica _low cost_ garantendo un’automatica visibilità a chi la spara più grossa. Basta mezz’ora nella sezione commenti per constatare che al momento non esiste nessuna dittatura del politicamente corretto, ma, al contrario, esiste una volgarità senza limiti.
 
-Esempi di questa degenerazione pericolosa si trovano nei vari [complottismi](/notes/complottismo), nel negazionismo dell’olocausto o del cambiamento climatico, o nei [deliri no-euro](/notes/euro). Questa antiretorica stronca ogni conversazione bollando come _“pensiero unico dominante”_ ogni realtà contro cui non riesce ad argomentare (e di questo passo non si potrà più dire che 2+2=4 senza essere definiti _pecoroni_).
+Esempi di questa degenerazione pericolosa si trovano nei vari [complottismi](/notes/complottismo/), nel negazionismo dell’olocausto o del cambiamento climatico, o nei [deliri no-euro](/notes/euro/). Questa antiretorica stronca ogni conversazione bollando come _“pensiero unico dominante”_ ogni realtà contro cui non riesce ad argomentare (e di questo passo non si potrà più dire che 2+2=4 senza essere definiti _pecoroni_).
 
 È diventata una maschera dietro la quale rivendicare come vanto la propria ignoranza e la propria incompetenza. Ma il mondo è governato da leggi oggettive e la sua complessità è spesso irriducibile. Il merito e la competenza devono tornare a essere un valore.
 

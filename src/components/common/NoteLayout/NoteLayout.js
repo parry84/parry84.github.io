@@ -25,7 +25,11 @@ export default function NodeLayout({ title, hero, children }) {
               </label>
               <input className="margin-toggle" id="sidenote-7" type="checkbox" />
               <span className="marginnote">
-                <GatsbyImage image={getImage(hero.gatsbyImageData)} backgroundColor="00ff00" alt="" />
+                <GatsbyImage
+                  image={getImage(hero.gatsbyImageData)}
+                  backgroundColor="00ff00"
+                  alt=""
+                />
                 {hero.caption}
               </span>
             </p>

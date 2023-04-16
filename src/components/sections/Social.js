@@ -2,7 +2,7 @@ import React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 
 import ExternalLink from '@common/ExternalLink';
-
+import { Link } from 'gatsby';
 import { Container } from '@components/Container';
 import { Section } from '@components/Section';
 
@@ -17,7 +17,7 @@ import { ReactComponent as MyHeritageLogo } from '@images/logos/myheritage.svg';
 
 import * as styles from '@sections/Social.module.scss';
 
-const LOGOS = [
+const SOCIALS = [
   {
     logo: LinkedinLogo,
     link: 'https://www.linkedin.com/in/emanueleparrinello/',
@@ -46,10 +46,6 @@ const LOGOS = [
     logo: MyHeritageLogo,
     link: 'https://www.myheritage.com/site-148248461/parry-family-tree',
   },
-  {
-    logo: EmailLogo,
-    link: '/contacts',
-  },
 ];
 
 const Social = () => (
@@ -60,11 +56,14 @@ const Social = () => (
           <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
         </figure>
         <div className={styles.logoGrid}>
-          {LOGOS.map(({ logo, link }) => (
-            <ExternalLink key={logo} href={link}>
-              {logo()}
-            </ExternalLink>
-          ))}
+          {[
+            ...SOCIALS.map(({ logo, link }) => (
+              <ExternalLink key={logo} href={link}>
+                {logo()}
+              </ExternalLink>
+            )),
+            <Link to="/contacts/">{EmailLogo()}</Link>,
+          ]}
         </div>
       </div>
     </Container>
