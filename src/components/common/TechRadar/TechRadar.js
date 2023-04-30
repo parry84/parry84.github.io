@@ -248,7 +248,7 @@ const TechRadar = () => {
     <>
       <Script src="https://d3js.org/d3.v4.min.js" onLoad={() => setD3HasLoaded(true)} />
       <Script
-        src="http://zalando.github.io/tech-radar/release/radar-0.7.js"
+        src="https://zalando.github.io/tech-radar/release/radar-0.7.js"
         onLoad={() => setZalandoRadarHasLoaded(true)}
       />
       <svg id="radar" ref={svgRef} className={styles.techRadar} />

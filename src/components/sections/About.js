@@ -13,8 +13,9 @@ const About = () => (
           <h2>Hi</h2>
           <p>
             My name is Emanuele Parrinello. I live in Milan, Italy. I moved here in 2010 just after
-            graduating in Computer Engineering. During these years I worked as a developer, with a
-            focus on digital electronics, cryptography and cybersecurity.
+            graduating in Computer Engineering. During these years I worked as a{' '}
+            <Link to="/radar/">developer</Link>, with a focus on digital electronics, cryptography
+            and cybersecurity.
           </p>
         </div>
         <figure className={styles.art}>
