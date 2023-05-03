@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Layout from '@common/Layout';
-import Seo from '@common/SEO';
+import Seo from '@common/Seo';
 import Header from '@sections/Header';
 import About from '@sections/About';
 import Social from '@sections/Social';
@@ -19,4 +19,4 @@ const HomePage = () => (
 
 export default HomePage;
 
-export const Head = () => <Seo />;
+export const Head = () => <Seo pathname="/" />;

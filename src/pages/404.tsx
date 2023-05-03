@@ -3,7 +3,7 @@
 import React from 'react';
 
 import Layout from '@common/Layout';
-import Seo from '@common/SEO';
+import Seo from '@common/Seo';
 import { Container } from '@components/Container';
 
 const NotFoundPage = () => (

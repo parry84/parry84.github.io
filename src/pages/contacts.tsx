@@ -1,18 +1,25 @@
 'use client';
 
 import React from 'react';
-import Seo from '@common/SEO';
-import NoteLayout from '@common/NoteLayout';
+import Seo from '@common/Seo';
+import Layout from '@components/common/Layout';
+import Navbar from '@components/common/Navbar';
+import { Container } from '@components/Container';
 
 const ContactPage = () => (
-  <NoteLayout title="Contact me" hero="">
-    <section>
-      <p className="subtitle">Run the following program to reveal my email</p>
-    </section>
-    <section>
-      <pre>
-        <code>
-          {`#lang racket
+  <Layout>
+    <header>
+      <Navbar />
+    </header>
+    <Container>
+      <h1>Contact me</h1>
+      <section>
+        <p className="subtitle">Run the following program to reveal my email</p>
+      </section>
+      <section>
+        <pre>
+          <code>
+            {`#lang racket
 (define A (char->integer #\\A))
 (define Z (char->integer #\\Z))
 (define a (char->integer #\\a))
@@ -30,15 +37,15 @@ const ContactPage = () => (
   (list->string (for/list ([c (in-string s)]) (rotate c))))
 
 (caesar "qbssz84@hnbjm.dpn")`}
-        </code>
-      </pre>
-    </section>
-    <section>
-      <p className="subtitle">My PGP key</p>
-    </section>
-    <section>
-      <pre>
-        {`-----BEGIN PGP PUBLIC KEY BLOCK-----
+          </code>
+        </pre>
+      </section>
+      <section>
+        <p className="subtitle">My PGP key</p>
+      </section>
+      <section>
+        <pre>
+          {`-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF1LByEBEAC0Fn8I+zDgGHazHTTGT6Hp+2v8PDtnRv1GjaVkch/HEhiiAlmK
 ZymhjY8/AVmrIRpiUafnb7PHUouGvwz3unsTsWS6zv3thrfwApkcc9fdE/INBxec
@@ -89,9 +96,10 @@ B4zBMgdwfbFjeffKVmmpg/t1Yy3EAC0aXDq9qMCN7T1Xxhlfq3O8qRYAE1MfL7iN
 hjISuqGIMXZl47/FsoiWPL4z2OAWU5fZeEZJ5If6xzl41u4liWA=
 =/FPo
 -----END PGP PUBLIC KEY BLOCK-----`}
-      </pre>
-    </section>
-  </NoteLayout>
+        </pre>
+      </section>
+    </Container>
+  </Layout>
 );
 
 export default ContactPage;

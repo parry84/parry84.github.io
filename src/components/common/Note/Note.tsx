@@ -4,11 +4,24 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import NoteLayout from '@common/NoteLayout';
 import ShareLinks from '@common/Share';
-import Seo from '@common/SEO';
+import Seo from '@common/Seo';
 
 import * as styles from './Note.module.scss';
+import { ImageDataLike } from 'gatsby-plugin-image';
 
-export default function PageTemplate({ data }) {
+type Props = {
+  data: {
+    note: {
+      frontmatter: { title: string; slug: string; caption: string; dateUpdated: string };
+      html: string;
+    };
+    artHero: {
+      childImageSharp: { gatsbyImageData: ImageDataLike | null };
+    };
+  };
+};
+
+export default function Note({ data }: Props) {
   if (data.artHero == null) {
     data.artHero = {
       childImageSharp: {
@@ -49,7 +62,7 @@ export default function PageTemplate({ data }) {
   );
 }
 
-export const Head = ({ data }) => {
+export const Head = ({ data }: Props) => {
   const {
     note: {
       frontmatter: { title, slug },

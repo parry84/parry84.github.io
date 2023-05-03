@@ -3,7 +3,15 @@
 import React from 'react';
 import { Link, useStaticQuery, graphql } from 'gatsby';
 import NoteLayout from '@common/NoteLayout';
-import Seo from '@common/SEO';
+import Seo from '@common/Seo';
+
+type Note = {
+  id: string;
+  frontmatter: {
+    title: string;
+    slug: string;
+  };
+};
 
 const Notes = () => {
   const data = useStaticQuery(graphql`
@@ -44,7 +52,7 @@ const Notes = () => {
         <ul>
           {notes
             .filter(() => true)
-            .map((note) => (
+            .map((note: Note) => (
               <li key={note.id}>
                 <Link to={note.frontmatter.slug}>{note.frontmatter.title}</Link>{' '}
               </li>

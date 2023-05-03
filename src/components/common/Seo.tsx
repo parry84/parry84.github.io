@@ -1,7 +1,9 @@
 import React from 'react';
 import { useSiteMetadata } from '@hooks/use-seo-metadata';
 
-const Seo = ({ title, description, pathname, children }) => {
+type Props = { title?: string; description?: string; pathname: string; children?: string };
+
+const Seo = ({ title, description, pathname, children }: Props) => {
   const {
     title: defaultTitle,
     description: defaultDescription,

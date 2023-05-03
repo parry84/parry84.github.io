@@ -2,15 +2,15 @@ import React, { useEffect, useState, useRef } from 'react';
 import { Script } from 'gatsby';
 import * as styles from './TechRadar.module.scss';
 
-/*declare global {
+declare global {
   interface Window {
-    radar_visualization: (visConfig: VisualizationConfig) => void;
+    radar_visualization: (visConfig: any) => void;
   }
-  https://github.com/gsandf/tech-radar/blob/e9b2fd52b43142516a2428c13a85a8dce4f3f90f/src/components/Radar/index.tsx
-}*/
+  //https://github.com/gsandf/tech-radar/blob/e9b2fd52b43142516a2428c13a85a8dce4f3f90f/src/components/Radar/index.tsx
+}
 
 const TechRadar = () => {
-  const svgRef = useRef();
+  const svgRef = useRef<SVGSVGElement>(null);
   const [hasD3Loaded, setD3HasLoaded] = useState(false);
   const [hasZalandoRadarLoaded, setZalandoRadarHasLoaded] = useState(false);
 

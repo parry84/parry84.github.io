@@ -4,7 +4,7 @@ import { Container } from '@components/Container';
 import ExternalLink from '@common/ExternalLink';
 import * as styles from '@sections/Footer.module.scss';
 
-const SOCIAL = [];
+const SOCIAL: [] = [];
 
 const Footer = () => (
   <StaticQuery

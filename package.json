@@ -5,12 +5,25 @@
   "version": "0.2.0",
   "author": "Emanuele Parrinello <parry84@gmail.com>",
   "homepage": "https://parry84.github.io",
+  "keywords": [
+    "parry84"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages --dist public --branch master",
+    "format": "prettier --write \"src/**/*.{js,jsx,json,md,css,scss,ts,tsx}\"",
+    "type-check": "tsc --noEmit",
+    "type-check:watch": "npm run type-check -- --watch"
+  },
   "dependencies": {
     "@svgr/webpack": "^7.0.0",
     "bibtex-parse-js": "^0.0.24",
     "gatsby": "^5.9.0",
     "gatsby-cli": "^5.9.0",
-    "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-google-tagmanager": "^5.9.0",
     "gatsby-plugin-image": "^3.9.0",
@@ -26,27 +39,17 @@
     "gatsby-source-filesystem": "^5.9.0",
     "gatsby-transformer-remark": "^6.9.0",
     "gatsby-transformer-sharp": "^5.9.0",
-    "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-collapsible": "^2.10.0",
     "react-dom": "^18.2.0",
     "react-share": "^4.4.1"
   },
-  "keywords": [
-    "parry84"
-  ],
-  "license": "MIT",
-  "scripts": {
-    "dev": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages --dist public --branch master",
-    "format": "prettier --write \"src/**/*.{js,jsx,json,md,css,scss}\""
-  },
   "devDependencies": {
+    "@types/node": "^18.16.3",
     "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
     "gh-pages": "^5.0.0",
-    "prettier": "^2.8.8"
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
   }
 }

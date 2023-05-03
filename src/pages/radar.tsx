@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import Seo from '@common/SEO';
+import Seo from '@common/Seo';
 import Navbar from '@common/Navbar';
 import Layout from '@common/Layout';
 import TechRadar from '@common/TechRadar';

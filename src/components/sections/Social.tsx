@@ -58,11 +58,13 @@ const Social = () => (
         <div className={styles.logoGrid}>
           {[
             ...SOCIALS.map(({ logo, link }) => (
-              <ExternalLink key={logo} href={link}>
-                {logo()}
+              <ExternalLink key={link} href={link}>
+                {React.createElement(logo)}
               </ExternalLink>
             )),
-            <Link to="/contacts/">{EmailLogo()}</Link>,
+            <Link to="/contacts/">
+              <EmailLogo />
+            </Link>,
           ]}
         </div>
       </div>
