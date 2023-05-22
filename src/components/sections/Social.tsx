@@ -55,18 +55,20 @@ const Social = () => (
         <figure className={styles.art}>
           <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
         </figure>
-        <div className={styles.logoGrid}>
+        <ul className={styles.logoGrid}>
           {[
-            ...SOCIALS.map(({ logo, link }) => (
-              <ExternalLink key={link} href={link}>
-                {React.createElement(logo)}
-              </ExternalLink>
+            ...SOCIALS.map(({ logo, link }, i) => (
+              <li key={i}>
+                <ExternalLink href={link}>{React.createElement(logo)}</ExternalLink>
+              </li>
             )),
-            <Link to="/contacts/">
-              <EmailLogo />
-            </Link>,
+            <li key="contacts">
+              <Link to="/contacts/">
+                <EmailLogo />
+              </Link>
+            </li>,
           ]}
-        </div>
+        </ul>
       </div>
     </Container>
   </Section>
