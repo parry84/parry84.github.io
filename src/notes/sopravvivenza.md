@@ -26,7 +26,7 @@ Vale veramente la pena vivere da malati per morire sani, o è forse meglio viver
 
 > Non val medicina,  
 > non giova la china,  
->non si può guarire  
-> bisogna morire <footer> — La Passacaglia della Vita (Homo fugit velut umbra) è un anonimo del 1657, tratto dalla raccolta _Canzonette Spirituali e Morali che si cantano nell’Oratorio di Chiavenna, eretto sotto la Protezione di San Filippo Neri_.</footer>
+> non si può guarire  
+> bisogna morire <footer> — La Passacaglia della Vita (Homo fugit velut umbra) è un anonimo del 1657, tratto dalla raccolta _Canzonette Spirituali e Morali che si cantano nell’Oratorio di Chiavenna, eretto sotto la Protezione di San Filippo Neri_</footer>
 
 </div>
