@@ -11,7 +11,7 @@ caption: 'Maurits Cornelis Escher, Buccia, 1955. Xilografia e xilografia di test
 
 ##
 
-<span class="newthought">La differenza</span> fondamentale tra Bach e il resto della musica, è che essa indica una strada attraverso cui ogni mortale può congiungersi all’Assoluto.
+<span class="newthought">La differenza</span> fondamentale tra Bach e il resto della musica, è che indica una strada attraverso cui ogni mortale può congiungersi all’Assoluto.
 
 L'intero spettro delle emozioni vi è rappresentato, dai picchi di pura e indisturbata gioia alle discese più profonde, e per la maggior parte è, sia rinvigorente e affermante della vita, che trascendente nella sua serenità. Altri compositori offrono intuizioni sullo spirito e sul cuore umano. Ma la musica di Bach riflette l'universo stesso e contiene la Totalità del Tutto.
 
