@@ -27,7 +27,7 @@
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-google-tagmanager": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
-    "gatsby-plugin-iubenda-cookie-footer": "github:NoriSte/gatsby-plugin-iubenda-cookie-footer#gatsby5",
+    "gatsby-plugin-iubenda-cookie-footer": "github:NoriSte/gatsby-plugin-iubenda-cookie-footer",
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
     "gatsby-plugin-sass": "^6.11.0",
