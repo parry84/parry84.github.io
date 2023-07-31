@@ -27,7 +27,6 @@
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-google-tagmanager": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
-    "gatsby-plugin-iubenda-cookie-footer": "github:NoriSte/gatsby-plugin-iubenda-cookie-footer",
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
     "gatsby-plugin-sass": "^6.11.0",
@@ -46,8 +45,8 @@
     "react-share": "^4.4.1"
   },
   "devDependencies": {
-    "@types/node": "^20.4.2",
-    "@types/react": "^18.2.15",
+    "@types/node": "^20.4.5",
+    "@types/react": "^18.2.17",
     "@types/react-dom": "^18.2.7",
     "gh-pages": "^5.0.0",
     "prettier": "^3.0.0",
