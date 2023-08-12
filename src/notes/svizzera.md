@@ -30,6 +30,6 @@ La Svizzera non sogna conquiste territoriali, rispetta i diritti di tutti, colla
 
 Ogni cittadino in buona fede dovrà riconoscere che le istituzione politiche in Occidente, pur se imperfette come ogni opera umana, sono stabili e rispettano l’individuo. Anche sul piano sociale, abbiamo compiuto notevoli progressi: **non esistono luoghi al mondo in cui i diritti essenziali della creatura umana siano meglio protetti**.
 
-**La nostre nazioni meritano perciò d’essere difese in tutta la loro realtà fisica, morale e politica**. Oggi la guerra non è fatta solo con le armi ma è psicologica. Occorre quindi una difesa spirituale contro l’inganno del multipolarismo: [democrazia](/notes/democrazia) e libertà non possono equivalere a oppressione e dispotismo.
+**La nostre nazioni meritano perciò d’essere difese in tutta la loro realtà fisica, morale e politica**. Oggi la guerra non è fatta solo con le armi ma è psicologica. Occorre quindi una difesa spirituale contro l’inganno del multipolarismo: [democrazia](/notes/democrazia/) e libertà non possono equivalere a oppressione e dispotismo.
 
 La Svizzera, i cui valori fondamentali sanciti dal Patto del 1291 comprendono l’indipendenza e l’aiuto reciproco contro le aggressioni, sia d’ispirazione. I montanari dei Cantoni primitivi difesero con le armi le loro libertà.

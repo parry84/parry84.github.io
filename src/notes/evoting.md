@@ -17,7 +17,7 @@ Il voto elettronico è afflitto da rischi di sicurezza ineliminabili e ingiustif
 
 ##
 
-<span class="newthought">Le elezioni</span> americane del 2016, e la relativa diatriba sui brogli elettorali hanno riacceso il dibattito sul voto elettronico (“e-voting”). **Nonostante può sembrare (e probabilmente è) vantaggioso in termini di efficienza, esso è, tuttavia, pragmaticamente, una pessima idea**.
+<span class="newthought">Le elezioni</span> americane del 2016, e la relativa diatriba sui brogli elettorali hanno riacceso il dibattito sul voto elettronico (_“e-voting”_). **Nonostante può sembrare (e probabilmente è) vantaggioso in termini di efficienza, esso è, tuttavia, pragmaticamente, una pessima idea**.
 
 La ragione primaria riguarda la fiducia: per una democrazia funzionale è di vitale importanza la fiducia nei cittadini. Il mero seme del dubbio, anche ingiustificato, è problematico e ne indebolisce le fondamenta.
 
@@ -27,4 +27,4 @@ Nel caso dell’_e-voting_ il controllo richiede invece competenze specialistich
 
 Bisogna diffidare dai paroloni: proposte basate sulle _Blockchain_ soffrono dei medesimi problemi e anche soluzioni avanzate, come l’algoritmo _ThreeBallot_, o metodi basati sulla crittografia omomorfica, si sono dimostrati vulnerabili.
 
-La democrazia è la miglior forma di governo che conosciamo e questo giustifica i costi del voto cartaceo. I’e-voting potrebbe tuttavia trovare utilità in elezioni di limitata importanza.
+[La democrazia è la miglior forma di governo che conosciamo e questo giustifica i costi del voto cartaceo](/notes/democrazia). I’e-voting potrebbe tuttavia trovare utilità in elezioni di limitata importanza.

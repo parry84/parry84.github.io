@@ -20,7 +20,7 @@ Lo spirito delle conversazioni a tal proposito tende sempre a uno dei due eccess
 - l’_ottimismite_ (“se vuoi puoi!“)
 - l’inerzia paralizzante (“lascia perdere, non hai speranze”)
 
-Ma, come per i diversi ambiti della vita, la chiave sta nel [giusto mezzo](/notes/giusto-mezzo). Difficile da raggiungere, e soprattutto da mantenere: l’equilibrio è frutto di un lungo percorso di gradualità. Ma esiste una Stella Polare che ci indica cosa fare e cosa non fare nelle varie tappe della costruzione della nostra storia personale.
+Ma, come per i diversi ambiti della vita, la chiave sta nel [giusto mezzo](/notes/giusto-mezzo/). Difficile da raggiungere, e soprattutto da mantenere: l’equilibrio è frutto di un lungo percorso di gradualità. Ma esiste una Stella Polare che ci indica cosa fare e cosa non fare nelle varie tappe della costruzione della nostra storia personale.
 
 Attorno a noi ruotano tre cerchi concentrici: il più interno la comfort zone, seguito dalla zona dell’apprendimento e in fine da un anello del pericolo. Nel primo stiamo bene, ma probabilmente non siamo in grado di lanciarci in un’avventura imprenditoriale: dobbiamo quindi varcarne la soglia per vivere le esperienze di crescita che ci permetteranno di espanderla. Al tempo stesso dobbiamo evitare la zona di pericolo, dove potremmo comprometterci irrimediabilmente.
 

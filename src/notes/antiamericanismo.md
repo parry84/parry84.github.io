@@ -6,7 +6,7 @@ dateUpdated: 2023-01-26 22:30
 visible: true
 tags:
   - politica
-caption: 'Washington attraversa il fiume Delaware, olio su tela del 1851, opera di Emanuel Leutze'
+caption: Washington attraversa il fiume Delaware, olio su tela del 1851, opera di Emanuel Leutze
 ---
 
 ##
@@ -26,13 +26,11 @@ _«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei 
 
 Antonio Gramsci dal carcere aveva avvertito: *«l’antiamericanismo è comico, prima di essere stupido»*\cite{gramsci}. Ma le loro sue parole caddero nel vuoto.
 
----
+È difficile capire le cause di questa moda intramontabile, che a destra come a sinistra, si nutre del disprezzo per il progresso e sogna la decrescita (per gli altri). Forse l’invidia. O forse la paura della libertà. O magari semplicemente una presunta superiorità aristocratica dell’Europa nei confronti dell’America materialista.
 
-È difficile capire le cause di questa moda intramontabile, che a destra come a sinistra, si nutre del disprezzo per il progresso e sogna la decrescita (per gli altri). Forse l’invidia. O forse l’odio verso la libertà. O magari semplicemente una presunta superiorità aristocratica dell’Europa nei confronti dell’America materialista.
+Ma l’America, per noi tutti, è un simbolo. È il Paese che ha salvato l’Europa dal nazismo nella Seconda Guerra Mondiale, e dove milioni di persone sono arrivate, scappando dalle dittature di tutto il mondo, in cerca di libertà e di opportunità. È il Paese che ha costruito il Miracolo economico italiano grazie al piano Marshall e che ha nuovamente salvato l’Europa vincendo la Guerra Fredda. E oltre a essere il maggiore benefattore dei paesi in via di sviluppo, è tuttora in prima linea nella difesa d’Israele, di Taiwan e dell’Ucraina.
 
-Ma l’America, per noi tutti, è un simbolo. È il Paese che ha salvato l’Europa dal nazismo nella Seconda Guerra Mondiale, e dove milioni di persone sono arrivate, scappando dalle dittature di tutto il mondo, in cerca di libertà e di opportunità. È il Paese che ha costruito il Miracolo economico italiano grazie al piano Marshall e che ha nuovamente salvato l’Europa vincendo la Guerra Fredda. E oltre a essere il maggiore benefattore dei paesi in via di sviluppo, è tuttora in prima linea nella difesa d'Israele, di Taiwan e dell’Ucraina.
-
-Su quest’ultimam noi europei abbiamo trovato un barlume di unità solo grazie alla regia americana. Se fossimo stati abbandonati ai nostri impulsi istintivi, Putin avrebbe già vinto la sua guerra psicologica da un pezzo. **Quindi, oggi con l’aggressività di stati _orweilliani_ come Cina e Russia, che esportano solo illiberalismo, abbiamo più che mai bisogno di questo campione planetario della libertà.**
+Su quest’ultima vicenda noi europei abbiamo trovato un barlume di unità solo grazie alla regia americana. Se fossimo stati abbandonati ai nostri impulsi istintivi, Putin avrebbe già vinto la sua guerra psicologica da un pezzo. **Quindi, oggi con l’aggressività di stati _orweilliani_ come Cina e Russia, che esportano solo illiberalismo, abbiamo più che mai bisogno di questo campione planetario della libertà.**
 
 <bibliography>
 @inbook{bontempelli74,
