@@ -2,7 +2,7 @@
 title: Come avviare una startup di successo
 slug: successo
 dateCreated: 2023-08-12 16:19
-dateUpdated: 2023-08-12 16:198
+dateUpdated: 2023-08-12 16:19
 visible: true
 tags:
   - informatica
@@ -28,11 +28,10 @@ Alcuni esempi: potresti inizialmente cercare un lavoro, per quanto modesto, in u
 
 Saranno queste prime esperienze a chiarire la comprensione e a fornire quei robusti scarponi chiodati —per dirla con Mandel'štam— che permetteranno di affrontare con ragionevole sicurezza le mosse successive.
 
-<div class="epigraph">
-    <blockquote>
-        <p>«Inizia: metà del lavoro è compiere il primo passo. Rimane l’altra metà: inizia di nuovo e arriverai alla fine.»</p>
-        <footer>Decimo Magno Ausonio, Epigrammi (LXXXI, 1)</footer>
-    </blockquote>
+<div class='epigraph'>
+
+> «Inizia: metà del lavoro è compiere il primo passo. Rimane l’altra metà: inizia di nuovo e arriverai alla fine.» <footer> — Decimo Magno Ausonio, _Epigrammi_ (LXXXI, 1)</footer>
+
 </div>
 
 L’approccio graduale supera agevolmente l’inerzia e rivela la superficialità del detto “se vuoi puoi”, che andrebbe a buona ragione rimpiazzato da: “se fai puoi”. Risultati straordinari richiedono un impegno straordinario. Questo è il segreto.
