@@ -22,13 +22,13 @@ Quando dilaga la percezione dell’assenza di scopo della propria vita è suffic
 
 La caratteristica di un tale gregge dominato da una visione unica è la sparizione di ogni caratteristica individuale. La diversità non ha semplicemente a che fare con i diversi colori della pelle, le religioni, culture, tradizioni, modi di vivere e di percepirsi. La diversità riguarda soprattutto l'esistenza di idee differenti.
 
-L’esistenza di idee diverse inevitabilmente offenderà qualcuno. [Dovremmo tacere per evitare offese reciproche?](/notes/discriminazioni) Tale atteggiamento rischia di creare una società in cui la capacità di difendere un'idea, o addirittura di combattere per essa, svanisce. Paradossalmente non è eliminando l’offesa che si protegge la diversità, ma per costruire una società pluralista, dove realizzare una diversità autentica, dobbiamo invece promuovere i cambiamenti delle opinioni grazie al [dibattito aperto e al confronto delle idee](/notes/democrazia).
+L’esistenza di idee diverse inevitabilmente offenderà qualcuno. [Dovremmo tacere per evitare offese reciproche?](/notes/discriminazioni/) Tale atteggiamento rischia di creare una società in cui la capacità di difendere un'idea, o addirittura di combattere per essa, svanisce. Paradossalmente non è eliminando l’offesa che si protegge la diversità, ma per costruire una società pluralista, dove realizzare una diversità autentica, dobbiamo invece promuovere i cambiamenti delle opinioni grazie al [dibattito aperto e al confronto delle idee](/notes/democrazia/).
 
-Gran parte delle conquiste liberali sono oggi [date per scontate o disprezzate in Occidente](/notes/occidente). Per questo non capiamo quanto siamo incredibilmente vulnerabili e non siamo nemmeno consapevoli delle conseguenze che questa inconsapevolezza potrà avere sul futuro. Come disse Pericle, “La felicità consiste nella libertà, e la libertà nel coraggio”[^2]. La libertà non si ottiene e non si conserva se non nella lotta di ogni giorno e di ogni ora.
+Gran parte delle conquiste liberali sono oggi [date per scontate o disprezzate in Occidente](/notes/occidente/). Per questo non capiamo quanto siamo incredibilmente vulnerabili e non siamo nemmeno consapevoli delle conseguenze che questa inconsapevolezza potrà avere sul futuro. Come disse Pericle, “La felicità consiste nella libertà, e la libertà nel coraggio”[^2]. La libertà non si ottiene e non si conserva se non nella lotta di ogni giorno e di ogni ora.
 
 [^2]: Pericle, _Epitaffio_, 431 a.C.
 
-La libertà è l'unico dono che può garantire il [progresso individuale](/notes/introspezione) e sociale, tutto il resto è secondario. Nella libertà si sviluppano consapevolezza e intelligenza e nella libertà, e solo nella libertà, può germogliare l'amore.
+La libertà è l'unico dono che può garantire il [progresso individuale](/notes/introspezione/) e sociale, tutto il resto è secondario. Nella libertà si sviluppano consapevolezza e intelligenza e nella libertà, e solo nella libertà, può germogliare l'amore.
 
 <div class='epigraph'>
 

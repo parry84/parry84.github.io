@@ -27,4 +27,4 @@ Nel caso dell’_e-voting_ il controllo richiede invece competenze specialistich
 
 Bisogna diffidare dai paroloni: proposte basate sulle _Blockchain_ soffrono dei medesimi problemi e anche soluzioni avanzate, come l’algoritmo _ThreeBallot_, o metodi basati sulla crittografia omomorfica, si sono dimostrati vulnerabili.
 
-[La democrazia è la miglior forma di governo che conosciamo e questo giustifica i costi del voto cartaceo](/notes/democrazia). I’e-voting potrebbe tuttavia trovare utilità in elezioni di limitata importanza.
+[La democrazia è la miglior forma di governo che conosciamo e questo giustifica i costi del voto cartaceo](/notes/democrazia/). I’e-voting potrebbe tuttavia trovare utilità in elezioni di limitata importanza.

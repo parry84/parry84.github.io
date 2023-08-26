@@ -25,7 +25,7 @@ Dobbiamo quindi seguire la strada opposta: diluire il potere, e riporre fiducia 
 
 </div>
 
-La democrazia non è semplice. Presuppone responsabilità. La complessità politica può essere sconfortante, ma era la caratteristica differenziante della [cultura greca](/notes/occidente), ed è stata al cuore della rivoluzione del pensiero razionale e, di conseguenza, della rivoluzione scientifica. In effetti, conversando si possono raggiungere le migliore decisioni per la comunità, ma al tempo stesso, conversando si può arrivare a comprendere il mondo.
+La democrazia non è semplice. Presuppone responsabilità. La complessità politica può essere sconfortante, ma era la caratteristica differenziante della [cultura greca](/notes/occidente/), ed è stata al cuore della rivoluzione del pensiero razionale e, di conseguenza, della rivoluzione scientifica. In effetti, conversando si possono raggiungere le migliore decisioni per la comunità, ma al tempo stesso, conversando si può arrivare a comprendere il mondo.
 
 Occuparsi della _res publica_ è un impegno. In questi tempi frenetici, siamo sovraccarichi d’impegni e non vogliamo assumerne altri. Ma declinarlo equivale a lasciare le decisioni nelle mani di una minoranza di _zeloti_ con i rischi che ne conseguono.
 
