@@ -18,7 +18,7 @@ const Header = () => (
           <h1>
             Hey,
             <br />
-            I'm Emanuele.
+            I’m Emanuele.
             <br />
             Welcome!
           </h1>
