@@ -3,6 +3,7 @@ title: Una questione di equilibrio
 slug: giusto-mezzo
 dateCreated: 2022-11-15 00:11
 dateUpdated: 2022-11-15 00:11
+order: 980
 visible: true
 tags:
   - filosofia

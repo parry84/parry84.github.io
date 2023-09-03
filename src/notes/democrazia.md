@@ -1,8 +1,9 @@
 ---
-title: "Democrazia: il prezzo dell’indifferenza"
+title: 'Democrazia: il prezzo dell’indifferenza'
 slug: democrazia
 dateCreated: 2023-01-27 19:11
 dateUpdated: 2023-01-27 19:11
+order: 960
 visible: true
 tags:
   - politica

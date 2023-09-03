@@ -3,6 +3,7 @@ title: 'Psicologia del complottista'
 slug: complottismo
 dateCreated: 2022-10-11 23:30
 dateUpdated: 2022-10-12 00:06
+order: 1
 visible: true
 tags:
   - politica
@@ -22,4 +23,4 @@ Ma la realtà oggettiva prima o poi si manifesta. Per quanto si voglia credere c
 
 La diffusione incontrollata di atteggiamenti paranoici li ha resi una variabile potenzialmente condizionante della società del benessere. Abbiamo constatato le terribile conseguenze dei “Protocolli dei Savi di Sion” in passato e constatiamo oggi le conseguenze dell’antivaccinismo. In ultima analisi, la [sopravvivenza stessa della democrazia](/notes/democrazia/), è messa a repentaglio da una polarizzazione estrema.
 
-Serve quindi un maggior impegno della parte sana della società, la quale ha l’obbligo morali di [mantenere i nervi saldi](/notes/mitezza/) e  contrastare la diffusione della follia. Ma, data la complessità del fenomeno, non possiamo illuderci dell’esistenza di soluzioni miracolose. La censura, oltre che sgradevole, non sarebbe nemmeno una soluzione efficace. Occorre invece una dialettica sofisticata ed efficace e una maggior valorizzazione del pensiero critico.
+Serve quindi un maggior impegno della parte sana della società, la quale ha l’obbligo morali di [mantenere i nervi saldi](/notes/mitezza/) e contrastare la diffusione della follia. Ma, data la complessità del fenomeno, non possiamo illuderci dell’esistenza di soluzioni miracolose. La censura, oltre che sgradevole, non sarebbe nemmeno una soluzione efficace. Occorre invece una dialettica sofisticata ed efficace e una maggior valorizzazione del pensiero critico.

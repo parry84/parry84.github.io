@@ -3,6 +3,7 @@ title: La superiorità della civiltà occidentale
 slug: occidente
 dateCreated: 2023-08-12 22:19
 dateUpdated: 2023-08-12 22:19
+order: 1
 visible: true
 tags:
   - politica
@@ -21,6 +22,6 @@ La tradizione europea, fondata sulla libertà, è l’unica a contenere elementi
 
 L’eurocentrismo non va quindi interpretato in un senso genetico o razzista, ma valoriale: una società aperta alla quale chiunque può aderire: si pensi alle coraggiose lotte di Hong Kong, Taiwan e l’Ucraina. Diametralmente, va condannato lo sciovinismo talvolta esibito da chi in Occidente è nato: nessuno può intestarsi i meriti delle generazioni passate, ma può invece impegnarsi con sobrietà per aggiungere il proprio contributo al progresso.
 
-Se l’Occidente viene meno è la civiltà umana che muore. Oggi l’Occidente è sotto attacco. L’invasione russa dell’Ucraina ha rilevato le condizioni di precarietà di uno _status_ che ormai davamo per scontato. [Il maggior pericolo è la stanchezza](/notes/europa/): se agli occhi di Mosca e di Pechino, del mondo arabo-islamico, noi appariamo come quelli che hanno rinunciato a difendere i propri valori, è naturale che ci sia il riflesso di una perdita di peso, di influenza.
+Se l’Occidente viene meno è la civiltà umana che muore. Oggi l’Occidente è sotto attacco. L’invasione russa dell’Ucraina ha rilevato le condizioni di precarietà di uno *status* che ormai davamo per scontato. [Il maggior pericolo è la stanchezza](/notes/europa/): se agli occhi di Mosca e di Pechino, del mondo arabo-islamico, noi appariamo come quelli che hanno rinunciato a difendere i propri valori, è naturale che ci sia il riflesso di una perdita di peso, di influenza.
 
 Chi è causa del suo male pianga sé stesso. È quindi fondamentale un’analisi, senza ipocrisie e inganni, del nostro vacillare sociale, culturale, economico, istituzionale e ovviamente politico. E da questa, ne segua una rinascita, che sia annuncio di un nuovo futuro luminoso per l’umanità.

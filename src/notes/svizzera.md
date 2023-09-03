@@ -3,6 +3,7 @@ title: Elogio dello Svizzera
 slug: svizzera
 dateCreated: 2023-08-04 18:38
 dateUpdated: 2023-08-04 18:38
+order: 1
 visible: true
 tags:
   - politica

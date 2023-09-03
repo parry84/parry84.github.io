@@ -3,6 +3,7 @@ title: Il Dilemma del Prigioniero
 slug: dilemma
 dateCreated: 2023-02-06 21:37
 dateUpdated: 2023-02-06 21:37
+order: 1
 visible: true
 tags:
   - filosofia

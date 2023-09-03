@@ -3,6 +3,7 @@ title: Decodificare il messaggio della bellezza
 slug: fotografia
 dateCreated: 2023-03-06 21:32
 dateUpdated: 2023-03-06 21:32
+order: 1
 visible: true
 tags:
   - arte

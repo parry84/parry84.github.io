@@ -3,6 +3,7 @@ title: Il COVID-19 ha ucciso lo sviluppo Agile
 slug: agile
 dateCreated: 2022-11-12 14:51
 dateUpdated: 2022-11-12 14:51
+order: -50
 visible: true
 tags:
   - tecnologia

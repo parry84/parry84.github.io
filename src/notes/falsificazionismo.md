@@ -3,6 +3,7 @@ title: Il Criterio di Falsificabilità
 slug: falsificazionismo
 dateCreated: 2022-10-02 19:21
 dateUpdated: 2022-10-02 19:21
+order: 995
 visible: true
 tags:
   - politica

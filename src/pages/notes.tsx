@@ -10,13 +10,17 @@ type Note = {
   frontmatter: {
     title: string;
     slug: string;
+    order: number;
   };
 };
 
 const Notes = () => {
   const data = useStaticQuery(graphql`
     query {
-      allMarkdownRemark {
+      allMarkdownRemark(
+        filter: { frontmatter: { visible: { eq: true } } }
+        sort: [{ frontmatter: { order: DESC } }]
+      ) {
         nodes {
           id
           frontmatter {
@@ -49,15 +53,13 @@ const Notes = () => {
         </p>
       </section>
       <section>
-        <ul>
-          {notes
-            .filter(() => true)
-            .map((note: Note) => (
-              <li key={note.id}>
-                <Link to={note.frontmatter.slug}>{note.frontmatter.title}</Link>{' '}
-              </li>
-            ))}
-        </ul>
+        <ol>
+          {notes.map((note: Note) => (
+            <li key={note.id}>
+              <Link to={note.frontmatter.slug}>{note.frontmatter.title}</Link>
+            </li>
+          ))}
+        </ol>
       </section>
     </NoteLayout>
   );

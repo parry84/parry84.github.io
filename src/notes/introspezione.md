@@ -3,6 +3,7 @@ title: Conosci te stesso
 slug: introspezione
 dateCreated: 2023-02-09 21:37
 dateUpdated: 2023-02-09 21:37
+order: 990
 visible: true
 tags:
   - filosofia

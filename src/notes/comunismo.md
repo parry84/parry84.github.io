@@ -3,6 +3,7 @@ title: 'Comunismo e nazismo: due facce della stessa medaglia'
 slug: comunismo
 dateCreated: 2022-10-11 23:30
 dateUpdated: 2022-10-12 00:06
+order: 1
 visible: true
 tags:
   - politica

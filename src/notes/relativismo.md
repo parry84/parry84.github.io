@@ -3,6 +3,7 @@ title: Il bene assoluto
 slug: relativismo
 dateCreated: 2023-04-05 00:51
 dateUpdated: 2023-04-05 00:51
+order: 1
 visible: true
 tags:
   - filosofia

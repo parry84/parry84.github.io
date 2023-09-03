@@ -3,6 +3,7 @@ title: Una minaccia per la pace e la sicurezza globale
 slug: idrocarburi
 dateCreated: 2023-07-23 22:46
 dateUpdated: 2023-07-23 22:46
+order: 1
 visible: true
 tags:
   - politica

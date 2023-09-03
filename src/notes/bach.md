@@ -3,6 +3,7 @@ title: Das Kunst der Bach
 slug: bach
 dateCreated: 2023-07-23 18:38
 dateUpdated: 2023-07-23 18:38
+order: 1
 visible: true
 tags:
   - arte

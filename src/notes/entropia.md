@@ -3,6 +3,7 @@ title: L'entropia e il futuro del nostro destino
 slug: entropia
 dateCreated: 2022-10-11 23:30
 dateUpdated: 2022-10-12 00:06
+order: 970
 visible: true
 tags:
   - politica

@@ -3,6 +3,7 @@ title: Il voto elettronico è una pessima idea
 slug: evoting
 dateCreated: 2023-01-22 21:32
 dateUpdated: 2023-01-22 21:32
+order: 1
 visible: true
 tags:
   - politica

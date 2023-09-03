@@ -3,6 +3,7 @@ title: Il progresso inevitabile
 slug: progresso
 dateCreated: 2023-08-26 16:42
 dateUpdated: 2023-08-26 16:42
+order: 1000
 visible: true
 tags:
   - filosofia

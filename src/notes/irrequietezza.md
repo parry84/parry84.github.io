@@ -3,6 +3,7 @@ title: Confessioni di uno spirito irrequieto
 slug: irrequiretezza
 dateCreated: 2023-07-23 20:49
 dateUpdated: 2023-07-23 20:49
+order: 1
 visible: true
 tags:
   - vita
@@ -12,7 +13,7 @@ tags:
 
 <span class="newthought">Il costante</span> bisogno di “qualcosa di speciale” è una caratteristica innata dello spirito irrequieto. Esso è insoddisfatto dai compiti ordinari e aspira a dedicarsi a imprese maggiori.
 
-Tuttavia, la maggioranza di questi individui si vede costretta dalle circostanze a reprimere  questa pulsione. Il rischio di fallire, di non ritrovare il lavoro, soprattutto in tempo di crisi, e quindi di pentirsi materialmente e spiritualmente, porta molti a desistere. La sorte di quasi tutti è quindi guadagnarsi da vivere e assumere un posto nella società attraverso un lavoro che non appaga appieno.
+Tuttavia, la maggioranza di questi individui si vede costretta dalle circostanze a reprimere questa pulsione. Il rischio di fallire, di non ritrovare il lavoro, soprattutto in tempo di crisi, e quindi di pentirsi materialmente e spiritualmente, porta molti a desistere. La sorte di quasi tutti è quindi guadagnarsi da vivere e assumere un posto nella società attraverso un lavoro che non appaga appieno.
 
 Coloro che hanno la possibilità di vivere una vita indipendente, fatta di azioni e scelte autentiche, dovrebbero essere grati per questa opportunità e accoglierla con umiltà. Fortunati coloro che hanno trascorso più anni a realizzare i propri progetti che anni di rassegnazione! Fortunati coloro che possono dedicarsi genuinamente a se stessi!
 

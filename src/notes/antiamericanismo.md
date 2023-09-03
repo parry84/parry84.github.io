@@ -3,6 +3,7 @@ title: Perché non possiamo non dirci americani
 slug: antiamericanismo
 dateCreated: 2022-10-22 15:30
 dateUpdated: 2023-01-26 22:30
+order: 1
 visible: true
 tags:
   - politica
