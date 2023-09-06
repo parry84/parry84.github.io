@@ -30,7 +30,7 @@ Oggi molte delle campagne per l’inclusività mirano principalmente a denunciar
 
 </div>
 
-Il filosofo imperatore affermava che dietro ogni ostacolo vi è un’opportunità di miglioramento. **Non possiamo decidere il colore della nostra pelle, la nostra nazionalità o il nostro genere e non abbiamo scelta nemmeno riguardo la marginalizzazione a causa dell “ignoranza del bene e del male”. Tuttavia, siamo perfettamente in grado di usare questi fattori come opportunità per perfezionarci ed essere migliori dei prevaricatori**. Dobbiamo accettare il fatto che ci saranno sempre ostacoli nella nostra vita. Tuttavia il nostro modo di affrontarli ci permetterà non solo di superarli, ma anche di diventare persone migliori grazie al loro superamento.
+Il filosofo imperatore affermava che dietro ogni ostacolo vi è un’opportunità di miglioramento. **Non possiamo decidere il colore della nostra pelle, la nostra nazionalità o il nostro genere e non abbiamo scelta nemmeno riguardo la marginalizzazione a causa dell “ignoranza del bene e del male”. Tuttavia, siamo perfettamente in grado di usare questi fattori come opportunità per perfezionarci ed essere migliori dei prevaricatori**. Dobbiamo accettare il fatto che ci saranno sempre ostacoli nella nostra vita. Tuttavia il nostro modo di affrontarli ci permetterà non solo di superarli, ma anche di diventare persone migliori grazie al loro superamento. Tale concetto è anche noto come *Principio di antifragilità*\cite{Taleb2012-sa}.
 
 <div class='epigraph'>
 
@@ -60,3 +60,15 @@ Per la pace della mente non bisognerebbe lasciare che le offese influiscano nega
 Gli emarginati dovrebbero quindi esercitare la loro forza interiore laddove i prevaricatori mostrano debolezza con le loro azioni.
 
 Non sono insegnamenti facili da applicare nella vita di tutti i giorni, ma la loro utilità è indubbia.
+
+<bibliography>
+@nook{Taleb2012-sa,
+  title     = "Antifragile",
+  author    = "Taleb, Nassim Nicholas",
+  publisher = "Random House",
+  series    = "Incerto",
+  month     =  nov,
+  year      =  2012,
+  address   = "New York, NY"
+}
+</bibliography>

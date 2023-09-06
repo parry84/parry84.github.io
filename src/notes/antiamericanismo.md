@@ -27,7 +27,7 @@ _«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei 
 
 Antonio Gramsci dal carcere aveva avvertito: *«l’antiamericanismo è comico, prima di essere stupido»*\cite{gramsci}. Ma le loro sue parole caddero nel vuoto.
 
-È difficile capire le cause di questa moda intramontabile, che a destra come a sinistra, si nutre del disprezzo per il progresso e sogna la decrescita (per gli altri). Forse l’invidia. O forse la paura della libertà. O magari semplicemente una presunta superiorità aristocratica dell’Europa nei confronti dell’America materialista.
+È difficile capire le cause di questa moda intramontabile, che a destra come a sinistra, si nutre del disprezzo per il progresso e sogna la decrescita (altrui). Forse l’invidia. O forse la paura della [libertà](/notes/libero/). O magari semplicemente una presunta superiorità aristocratica dell’Europa nei confronti dell’America materialista.
 
 Ma l’America, per noi tutti, è un simbolo. È il Paese che ha salvato l’Europa dal nazismo nella Seconda Guerra Mondiale, e dove milioni di persone sono arrivate, scappando dalle dittature di tutto il mondo, in cerca di libertà e di opportunità. È il Paese che ha costruito il Miracolo economico italiano grazie al piano Marshall e che ha nuovamente salvato l’Europa vincendo la Guerra Fredda. E oltre a essere il maggiore benefattore dei paesi in via di sviluppo, è tuttora in prima linea nella difesa d’Israele, di Taiwan e dell’Ucraina.
 

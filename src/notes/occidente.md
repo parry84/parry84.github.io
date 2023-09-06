@@ -18,7 +18,7 @@ Questo porta a dei cortocircuiti mentali. Il fatto che civiltà diverse abbiamo 
 
 È obiettivamente disonesto confrontare le varie culture come se fossero realtà parallele, di uguale peso e di uguale misura. Infatti, mentre tutte le civiltà antiche rimasero ancorate a un pensiero magico-mitologico, nell’antica Grecia nacquero il pensiero logico e la [democrazia](/notes/democrazia/). Fu una parentesi di luce, e oggi gli stati occidentali sono un’isola di luce nel mondo.
 
-La tradizione europea, fondata sulla libertà, è l’unica a contenere elementi di auto critica, ed è depositaria di una immensa eredità culturale che ha portato e sta portando al mondo. A essa si deve quindi riconoscere una posizione più elevata rispetto a ogni altra civiltà, dovuta alla prima realizzazione di una norma assoluta di sviluppo, destinata a rivoluzionare ogni altra cultura storica.
+La tradizione europea, [fondata sulla libertà](/notes/libero/), è l’unica a contenere elementi di auto critica, ed è depositaria di una immensa eredità culturale che ha portato e sta portando al mondo. A essa si deve quindi riconoscere una posizione più elevata rispetto a ogni altra civiltà, dovuta alla prima realizzazione di una norma assoluta di sviluppo, destinata a rivoluzionare ogni altra cultura storica.
 
 L’eurocentrismo non va quindi interpretato in un senso genetico o razzista, ma valoriale: una società aperta alla quale chiunque può aderire: si pensi alle coraggiose lotte di Hong Kong, Taiwan e l’Ucraina. Diametralmente, va condannato lo sciovinismo talvolta esibito da chi in Occidente è nato: nessuno può intestarsi i meriti delle generazioni passate, ma può invece impegnarsi con sobrietà per aggiungere il proprio contributo al progresso.
 

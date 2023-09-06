@@ -21,7 +21,7 @@ Esempi di questa degenerazione pericolosa si trovano nei vari [complottismi](/no
 
 <div class='epigraph'>
 
-> «In ogni campo e per ogni oggetto sono sempre le minoranze, i pochi, i rarissimi, i Singoli quelli che sanno: la Folla è ignorante.» <footer> — Søren Kierkegaard, Diario</footer>
+> «In ogni campo e per ogni oggetto sono sempre le minoranze, i pochi, i rarissimi, i Singoli quelli che sanno: la Folla è ignorante.» <footer> — Søren Kierkegaard, _Diario_</footer>
 
 </div>
 

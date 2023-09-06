@@ -17,9 +17,11 @@ Nonostante i fallimenti delle politiche dall’alto finalizzate all’ospitalit�
 
 Come l’osservazione di un sistema quantistico ne perturba irrimediabilmente lo stato, il turismo frenetico snatura le realtà che tocca. I luoghi si trasformano in _non-luoghi_ sterili, anonimi, e privati della loro identità. Spazi transitori, da visitare frettolosamente: giusto il tempo di un _selfie_ per dimostrare di esserci stati e poi via, verso altri territori-cartolina da deglutire senza assaporare.
 
+Nemmeno la ricerca di mete alternative rappresenta una soluzione scalabile. Non risolve il problema, ma lo sposta, incentivando l’aumento di infrastrutture a scapito di paesaggi incontaminati, magari _luoghi del cuore_ cari alle popolazioni locali.
+
 In funzione della viralità sui social network, questo fenomeno è in continua espansione e tutta Europa pare si stia progressivamente trasformando in un’Eurolandia fatta di _cliché_, dove ripetere la medesima esperienza ovunque. E ora le geografie impattate iniziano a tentare di arginare la falla mediante divieti e restrizioni.
 
-Non esiste nemmeno il lato buono della medaglia: il turismo, un’industria a bassa produttività, [non contribuirà più di tanto al nostro benessere](/notes/progresso/). Non è scalabile: nonostante la saturazione che osserviamo, produce solo il 6% del PIL italiano. Per poter continuare a essere una nazione fiorente l’Italia dovrà invece valorizzare le industrie che realmente la rendono ricca, come la farmaceutica, la moda, le costruzioni, la meccanica.
+Non esiste nemmeno il lato buono della medaglia: il turismo, un’industria a bassa produttività, [non contribuirà più di tanto al nostro benessere](/notes/progresso/). Nonostante la saturazione che osserviamo, produce solo il 6% del PIL italiano: per poter continuare a essere una nazione fiorente l’Italia dovrà invece valorizzare le industrie che realmente la rendono ricca, come la farmaceutica, la moda, le costruzioni, la meccanica.
 
 Che fare del nostro tempo libero? [Non siamo costretti a partecipare a questa forma di masturbazione collettiva](/notes/introspezione/). Possiamo evitare la trappola del turismo e goderci “viaggi mentali” comodamente da casa nostra, [anche grazie a Internet](/notes/internet/): un’esperienza diretta è necessariamente autentica rispetto a un racconto approfondito. E spesso anche sfogliare un libro nella tranquillità del _book shop_ di un museo può essere più piacevole e informativo della visita a una mostra sovraffollata.
 
