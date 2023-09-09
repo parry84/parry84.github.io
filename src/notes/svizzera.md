@@ -11,7 +11,7 @@ tags:
 
 ##
 
-<span class="newthought">Tendiamo a vedere</span> con una certa antipatia la Svizzera —antipatia, che forse cela una certa invidia per il senso di libertà dal fisco, dal centralismo romano, dalla burocrazia italiana—. Eppure la realtà non potrebbe essere più lontana dalle famose parole di Orson Welles[^1]: Borromini, Bernoulli, Eulero, Jung, Le Corbusier: pochi altri paesi possono annoverare un simile campionario di personaggi illustri così come i loro brand. E la piccola Svizzera domina anche le classifiche dei per brevetti e premi Nobel pro capite.
+<span class="newthought">Tendiamo a vedere</span> con una certa antipatia la Svizzera —antipatia, che forse cela una certa invidia per il senso di libertà dal fisco, dal centralismo romano, dalla burocrazia italiana—. Eppure la realtà non potrebbe essere più lontana dalle famose parole di Orson Welles[^1]: Borromini, Bernoulli, Eulero, Jung, Le Corbusier: pochi altri paesi possono annoverare un simile campionario di personaggi illustri così come i loro brand. E la piccola Svizzera domina anche le classifiche dei per brevetti e premi Nobel pro capite\cite{nobel}.
 
 [^1]: _«In Italia per 300 anni sotto i Borgia ci sono stati guerra, terrore, criminalità, spargimenti di sangue. Ma hanno prodotto Michelangelo, Leonardo, il Rinascimento. In Svizzera vivevano in amore fraterno, avevano 500 anni di pace e di Democrazia. E cosa hanno prodotto? L’orologio a cucù»_ (da _“Il terzo uomo”_).
 
@@ -31,6 +31,19 @@ La Svizzera non sogna conquiste territoriali, rispetta i diritti di tutti, colla
 
 Ogni cittadino in buona fede dovrà riconoscere che le istituzione politiche in Occidente, pur se imperfette come ogni opera umana, sono stabili e rispettano l’individuo. Anche sul piano sociale, abbiamo compiuto notevoli progressi: **non esistono luoghi al mondo in cui i diritti essenziali della creatura umana siano meglio protetti**.
 
-**La nostre nazioni meritano perciò d’essere difese in tutta la loro realtà fisica, morale e politica**. Oggi la guerra non è fatta solo con le armi ma è psicologica. Occorre quindi una difesa spirituale contro l’inganno del multipolarismo: [democrazia](/notes/democrazia/) e libertà non possono equivalere a oppressione e dispotismo.
+**La nostre nazioni meritano perciò d’essere difese in tutta la loro realtà fisica, morale e politica**. Oggi la guerra non è fatta solo con le armi ma è psicologica. Occorre quindi una difesa spirituale contro l’inganno del multipolarismo: [democrazia](/notes/democrazia/) e [libertà](/notes/libero/) non possono equivalere a oppressione e dispotismo.
 
-La Svizzera, i cui valori fondamentali sanciti dal Patto del 1291 comprendono l’indipendenza e l’aiuto reciproco contro le aggressioni, sia d’ispirazione. I montanari dei Cantoni primitivi difesero con le armi le loro libertà.
+La Svizzera, i cui valori fondamentali sanciti dal Patto del 1291\cite{patto} comprendono l’indipendenza e l’aiuto reciproco contro le aggressioni, sia d’ispirazione. I montanari dei Cantoni primitivi difesero con le armi le loro libertà.
+
+<bibliography>
+@misc{nobel,
+  title = "List of countries by Nobel laureates per capita",
+  url = "https://en.wikipedia.org/wiki/List_of_countries_by_Nobel_laureates_per_capita",
+  note = "[Consultato il 09-09-2023]",
+}
+@misc{patto,
+  title = "Il Patto federale del 1° agosto 1291",
+  url = "https://www.admin.ch/gov/it/pagina-iniziale/consiglio-federale/storia-del-consiglio-federale/il-patto-federale-1-agosto-1291.html",
+  note = "[Consultato il 09-09-2023]",
+}
+</bibliography>

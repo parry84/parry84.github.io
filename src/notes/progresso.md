@@ -22,19 +22,26 @@ In origine tutto quanto occorreva all’uomo era immediatamente disponibile in n
 
 Non possiamo quindi farci nulla se il mondo è stato giovane e forte e ora è debole e vecchio. Noi stiamo ora vivendo una confusa fase di passaggio, intenti ad accapigliarci fra un immobilismo disperatamente aggrappato a un mondo in disfacimento e forme di progressismo irrazionale, prospettiva che, tuttavia, costituisce semplicemente una forma alternativa di immobilismo. [Gli idrocarburi sono una variabile determinante della crisi attuale](/notes/idrocarburi/).
 
-Metabolizzare questa realtà, dal sapore apocalittico, non deve gettare nello sconforto. [La natura umana è intrinsecamente vivificante e glorifica la vita](/notes/riverenza/). Ci si affidi piuttosto ai saggi insegnamenti dello stoicismo: l’ossessione per ciò che non è in nostro controllo è la via per l’infelicità. Dobbiamo quindi focalizzarci su ciò su cui possiamo agire. Si guardi la bottiglia mezza piena: non l’energia perduta, ma l’energia ancora disponibile.
+Metabolizzare questa realtà, dal sapore apocalittico, non deve gettare nello sconforto. [La natura umana è intrinsecamente affamata di vita](/notes/riverenza/). Ci si affidi piuttosto ai saggi insegnamenti dello stoicismo: l’ossessione per ciò che non è in nostro controllo è la via per l’infelicità. Dobbiamo quindi focalizzarci su ciò su cui possiamo agire. Si guardi la bottiglia mezza piena: non l’energia perduta, ma l’energia ancora disponibile.
 
 Come sosteneva Darwin, non è la specie più forte o la più intelligente a sopravvivere, ma quella che si adatta meglio al cambiamento. L’unica soluzione a una crescente complessità è un continuo miglioramento dei propri metodi: accettare dunque la necessità del progresso e impegnarsi nella sua prosecuzione.
 
-Ma procedendo intelligentemente. Se da un lato la decrescita rappresenta un utopia dannosa, lo stesso vale per le degenerazioni più tossici del produttivismo. Occorre capire, [numeri alla mano](/notes/numeri/), quali soluzioni ci permetteranno realmente di navigare in un mondo sempre più degradato, senza eccessive controindicazioni. [L’energia nucleare](/notes/nucleare/), l’urbanizzazione, gli OGM, la meccanizzazione dell’agricoltura, il controllo delle nascite, l’intelligenza artificiale e una struttura del lavoro altamente specializzata ([anche se alienante](/notes/irrequietezza/), spesso a torto visti come nemici, sono i nostri principali alleati.
+Tuttavia, è fondamentale procedere con giudizio. Se le degenerazioni più tossiche del consumismo sono dannose, le ideologie della decrescita sono ancora peggio. Persino Gramsci polemizzava con chi in opposizione alla “grande fabbrica” predica “l’ideologia scema sul ritorno all’artigianato”\cite{gramsci}.
+
+La virtù, come spesso accade, [sta nel mezzo](/notes/giusto-mezzo/). Occorre capire, [numeri alla mano](/notes/numeri/), quali soluzioni ci permetteranno realmente di navigare in un mondo sempre più degradato, senza eccessive controindicazioni. Beni di qualità e durevoli, [l’energia nucleare](/notes/nucleare/), l’urbanizzazione, gli OGM, la meccanizzazione dell’agricoltura, il controllo delle nascite, l’intelligenza artificiale e una struttura del lavoro altamente specializzata ([anche se alienante](/notes/irrequietezza/)), spesso a torto visti come nemici, sono i nostri principali alleati.
 
 Il progresso scientifico e tecnologico sta diventando un obiettivo sempre più difficile da raggiungere\cite{Bhattacharya2020}, in pratica dobbiamo impegnarci sempre di più per ottenere sempre di meno. È quindi fondamentale canalizzare i nostri sforzi sempre più oculatamente.
 
 Nazioni come l’Olanda e [la Svizzera](/notes/svizzera/) sono esempi di successo di coesistenza fra qualità della vita e società avanzata. È infatti stupefacente quanto siano vivibili i Paesi Bassi, nonostante la loro densità di popolazione e il grado di industrializzazione. L’impressione è quella di trovarsi in una immensa città giardino: nei centri storici, così come nelle periferie il traffico è contenuto anche nelle ore di punta e qualsiasi destinazione è raggiungibile in bicicletta in completa sicurezza. E, pur disponendo di un territorio minuto, sono divenuti il secondo esportatore di cibo al mondo\cite{Holland}, ma le campagne conservano un paesaggio idilliaco e sono abitate da infinite varietà di uccelli.
 
-Nella scarsità di risorse conviene limitare il superfluo, riconoscendo che il consumismo e il [turismo frenetico](/notes/turismo/) non sono vie scalabili alla felicità nel lungo termine. L’[introspezione](/notes/introspezione/) ci indica invece l’essenziale: lo studio, la lettura, i piaceri semplici e la frequentazione degli amici. In fin dei conti basta poco per essere felici, ma senza abbandonarsi a illusioni primitiviste o nostalgie di stati termodinamici irrimediabilmente perduti.
+Nella scarsità di risorse conviene limitare il superfluo, riconoscendo che il consumismo e il [turismo frenetico](/notes/turismo/) non sono vie scalabili alla felicità nel lungo termine. La povertà non rappresenta un bene spirituale in sé, ma riduce la vita a mera sopravvivenza, priva di una dimensione spirituale. È l’[introspezione](/notes/introspezione/) a rivelare ciò che è realmente importante per noi. Lo studio, la lettura, i piaceri semplici e la frequentazione degli amici sono esempi di occupazioni gratificanti a basso consumo energetico. In fin dei conti basta poco per essere felici, ma senza abbandonarsi a illusioni primitiviste o nostalgie di stati termodinamici irrimediabilmente perduti.
 
 <bibliography>
+@inbook{gramsci,
+  title     = "Quaderni del carcere",
+  author    = "Gramsci, Antonio",
+  pages     = "Quaderno 5 § 105"
+}
 @techreport{Bhattacharya2020,
   doi = {10.3386/w26752},
   url = {https://doi.org/10.3386/w26752},
