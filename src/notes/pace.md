@@ -30,7 +30,7 @@ In un altro studio, Matthew O. Jackson e Stephen Nei\cite{jackson1915} arrivano 
 
 In Europa abbiamo un chiaro esempio di questo fenomeno: basti osservare come prima dello scoppio della Seconda Guerra Mondiale l’isolamento economico era massimo. Successivamente, nel mondo occidentale sono proliferati trattati di libero scambio, quali la Comunità Europa (o analogamente il NAFTA) e abbiamo in effetti avuto oltre 70 anni di pace e benessere.
 
-Oggi purtroppo le nuove generazioni che non hanno vissuto il fascismo e la Guerra Fredda, non hanno più gli anticorpi contro i totalitarismi. Questo crea un terreno fertile per nuove forme di populismo che, alimentando ad arte le paure, vorrebbero un ritorno al mercantilismo e l’isolazionismo.
+Oggi purtroppo le nuove generazioni che non hanno vissuto il fascismo e la Guerra Fredda, non hanno più gli anticorpi contro i totalitarismi. Questo crea un terreno fertile per nuove forme di populismo che, alimentando ad arte le paure, vorrebbero un ritorno al mercantilismo e all’isolazionismo.
 Dobbiamo quindi mantenere alta la guardia e perseverare nella missione che maggiormente contribuisce alla pace nel mondo: diffondere il Capitalismo.
 
 <bibliography>

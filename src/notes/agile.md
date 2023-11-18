@@ -24,7 +24,9 @@ Questo però ha un impatto per le società tecnologiche che hanno strutturato i 
 
 Chiaramente, l’affiatamento del team, così come è stato concepito dal Manifesto, non è possibile lavorando da casa. Strumenti di comunicazione _a distanza_ quali email, chat, videoconferenze non sono un valido sostituto per la comunicazione diretta.
 
-L’eliminazione delle conversazioni spontanee ha trasformato la collaborazione in un processo rigido e formale (e lento). Questo ha portato a un aumento del tempo speso nei _meeting_\cite{meetings}, a discapito della produttività. Per via della dimensione del fenomeno, è stata anche coniata l’espressione "_Zoom fatigue_".
+La minor fiducia reciproca e l’eliminazione delle conversazioni spontanee ha trasformato la collaborazione in un processo rigido e formale (e lento). Questo ha portato a un aumento del tempo speso nei _meeting_\cite{meetings}, a discapito della produttività. Per via della dimensione del fenomeno, è stata anche coniata l’espressione "_Zoom fatigue_".
+
+Ad essere impattati sono principalmente gli ambiti più competitivi, in quanto l’isolamento riduce l’intelligenza collettiva, che è sinergia di competenze e di esperienze.
 
 A ogni cambiamento segue generalmente una risposta. E anche il _Manifesto Agile_, per quanto recente, potrebbe essere già giunto al capolinea. Ma è difficile oggi prevedere quali direzioni seguirà l’evoluzione. Alcuni scenari possibili:
 

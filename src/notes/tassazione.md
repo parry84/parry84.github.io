@@ -3,7 +3,7 @@ title: La tassazione antiprogressiva
 slug: tassazione
 dateCreated: 2023-11-18 16:19
 dateUpdated: 2023-11-18 16:19
-order: 21
+order: 22
 visible: true
 tags:
   - politica
@@ -11,24 +11,23 @@ tags:
 
 ##
 
-<span class="newthought">Il risentimento</span> nei confronti della politica e, in particolar modo, verso gli stipendi dei parlamentari, ha dominato il dibattuto pubblico delle ultime decadi. Questo risentimento è poi sfociato nel trionfo elettorale dell’antipolitica.
+<span class="newthought">Sarà impopolare</span>, ma ritengo sia giusto che un miliardario paghi un’aliquota inferiore a un operaio.
 
-È comprensibile essere indignati con la classe politica, dati gli scandali, gli sprechi e — soprattutto — i vent’anni di mancate riforme. Tuttavia, questo fenomeno ha un duplice effetto negativo.
+In effetti, ciascuno di noi consuma beni collettivi in maniera pressapoco eguale. Bill Gates consuma all’incirca la stessa quantità di ossigeno e di asfalto di un impiegato del McDonald’s.
 
-In primo luogo, rappresenta una distrazione. Il costo _pro capite_ del parlamento è di circa 25€ all’anno per cittadino. \cite{stipendi23}, Una cifra irrilevante per un paese del G7 (per quanto sia doveroso tenere i costi della politica sotto controllo). Tuttavia monopolizzare il dibattito pubblico su questo aspetto impedisce di approfondire temi molto più significativi, come la [bassa produttività](/notes/progresso/) e l’innovazione stagnante. Questo sbandamento nell’ordine delle priorità indebolisce la [democrazia](/notes/democrazia/).
+Tuttavia, un aliquota del 30% sull’imponibile di un miliardario è, in valori assoluti, ordini di grandezza superiori alla medesima percentuale pagata dall’impiegato del McDonald’s. Pertando un miliardario inietterà nella fiscalità generale una cifra mostruosamente superiore a quanto gli potrà mai tornare indietro. Al contrario, chi riceve uno stipendio molto basso, anche pagando tutti i contributi, sarà comunque, dal punto di vista fiscale, un peso per la collettività. È una elementare questione di aritmetica.
 
-In secondo luogo, dimentica l’importanza della politica. La politica è uno degli aspetti fondamentali della società moderna. Essa influenza il contesto in cui viviamo, cresciamo, lavoriamo, costruiamo una famiglia, invecchiamo e in ultima analisi la qualità della nostra vita. Dalle decisioni prese dai politici di oggi dipenderà anche il Paese che lasceremo alle generazioni future.
+Questa assunzione per cui, attraverso una tassazione non sufficientemente progressiva il ricco stia rubando al povero, non trova una giustificazione razionale ed è motivata dall’[invidia sociale](/notes/gratitudine/). Per imprinting culturale accettiamo il dogma secondo cui il ricco è a priori un parassita mentre il povero uno sfruttato. [Ma i dogmi vanno sfidati con i fatti](/notes/numeri/). E i numeri dimostrano che, in presenza di un sistema di welfare, è vero il contrario.
 
-Dovremmo quindi focalizzarci in primo luogo sull’efficacia della politica, prima ancora che sul risparmio. La risposta alla bassa qualità della politica dovrebbe essere una politica di miglior qualità, non l’antipolitica. Lo stipendio, in qualsiasi professione, è un fattore determinante per attirare i talenti e le competenze migliori. Perché non dovrebbe essere valido per la politica?
+**Oggi, quasi il 43% degli italiani dichiarano redditi quasi nulli contribuendo a un misero 1,73% delle entrate, mentre un esiguo 14% dei contribuenti con redditi dai 35mila euro in su deve  corrispondere da solo il 63% dell’Irpef totale**\cite{bilancio2023}.
 
-Oggi i migliori talenti vengono attirati verso l’alta finanza e il mondo della consulenza strategica a colpi di aperitivi nelle università e RAL generose. In queste mansioni, finiscono spesso a macinare numeri in Excel presso qualche banca d’affari. Potrebbero portare un maggior valore e un maggior contributo occupandosi della _res publica_, un ruolo che è quindi importante che sia mantenuto prestigioso e attrattivo.
-
-L’antipolitica si è rivelata essere pura demagogia, opportunismo privo di un’idea di società, non già propellente al cambiamento, ma surrogato utile solo a mascherare un deficit di pensiero.
+Tale sistema di redistribuzione del debito è profondamente iniquo e occorre mettere un freno alla insaziabile voracità del fisco. E occorre anche mettere un freno al populismo anticapitalista sostituendolo con un senso di gratitudine verso chi crea ricchezza e contribuisce al benessere di tutti.
 
 <bibliography>
-@misc{stipendi23,
-   title = "Quanto costano davvero i politici italiani?",
-   url="https://www.risparmiamocelo.it/quanto-costano-davvero-i-politici-italiani/",
-   note = "[URL consultato il 18 novembre 2023]"
+@techreport{bilancio2023,
+  url = {https://www.itinerariprevidenziali.it/site/home/biblioteca/pubblicazioni/settima-regionalizzazione.html},
+  year = {2023},
+  publisher = {Centro Studi e Ricerche di Itinerari Previdenziali},
+  title = {Settima regionalizzazione sul bilancio del sistema previdenziale italiano}
 }
 </bibliography>

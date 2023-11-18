@@ -42,3 +42,5 @@ Questo cammino non sarà solo caratterizzato da momenti esaltanti, ma perlopiù 
 Si pongano continuamente in discussione i propri obiettivi, i propri risultati e i metodi di lavoro. Evitando di fare il passo più lungo della gamba, ma invocando la strada rigorosa, difficile e severa della conoscenza acquisita con fatica, giorno per giorno.
 
 È questo il reale significato dello slogan “failure is success”: il fallimento è la testimonianza del superamento i propri limiti e sposta l’asticella più in alto. Esso si applica a innumerevoli altri contesti, come lo sport, l’alpinismo, la ricerca scientifica e la vita stessa.
+
+“Free Solo”, la straordinaria impresa di Alex Honnold sulla parete di _El Capitan_, può sembrare un’impresa suicida ai più. Ma il suo successo è fondato sui lunghi anni di preparazione che hanno preceduto la scalata.
