@@ -1,6 +1,6 @@
 ---
-title: Un approccio stoico alle discriminazioni
-slug: discriminazioni
+title: Come il promontorio
+slug: ingiustizia
 dateCreated: 2022-11-02 23:51
 dateUpdated: 2023-01-24 01:23
 order: 870
@@ -12,11 +12,18 @@ caption: 'MARCUS AURELIUS ANTONINUS AUGUSTUS / black and white, Daniel Coulmann'
 
 ##
 
+<p class="subtitle">Un approccio stoico alle ingiustizie</p>
+
+##
+
+^[{-}«Sii come il promontorio contro cui si infrangono incessantemente i flutti: resta immobile e intorno ad esso si placa il ribollire delle acque. “Me sventurato, mi è capitato questo”. Niente affatto! Semmai: “Me fortunato, perché anche se mi è capitato questo resisto senza provar dolore, senza farmi spezzare dal presente e senza temere il futuro”. Infatti una cosa simile sarebbe potuta accadere a tutti, ma non tutti avrebbero saputo resistere senza cedere al dolore. Allora perché vedere in quello una sfortuna anziché in questo una fortuna?»
+— Marco Aurelio, Colloqui con sé stesso, Libro IV]
+
 <span class="newthought">Invece che</span> immaginare un mondo ideale, gli Stoici mirano a controllare le proprie emozioni per affrontare il mondo così com’è. Su queste basi, lo Stoicismo suggerirebbe alle minoranze vulnerabili di ricordare ogni giorno: “sarò oggetto di pregiudizi e verrò emarginato”. Questa proposta di meditare sull’inevitabilità della sofferenza può sembrare del tutto anomala rispetto all’attuale popolarità del pensiero positivo.
 
 <div class='epigraph'>
 
-> «Dal mattino comincia a dire a te stesso: incontrerò gente vana, ingrata, violenta, fraudolenta, invidiosa, asociale; tutto ciò capita a costoro per l'ignoranza del bene e del male.» <footer> — Marco Aurelio, _Colloqui con sé stesso_, libro II, 1</footer>
+> «Dal mattino comincia a dire a te stesso: incontrerò gente vana, ingrata, violenta, fraudolenta, invidiosa, asociale; tutto ciò capita a costoro per l’ignoranza del bene e del male.» <footer> — Marco Aurelio, _Colloqui con sé stesso_, libro II, 1</footer>
 
 </div>
 
@@ -38,12 +45,12 @@ Il filosofo imperatore affermava che dietro ogni ostacolo vi è un’opportunit�
 
 </div>
 
-Per esempio, l'approccio di Mandela alla lotta contro l’apartheid era probabilmente stoico: ha sottolineato che le ingiustizie del passato non potranno mai essere cancellate, e che quindi i neri di oggi dovrebbero affrontarle costruendo un futuro migliore per il Sud Africa.
+Per esempio, l’approccio di Mandela alla lotta contro l’apartheid era probabilmente stoico: ha sottolineato che le ingiustizie del passato non potranno mai essere cancellate, e che quindi i neri di oggi dovrebbero affrontarle costruendo un futuro migliore per il Sud Africa.
 
 Gli Stoici indicarono quattro vie da seguire per automigliorarsi:
 
 - _Saggezza_: l’abilità di navigare nel mondo in maniera, razionale, informata e mite.
-- _Temperanza_: l'esercizio dell'autocontrollo e della moderazione di fronte alle prevaricazioni.
+- _Temperanza_: l’esercizio dell’autocontrollo e della moderazione di fronte alle prevaricazioni.
 - _Giustizia_: trattare gli altri con equità anche quando sbagliano.
 - _Coraggio_: avere il coraggio di opporsi alle discriminazioni con chiarezza e integrità, non solo in circostanze eccezionali ma anche nelle situazioni ordinarie. Per esempio, rifiutandosi di cedere il posto sull’autobus.
 
