@@ -1,6 +1,6 @@
 ---
-title: L’annosa questione dello stipendio dei parlamentari
-slug: antipolitica
+title: La tassazione antiprogressiva
+slug: tassazione
 dateCreated: 2023-11-18 16:19
 dateUpdated: 2023-11-18 16:19
 order: 21
