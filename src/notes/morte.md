@@ -22,7 +22,11 @@ In generale, sta male parlare di soldi, e quando si tratta di sanità pubblica l
 
 Se nella nostra società il senso stesso della vita è diventato il vivere più a lungo possibile, allora dovremmo orientare verso la sanità ogni decisione politica e ogni singolo centesimo, pubblico e privato. Effettivamente alcuni la pensano così, si pensi ai divieti sul fumo, sull’alcol, alla riduzione degli investimenti nell’istruzione. Ma se dedicheremo la nostra vita a evitare la morte, la dedicheremo a una battaglia contro i mulini a vento dall’esito scontato.
 
-Vale veramente la pena vivere da malati per morire sani, o è forse meglio vivere da giovani quando siamo realmente vivi? Perlomeno sarebbe giusto avere la possibilità di scegliere, se preferire la durata o la qualità della vita. Ma in un regime di sanità pubblica, la possibilità di scegliere è fortemente limitata.
+Nell’Occidente tecnologicamente avanzato, la morte è un tabù: il solo parlarne crea  imbarazzo. In passato, filosofie quali lo stoicismo, si interrogavano su di essa e ne esaltavano l’accettazione. Quando c’è la morte non ci siamo noi e quando c’è la morte non ci siamo noi. Quindi, perché preoccuparci di qualcosa che non ci riguarda? Un insegnamento coraggioso, che però gira intorno al problema vero, ciò che ci spaventa veramente, ovvero la fine della parabola della vita, l’idea che gli eventi, il flusso delle nostre produzioni mentali si arresti di colpo. Gli stoici lo sapevano e anche per questo ha una risposta: la felicità non aumenta col tempo. Un bel film non diventa più bello se aggiungiamo un tempo.
+
+Se rinunciamo al tempo, rinunciamo ai nostri progetti, alle nostre emozioni, alle ambizioni di cui sono innervate le nostre giornate e questo forse non è un esito auspicabile. Il tempo conta, noi siamo i nostri progetti e rinunciare ai nostri progetti significa in fondo rinunciare a ciò che noi siamo. Perché è proprio il fatto che noi dobbiamo morire, questa nostra condizione di mortalità, che rende le nostre fragili vite così preziose e inimitabili. È paradossale, sicuramente doloroso, ma probabilmente è proprio così\cite{bonazzi21}.
+
+Vale veramente la pena vivere da malati per morire sani, o è forse meglio vivere da giovani quando siamo realmente vivi? Perlomeno sarebbe giusto avere la possibilità di scegliere, se preferire la quantità o la qualità della vita.
 
 <div class='epigraph'>
 
@@ -32,3 +36,12 @@ Vale veramente la pena vivere da malati per morire sani, o è forse meglio viver
 > bisogna morire <footer> — La Passacaglia della Vita (Homo fugit velut umbra) è un anonimo del 1657, tratto dalla raccolta _Canzonette Spirituali e Morali che si cantano nell’Oratorio di Chiavenna, eretto sotto la Protezione di San Filippo Neri_</footer>
 
 </div>
+
+<bibliography>
+@inbook{bonazzi21,
+  title     = "Dubito ergo sum. Brevi lezioni per vivere con filosofia",
+  author    = "Bonazzi, Mauro",
+  year      = 2021,
+  publisher = "Solferino",
+}
+<bibliography>
