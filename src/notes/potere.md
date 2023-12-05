@@ -23,7 +23,7 @@ Ma sfugge che la volontà del popolo non è affatto monolitica e sfugge che, all
 
 In alcuni casi il potere è imposto con la forza e la repressione, ma si tratta di situazioni transitorie, prima o poi una breccia farà crollare la diga.
 
-È una realtà sgradevole da accettare. È più confortevole credere che le maggioranze siano sempre bel giusto e che ogni desiderio possa essere soddisfatto sconfiggendo una non meglio precisata _élite_ fortemente minoritaria. Questa convinzione spesso sfocia nel pensiero [complottista](/notes/complottismo/).
+È una realtà sgradevole da accettare. È più confortevole credere che le maggioranze siano sempre bel giusto e che ogni desiderio possa essere soddisfatto sconfiggendo una non meglio precisata _élite_ fortemente minoritaria. Piove, governo ladro! Questa convinzione spesso sfocia nel pensiero [complottista](/notes/complottismo/).
 
 Eppure il volere di una maggioranza non è necessariamente la scelta giusta, a volte nemmeno per la maggioranza stessa. Quante volte, individualmente, compiamo scelte per noi stessi di cui ci pentiamo?
 
