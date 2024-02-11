@@ -7,7 +7,7 @@ module.exports = {
   trailingSlash: "always",
   siteMetadata: {
     title: `Emanuele Parrinello (parry84)`,
-    description: `Emanuele Parrinello (parry84) personal website. Software developer. Based in Milan`,
+    description: `Emanuele Parrinello (parry84) personal page. Software developer. Based in Milan`,
     author: `Emanuele Parrinello`,
     twitterUsername: `@elparro84`,
     image: `/gatsby-icon.png`,
