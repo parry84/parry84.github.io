@@ -36,4 +36,4 @@ Se i calcoli ci intimidiscono, non denigriamoli dunque come la volpe nella famos
   title   = {De Musica},
   year    = {389 d.C.},
 }
-<bibliography>
+</bibliography>
