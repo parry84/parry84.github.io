@@ -11,9 +11,11 @@ tags:
 
 ##
 
-<span class="newthought">Perché</span> siamo attratti dalla bellezza? Nelle cose belle percepiamo qualità di cui abbiamo bisogno, ma che mancano nella nostra vita: armonia, equilibrio, pace, forza. La bellezza ha quindi una funzione importante. Essa rivela importanti verità sulla felicità, ed è compito degli artisti aiutarci a vivere vite felici.
+<span class="newthought">Perché</span> siamo attratti dalla bellezza? Nelle cose belle percepiamo qualità di cui abbiamo bisogno, ma che mancano nella nostra vita: armonia, equilibrio, pace, forza. La bellezza ha quindi una funzione importante: essa rivela importanti verità sulla felicità, ed è compito degli artisti aiutarci a vivere vite felici.
 
-La fotografia mi ha insegnato ad apprezzare i piccoli dettagli e a trovare la bellezza anche dove non ci si aspetterebbe di trovarla. Anche un vecchio attrezzo agricolo arrugginito può risultare affascinante e suggestivo. Se per una descrizione oggettiva della realtà, mille parole valgono quasi sempre più di un’immagine, nelle [mie esplorazioni](https://500px.com/p/parry84) preferisco ribaltare l’assunto razionalista: non è l’utile a essere bello, ma è il bello a essere utile.
+La fotografia mi ha insegnato ad apprezzare i piccoli dettagli e a trovare la bellezza anche dove non ci si aspetterebbe di trovarla[^1]. Anche un vecchio attrezzo agricolo arrugginito può risultare poetico e ricco di significato. Se per una descrizione oggettiva della realtà, mille parole valgono quasi sempre più di un’immagine, nelle [mie esplorazioni](https://500px.com/p/parry84) preferisco ribaltare l’assunto razionalista: non è l’utile a essere bello, ma è il bello a essere utile.
+
+[^1]: Questo risultato è intrinsecamente non raggiungibile dalle immagini generae dalle AI: invece di mostrare un’intepretazione della realtà, ne sono totalmente disgiunte.
 
 Di seguito, una mia selezione di fotografi che considero particolarmente evocativi.
 
@@ -26,8 +28,7 @@ L’essenzialità delle inquadrature e la capacità di far emergere i suoi sogge
 
 ## Armando Capochiani
 
-Paesaggi lievi e rigorosi al tempo stesso, fatti di geometrie in perfetto equilibrio, ingentilite dai toni pastello degli edifici e dalla luce morbida e diffusa.
-Il minimalismo urbano è la parola chiave: le forme, i colori e le linee sono razionalizzati fino a non sembrare più appartenere a questo mondo. Creando una fotografia eccessivamente semplificata, _Armando Capochiani_ cerca di suscitare una risposta emotiva producendo un'esperienza visiva unica.
+Paesaggi lievi e rigorosi al tempo stesso, fatti di geometrie in perfetto equilibrio, ingentilite dai toni pastello degli edifici e dalla luce morbida e diffusa. Il minimalismo urbano è la parola chiave: le forme, i colori e le linee sono razionalizzati fino a non sembrare più appartenere a questo mondo. Creando una fotografia eccessivamente semplificata, _Armando Capochiani_ cerca di suscitare una risposta emotiva producendo un'esperienza visiva unica.
 
 ^[{-} © Armando Capochiani, _Urban Geometries_.]
 ![Armando Capochiani](/images/armando_capochiani.jpg)

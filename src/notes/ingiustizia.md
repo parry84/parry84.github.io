@@ -17,7 +17,7 @@ caption: 'MARCUS AURELIUS ANTONINUS AUGUSTUS / black and white, Daniel Coulmann'
 ##
 
 ^[{-}«Sii come il promontorio contro cui si infrangono incessantemente i flutti: resta immobile e intorno ad esso si placa il ribollire delle acque. “Me sventurato, mi è capitato questo”. Niente affatto! Semmai: “Me fortunato, perché anche se mi è capitato questo resisto senza provar dolore, senza farmi spezzare dal presente e senza temere il futuro”. Infatti una cosa simile sarebbe potuta accadere a tutti, ma non tutti avrebbero saputo resistere senza cedere al dolore. Allora perché vedere in quello una sfortuna anziché in questo una fortuna?»
-— Marco Aurelio, Colloqui con sé stesso, Libro IV]
+— Marco Aurelio, _Colloqui con sé stesso_, Libro IV]
 
 <span class="newthought">Invece che</span> immaginare un mondo ideale, gli Stoici mirano a controllare le proprie emozioni per affrontare il mondo così com’è. Su queste basi, lo Stoicismo suggerirebbe alle minoranze vulnerabili di ricordare ogni giorno: “sarò oggetto di pregiudizi e verrò emarginato”. Questa proposta di meditare sull’inevitabilità della sofferenza può sembrare del tutto anomala rispetto all’attuale popolarità del pensiero positivo.
 
