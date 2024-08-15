@@ -7,7 +7,7 @@ order: 1000
 visible: true
 tags:
   - filosofia
-caption: Pixlr AI Generator, "arnaldo pomodoro, sfera grande, 1500 engraving style"
+caption: Anna e Elena Balbusso, Atlas Shrugged Dream
 ---
 
 ##
