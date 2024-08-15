@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 18
       - name: Build and Deploy
-        uses: enriikke/gatsby-gh-pages-action@v2
+        uses: enriikke/gatsby-gh-pages-action@v2.2.1
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: gh-pages
