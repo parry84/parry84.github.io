@@ -19,11 +19,11 @@ Sappiamo che la quantità di energia totale dell’universo è costante. Ma oltr
 
 <div class='epigraph'>
 
-> «L'Entropia è la suprema legge metafisica dell'Universo.» <footer> — Arthur Eddington</footer>
+> «L’Entropia è la suprema legge metafisica dell’Universo.» <footer> — Arthur Eddington</footer>
 
 </div>
 
-Einstein la riteneva la legge fondamentale della scienza. **Da essa deriva l'invecchiamento, la morte, la caduta d'Imperi e, in ultima analisi, la fine stessa dell'Universo**.
+Einstein la riteneva la legge fondamentale della scienza. **Da essa deriva l’invecchiamento, la morte, la caduta d’Imperi e, in ultima analisi, la fine stessa dell’Universo**.
 
 Anche le energie rinnovabili nel lungo periodo non sono rinnovabili. Le montagne sono soggette a disgregazione e pure il Sole esaurirà il combustibile. Lo stesso vale per il riciclaggio: per esempio, è impossibile rifondendo più volte la stessa plastica, ottenere a ogni ciclo la stessa quantità di partenza.
 
@@ -33,7 +33,7 @@ Queste verità possono apparire riduttive o persino deprimenti. Il motivo è che
 
 <div class='epigraph'>
 
-> «Si può ignorare la realtà, ma non si possono ignorare le conseguenze dell'ignorare la realtà.» <footer> — Ayn Rand</footer>
+> «Si può ignorare la realtà, ma non si possono ignorare le conseguenze dell’ignorare la realtà.» <footer> — Ayn Rand</footer>
 
 </div>
 
