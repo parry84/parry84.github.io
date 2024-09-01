@@ -31,13 +31,13 @@ Non posso garantire a priori che la proposta fermerebbe la fuga dei cervelli, ma
 
 <bibliography>
 @article{ricercatori,
-  author  = {Istat}, 
+  author  = {Istat},
   title   = {Mobilità interna e verso l’estero dei dottori di ricerca},
   journal = {Focus statistiche},
   year    = 2011,
 }
 @article{migrazioni,
-  author  = {Istat}, 
+  author  = {Istat},
   title   = {Iscrizioni e cancellazioni anagrafiche della popolazione residente},
   journal = {Statistiche report},
   year    = 2019,
