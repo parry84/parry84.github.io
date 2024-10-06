@@ -21,7 +21,7 @@ Galvanizzati dagli avanzamenti nelle questioni materiali, si sono bollate come s
 
 Abbiamo quindi frettolosamente ucciso Dio senza porci il problema di cosa si inserisce nel vuoto della lasciato dalla religione. E tolto Dio dal fondo dell’anima non è rimasto che un abisso senza fondo[^1].
 
-[^1]: Si veda, ad esempio, la vicenda di Silvia Romano. Una zucca vuota è facilmente riempibile con qualsiasi cosa, corroborando la tesi di Ayaan Hirsi Ali.
+[^1]: Si veda, ad esempio, la vicenda di Silvia Romano. Una zucca vuota è facilmente riempibile con ogni genere di pattume, corroborando la tesi di Ayaan Hirsi Ali.
 
 E questo vuoto, in retrospettiva, è stato riempito da alternative spesso peggiori della religione stessa, come [il marxismo](/notes/comunismo/), [il nazionalismo estremo](/notes/europa/), la dipendenza dalle droghe. In fin dei conti le religioni hanno superato il test del tempo e, pur con i loro evidenti difetti, hanno anche portato dei valori in termini di cultura e regole di convivenza comunitaria.
 
