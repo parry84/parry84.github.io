@@ -2,7 +2,7 @@
 title: Perché non possiamo non dirci americani
 slug: antiamericanismo
 dateCreated: 2022-10-22 15:30
-dateUpdated: 2023-01-26 22:30
+dateUpdated: 2024-10-06 22:30
 order: 1
 visible: true
 tags:
@@ -23,11 +23,11 @@ _«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei 
 - se divulgano le loro conoscenze, è imperialismo culturale e corruzione;
 - se invece si lasciano contaminare da altri popoli, allora è appropriazione culturale.
 
-**Se un post sui _social network_ incolpasse l’America dell’estinzione dei dinosauri, molte persone metterebbero un _like_ e ricondividerebbero senza notarvi nulla di strano!**
+**Se un post sui _social network_ incolpasse l’America dell’estinzione dei dinosauri, come per un riflesso pavloviano milioni di utenti vi metterebbero il _like_ e lo ricondividerebbero senza notarvi nulla di strano!**
 
 Antonio Gramsci dal carcere aveva avvertito: *«l’antiamericanismo è comico, prima di essere stupido»*\cite{gramsci}. Ma le loro sue parole caddero nel vuoto.
 
-^[{-} Nel 2007 l’economia americana ed europea erano paritarie, mentre oggi, dopo solo 15 anni, quella americana è raddoppiata mentre quella europea —la medesima Europa che guarda agli USA con spocchia— è rimasta pressoché invariata. Praticamente siamo in un museo vivente, ma quanto a lungo potrà durare?]
+^[{-} Nel 2007 l’economia americana ed europea erano paritarie, mentre oggi, dopo solo 15 anni, quella americana è raddoppiata mentre quella europea —la medesima Europa che guarda agli USA con spocchia— è rimasta pressoché invariata. Praticamente siamo [un museo vivente](/notes/regolamentazione/), ma quanto a lungo potrà durare?]
 
 È difficile capire le cause di questa moda intramontabile, che a destra come a sinistra, si nutre del disprezzo per il progresso e sogna la decrescita (altrui). Forse l’[invidia](/notes/gratitudine/). O forse la paura della [libertà](/notes/libero/). O magari semplicemente una presunta superiorità aristocratica dell’Europa nei confronti dell’America materialista.
 
