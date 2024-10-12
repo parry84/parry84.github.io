@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://parry84.github.io/sitemap-index.xml
+Host: https://parry84.github.io
