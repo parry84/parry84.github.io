@@ -46,7 +46,6 @@ Ma le risposte della scienza pur non essendo definitive, e purn non essendo una 
    title =     {The rise of scientific philosophy},
    author =    {Hans Reichenbach},
    publisher = {University of California Press},
-   year =      {1968},
-   url =       {libgen.li/file.php?md5=7e6d436c0c519c0951056df7a957cbd0}
+   year =      {1968}
 }
 </bibliography>

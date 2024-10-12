@@ -43,7 +43,6 @@ Non bisogna nemmeno astenersi dal vivere per timore del dolore. Il dolore, i tur
    author =    {Viktor E. Frankl},
    publisher = {Franco Angeli},
    isbn =      {9788891741554; 8891741558},
-   year =      {2017},
-   url =       {libgen.li/file.php?md5=011156e4f1f6f58066073d52803f5d63}
+   year =      {2017}
 }
 <bibliography>
