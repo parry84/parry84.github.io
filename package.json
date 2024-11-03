@@ -48,6 +48,7 @@
     "@types/node": "^22.8.7",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
+    "@parcel/watcher-linux-x64-glibc": "2.4.2-alpha.0",
     "gh-pages": "^6.2.0",
     "prettier": "^3.3.3",
     "typescript": "^5.6.3"
