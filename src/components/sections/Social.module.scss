@@ -2,7 +2,7 @@
 
 .logoGrid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 64px;
   justify-items: center;
   list-style-type: none;
@@ -25,7 +25,7 @@
 
 .styledContainer {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   position: relative;
 
   @media (max-width: $screen__md) {

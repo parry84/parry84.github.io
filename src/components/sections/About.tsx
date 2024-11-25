@@ -19,7 +19,7 @@ const About = () => (
           </p>
         </div>
         <figure className={styles.art}>
-          <StaticImage src="../../images/art/fast.png" placeholder="blurred" alt="fast" />
+          <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Hi" />
         </figure>
       </div>
       <div className={styles.grid} data-inverse>
