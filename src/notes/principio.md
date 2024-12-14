@@ -39,9 +39,9 @@ L’essenza della realtà assomiglia quindi maggiormente alle forme platoniche, 
 
 E il quadro potrebbe anche complicarsi in futuro: non vi è ancora una teoria accettata riguardo alla gravità quantistica, ma le ipotesi attuali contengono idee ancora più radicali, dove addirittura lo spazio e il tempo non esistono in quanto tali ma emergono da una realtà ancora più fondamentale. Come può la nostra mente concepire l’esistenza al di fuori dello spazio e del tempo?
 
-Il cammino è dunque ancora lontano da una risposta definitiva, che forse non arriverà mai. Non bisogna però farsi scoraggiare da questa mancanza di certezze, per quanto possa apparire disorientante. Essa non è debolezza ma una sana consapevolezza socratica, fondamenta del pensiero razionale inteso come pensiero della curiosità e del mutamento che, rinunciando all’arroganza delle convinzioni, ci permette di rimettere in dubbio ciò che crediamo di sapere e quindi di continuare ad apprendere.
+La nostalgia di un centro di gravità permanente è forte. Ma il cammino è lontano da una risposta definitiva, e probabilmente non arriverà mai. Non bisogna però farsi scoraggiare da questa mancanza di certezze, per quanto possa apparire disorientante. Essa non è debolezza ma una sana consapevolezza socratica, fondamenta del pensiero razionale inteso come pensiero della curiosità e del mutamento che, rinunciando all’arroganza delle convinzioni, ci permette di rimettere in dubbio ciò che crediamo di sapere e quindi di continuare ad apprendere.
 
-La ricerca dell’assoluto è dunque un viaggio interminabile. Ma come in ogni viaggio, ciò che davvero conta non è la meta, ma il viaggio stesso.
+La ricerca dell’assoluto, del fondamento che permane nel divenire, è dunque un viaggio interminabile. Ma come in ogni viaggio, ciò che davvero conta non è la meta, ma il viaggio stesso.
 
 <bibliography>
 @misc{modello,

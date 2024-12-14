@@ -55,12 +55,14 @@ export default function Note({ data }: Props) {
     <NoteLayout title={title} hero={hero}>
       <div dangerouslySetInnerHTML={{ __html: html }} />
       <div className={styles.socialFooter}>
-        Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}
+        .
         <ShareLinks note={note} />
       </div>
     </NoteLayout>
   );
 }
+
+//Milano, {new Date(Date.parse(dateUpdated)).toLocaleDateString()}
 
 export const Head = ({ data }: Props) => {
   const {

@@ -2,7 +2,7 @@
 title: Capitalismo e Pace
 slug: pace
 dateCreated: 2022-10-29 14:43
-dateUpdated: 2022-10-29 14:43
+dateUpdated: 2024-12-15 00:02
 order: 1
 visible: true
 tags:
@@ -34,6 +34,28 @@ In Europa abbiamo un chiaro esempio di questo fenomeno: basti osservare come pri
 Oggi purtroppo le nuove generazioni che non hanno vissuto il fascismo e la Guerra Fredda, non hanno più gli anticorpi contro i [totalitarismi](/notes/comunismo/). Questo crea un terreno fertile per nuove forme di populismo che, alimentando ad arte le paure, vorrebbero un ritorno al mercantilismo e all’isolazionismo.
 Dobbiamo quindi mantenere alta la guardia e perseverare nella missione che maggiormente ha contribuito e, tuttora, contribuisce alla pace nel mondo: diffondere il Capitalismo.
 
+## Mala tempora currunt
+
+Dalla prima stesura di questi appunti, si è posto il tema di un’attualità bruciante. L’invasione russa in Ucraina, i crimini del 7 ottobre, l’aggressività cinese: è chiaro che ci troviamo in tempi difficili. Ah, il sogno della pace! Ci riempiamo tutti la bocca con la parola _“pace”_. Perché tutti quanti vogliamo la pace ma poi stranamente c'è sempre la guerra?
+
+Il copione prevederebbe di additare come colpevoli i soliti vecchi alibi dell’industria delle armi e degli interessi economici. Esso ci rassicura, confinando la questione nel perimetro della razionalità. Purtroppo è illusorio e controproducente: nella guerra, la razionalità è ormai fuori dai giochi. I sentimenti negativi, come la paura, l’odio, l’invidia, la rabbia e la violenza hanno un nesso con l’angoscia della morte e questa osservazione apre una prospettiva promettete per capire perché il mondo è così feroce.
+
+In ogni lotta c’è la percezione di poter sconfiggere la morte per mezzo della vittoria. Se prevalgo ho mostrato che sono immune alla morte e che ho sconfitto il tempo. Se questo è ciò che inconsciamente pensiamo, diventa evidente la difficoltà dell’affrancarci dalla necessità titanica di distruggere l’altro.
+
+È l’angoscia della morte il motore della storia personale e della storia pubblica, assieme al suo sinonimo della ricerca del significato dell’esistenza. Ma spetta all’uomo dominare le passioni, poiché l'uomo soggetto alle passioni non appartiene più a se stesso, ma alla sorte, ed è così che le cose vanno più spesso per il peggio che per il meglio.
+
+Solo una riflessione sincera e lucida sull’origine più profonda dei nostri pensieri e delle nostre azioni ci può fornire un’arma per contrastare l’irrazionalità incontrollabile. Come osserva Spinoza, _“l’uomo libero, cioè colui che vive sotto la sola guida della ragione, non è guidato dalla Paura della morte, ma desidera direttamente il bene, cioè agire, vivere, conservare il proprio essere”_\cite{spinoza2013}.
+
+La competizione e la cooperazione economica, rimane un potente alleato della civiltà[^1], come osservava Esiodo già anni fa:
+
+[^1]: Non una garanzia infallibile, ma certamente parte della soluzione e non parte del problema.
+
+<div class='epigraph'>
+
+> «Sulla terra non v’era un sol genere di Contesa, bensì due ve ne sono; e mentre l’una è lodata da chi la ben conosce, l’altra è riprovevole: hanno infatti indole diversa. L’una, la triste, favorisce la guerra luttuosa e la discordia: nessun mortale l’ama di sicuro, tuttavia, per necessità, per volere degli Immortali, si coltiva questa gravosa Contesa. La Notte tenebrosa, per prima, generò l’altra, e il Cronide dall’alto trono, abitatore dell’etere, la pose nelle radici della terra: molto migliore è questa, per gli uomini: essa, infatti, esorta anche il neghittoso al lavoro. Perché l’ozioso volge lo sguardo a un altro che è ricco e che si affretta a seminare, a coltivare e a ben governare la casa; il vicino emula il vicino che alla ricchezza attende. Buona contesa è questa per i mortali: il vasaio gareggia con il vasaio, l’artigiano con l’artigiano, il povero invidia il povero, il cantore il cantore.» <footer> — Esiodo, _Le opere e i giorni_, Rizzoli, Milano, 2000, pag. 91, (vv. 11 – 26).</footer>
+
+</div>
+
 <bibliography>
 @article{gartzke2007,
   author  = "Erik Gartzke",
@@ -52,5 +74,13 @@ Dobbiamo quindi mantenere alta la guardia e perseverare nella missione che maggi
   volume  = "112",
   number  = "50",
   pages   = "15277-84"
+}
+@book{spinoza2013,
+   title =     {Etica e trattato teologico-politico},
+   author =    {Baruch Spinoza},
+   publisher = {UTET},
+   year =      {1980},
+   series =    {Classici del pensiero},
+  pages   =    "325"
 }
 </bibliography>
