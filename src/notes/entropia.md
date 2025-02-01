@@ -17,11 +17,10 @@ La stessa inesorabile forza di disintegrazione sta divorando tutti noi, indipend
 
 Sappiamo che la quantità di energia totale dell’universo è costante. Ma oltre alla quantità l’energia possiede anche una _qualità_. Essa passa inesorabilmente da uno stato di ordine a uno di disordine, ossia da uno stato di energia utilizzabile a forme di energia non più utilizzabile. Tale misura del disordine è nota come _entropia_. E anche ogni volta che viene creata un’apparenza di ordine (come nel caso della vita), ciò si verifica a spese di un maggiore disordine nell’ambiente circostante. Questo è ciò che comunemente chiamiamo _inquinamento_.
 
-<div class="epigraph">
-    <blockquote>
-        <p>«L'Entropia è la suprema legge metafisica dell'Universo.»</p>
-        <footer>Arthur Eddington</footer>
-    </blockquote>
+<div class='epigraph'>
+
+> «L'Entropia è la suprema legge metafisica dell'Universo.» <footer> — Arthur Eddington</footer>
+
 </div>
 
 Einstein la riteneva la legge fondamentale della scienza. **Da essa deriva l'invecchiamento, la morte, la caduta d'Imperi e, in ultima analisi, la fine stessa dell'Universo**.
@@ -32,11 +31,10 @@ Anche le energie rinnovabili nel lungo periodo non sono rinnovabili. Le montagne
 
 Queste verità possono apparire riduttive o persino deprimenti. Il motivo è che la termodinamica definisce i limiti fisici estremi entro cui siamo costretti a operare. Ma se continueremo a ignorarla, lo faremo a rischio della nostra stessa estinzione.
 
-<div class="epigraph">
-    <blockquote>
-        <p>«Si può ignorare la realtà, ma non si possono ignorare le conseguenze dell'ignorare la realtà.»</p>
-        <footer>Ayn Rand</footer>
-    </blockquote>
+<div class='epigraph'>
+
+> «Si può ignorare la realtà, ma non si possono ignorare le conseguenze dell'ignorare la realtà.» <footer> — Ayn Rand</footer>
+
 </div>
 
 Non bisogna quindi lasciarsi prendere dalla disperazione, poiché esiste comunque un margine di libero arbitrio: **l’umanità non può capovolgere il processo entropico, ma può stabilirne la velocità**.
