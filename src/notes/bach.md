@@ -14,13 +14,11 @@ caption: 'Maurits Cornelis Escher, Buccia, 1955. Xilografia e xilografia di test
 
 <span class="newthought">La differenza fondamentale</span> tra Bach e il resto della musica, è che indica una strada attraverso cui ogni mortale può congiungersi all’Assoluto.
 
-L’intero spettro delle emozioni vi è rappresentato, dai picchi di pura e indisturbata gioia alle discese più profonde, e per la maggior parte è, sia rinvigorente e affermante della vita, che trascendente nella sua serenità. Altri compositori offrono intuizioni sullo spirito e sul cuore umano. Ma la musica di Bach riflette l’universo stesso e contiene la Totalità del Tutto.
+L’intero spettro delle emozioni vi è rappresentato, dai picchi di pura e indisturbata gioia alle discese più profonde, e per la maggior parte è, sia rinvigorente e affermante della vita, che trascendente nella sua serenità. Altri compositori offrono intuizioni sullo spirito e sul cuore umano. Ma la musica di Bach riflette l’universo stesso e contiene la Totalità del Tutto, come una biblioteca infinita di Borges condensata in uno spartito.
 
 Come una montagna impervia, non è facilmente accessibile, ma lo sforzo per scalarla ripaga con la ricchezza delle sue vedute.
 
-La sua comprensione istintiva della natura umana, le sue capacità retoriche e la sua innata abilità come drammaturgo sono insuperabili. Attraverso uno stile molto conciso e al tempo stesso molto ricco esprime il suo più intimo pensiero filosofico. Si rivolge all’immaginazione creativa dell’ascoltatore per suscitare i sentimenti e le visioni da cui trae ispirazione.
-
-Bach aveva la misteriosa capacità di renderli chiari e precisi a un livello superiore. Un’anima che brama, e ha già assaporato, la pace al di fuori dell’inquietudine del mondo condivide la sua esperienza attraverso la musica.
+La sua comprensione istintiva della natura umana, le sue capacità retoriche e la sua innata abilità come drammaturgo sono insuperabili. Attraverso uno stile molto conciso e al tempo stesso molto ricco esprime il suo più intimo pensiero filosofico. Si rivolge all’immaginazione creativa dell’ascoltatore per suscitare i sentimenti e le visioni da cui trae ispirazione. Bach aveva la misteriosa capacità di renderli chiari e precisi a un livello superiore. Un’anima che brama, e ha già assaporato, la pace al di fuori dell’inquietudine del mondo condivide la sua esperienza attraverso la musica.
 
 La sua arte non è solo un fenomeno individuale; in essa rivivono le aspirazioni, gli sforzi e l’anima stessa delle generazioni precedenti. Piena di vita naturale, unica nella perfezione della sua forma, e nello spirito che essa emana: quest’opera colossale è il prodotto dei secoli e rappresenta il punto più alto di perfezione raggiunto dalla musica attraverso la mente di un grande genio.
 

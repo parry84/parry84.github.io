@@ -2,7 +2,7 @@
 title: E all’improvviso arrivò il futuro
 slug: europa
 dateCreated: 2023-01-28 19:11
-dateUpdated: 2023-01-28 19:11
+dateUpdated: 2024-15-12 19:11
 order: 3
 visible: true
 tags:
@@ -23,7 +23,9 @@ Perché? Perché è un credo che è stato insegnato e dal quale ancora oggi non 
 
 Chiaramente, la speranza per il futuro dell’umanità non sta nelle nazioni e nelle guerre di conquista! l’Unione Europea rappresenta una novità nella Storia: [una libera associazione di Stati democratici](/notes/democrazia/). E per questo oggi molti la odiano: i neofascisti la odiano, Putin la odia, la Cina la odia. Vi è qualcosa di unico nella libertà europea: anche le critiche contro l’Europa sono radicate in questa stessa eredità.
 
-Oggi stiamo vivendo un momento storico molto doloroso. Le società democratiche si trovano in una fase di crisi e varie forme di società illiberali, dalle dittature fasciste agli stati mafiosi, godono di una fase di espansione. Le mostruosità di questa tendenza anti eurocentrica sono alla luce del sole: quando i talebani sono saliti al potere in Afghanistan, hanno stretto un patto brutale con la Cina. Questo è il nuovo ordine che Putin celebra. Ma anche fra di noi serpeggiano dubbi sulla nostra cultura e sulla nostra spiritualità. Il sintomo più evidente di questo declino morale è [l’abbandono del pensiero razionale](/notes/complottismo/), caratteristica differenziante della [nostra civiltà](/notes/occidente/). Stanno ritornando [brutti discorsi](/notes/politicamente-scorretto/) e ruggini nei confronti dei nostri partner europei, spesso alimentati ad arte da attori incuranti delle catastrofiche conseguenze.
+Oggi stiamo vivendo un momento storico molto doloroso. Le società democratiche si trovano in una fase di crisi e varie forme di società illiberali, dalle dittature fasciste agli stati mafiosi, godono di una fase di espansione. Le mostruosità di questa tendenza anti eurocentrica sono alla luce del sole: quando i talebani sono saliti al potere in Afghanistan, hanno stretto un patto brutale con la Cina. Questo è il nuovo ordine che Putin celebra. Ma anche fra di noi serpeggiano dubbi sulla nostra cultura e sulla nostra spiritualità. Il sintomo più evidente di questo declino morale è [l’abbandono del pensiero razionale](/notes/complottismo/), caratteristica differenziante della [nostra civiltà](/notes/occidente/). Stanno ritornando [brutti discorsi](/notes/politicamente-scorretto/) e ruggini nei confronti dei nostri partner europei, spesso alimentati ad arte da attori incuranti delle catastrofiche conseguenze[^1].
+
+[^1]: Come ricorda Hobbes, _“La lingua dell'uomo è una tromba di guerra e di sedizione"_
 
 Nel 2023 si ricorderà il centesimo anniversario della pubblicazione di _Paneuropa_\cite{coudenhove1928paneuropa}, il libro-manifesto in cui il conte Richard Coudenhove-Kalergi propugnava l’unione degli stati europei come unica possibilità per evitare un’altra guerra mondiale.
 
