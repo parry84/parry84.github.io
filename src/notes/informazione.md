@@ -1,6 +1,6 @@
 ---
 title: Crisi dei giornali, conseguenze e soluzione
-slug: giornali
+slug: informazione
 dateCreated: 2022-09-27 22:51
 dateUpdated: 2022-09-27 23:13
 order: 1
@@ -16,11 +16,10 @@ Si potrebbe frettolosamente imputare il 100% della colpa ai giornali: il crollo 
 
 Io trovo invece che la colpa sia principalmente dei lettori: Internet ci ha abituato al tutto gratis, ma questo ha ucciso la qualità. E i contenuti mediocri, infestati da banner sempre più fastidiosi e invadenti, non sono nemmeno realmente gratis. Perché quando poi facciamo la spesa pagheremo comunque un sovrapprezzo legato alla pubblicità e alla sua intermediazione. Teniamo inoltre a mente che “quando una cosa è gratis, _il prodotto sei tu_”, ovvero il totale ribaltamento del celebre motto:
 
-<div class="epigraph">
-    <blockquote>
-        <p>«Chi di voi vorrà fare il giornalista, si ricordi di scegliere il proprio padrone: il lettore.»</p>
-        <footer>Indro Montanelli</footer>
-    </blockquote>
+<div class='epigraph'>
+
+> «Chi di voi vorrà fare il giornalista, si ricordi di scegliere il proprio padrone: il lettore.» <footer> — Indro Montanelli</footer>
+
 </div>
 
 E se il cliente è l’inserzionista o un partito politico, come possiamo sperare in contenuti onesti e imparziali?
@@ -35,11 +34,13 @@ E oggi, secondo voi, quali sono le risorse sui cui vale la pena investire?
 
 ---
 
-Di seguito una selezione di fonti e progetti che consiglio di seguire:
+Lato mio, al momento sono abbonato a due quotidiani nazionale e sostengo tre progetti di divulgazione. Di seguito una selezione di fonti e progetti che ritengo meritevoli:
 
 - Wikipedia. Non ha certo bisogno di presentazioni.
-- L'Avvocato dell'Atomo. Un progetto di informazione sull'energia atomica che può essere sostenuto attraverso [Patreon](https://www.patreon.com/nicodaemon).
+- L’Avvocato dell'Atomo. Un progetto di divulgazione sull’energia atomica che può essere sostenuto attraverso [Patreon](https://www.patreon.com/nicodaemon).
+- <https://www.cogitoacademy.it/>: il progetto di divulgazione filosifica “pop” di Rick Dufer
 - <https://istitutoliberale.it/>: un Think Tank di orientamento liberale. Rilascia pubblicazioni di semplice lettura, sia gratuite che riservate ai soci.
+- <https://www.nucleareeragione.org/>: un comitato di approfondimento delle tematiche relative all’energia atomica
 - <https://www.pewresearch.org/>: un istituto di indagini sociologiche, con particolare attenzione agli USA.
 - <https://www.visualcapitalist.com/>: infografiche sui principale trend globali.
 - <https://www.worldometers.info/>: statistiche di vario genere in tempo reale.
