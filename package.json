@@ -22,8 +22,8 @@
   "dependencies": {
     "@svgr/webpack": "^8.1.0",
     "bibtex-parse-js": "^0.0.24",
-    "gatsby": "^5.13.3",
-    "gatsby-cli": "^5.13.2",
+    "gatsby": "^5.13.7",
+    "gatsby-cli": "^5.13.3",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-google-tagmanager": "^5.13.1",
     "gatsby-plugin-image": "^3.13.1",
@@ -39,17 +39,17 @@
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-remark": "^6.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-collapsible": "^2.10.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-share": "^5.1.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.17",
-    "@types/react": "^18.2.55",
-    "@types/react-dom": "^18.2.19",
+    "@types/node": "^22.3.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
     "gh-pages": "^6.1.1",
-    "prettier": "^3.2.5",
-    "typescript": "^5.3.3"
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
   }
 }
