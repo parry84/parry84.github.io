@@ -28,7 +28,7 @@ La soluzione sta quindi nella profondità del pensiero: incorporiamo condizionam
 
 Siamo introversi? Estroversi? Modesti? Ambiziosi? Cosa ci rende speciali? Quali sono i nostri limiti? Preferiamo l’adrenalina o una passeggiata in montagna? Guardando al passato, cosa ci manca maggiormente? Porsi domande e darsi risposte sincere: non vi è alcuna buona ragione per non essere sinceri con se stessi.
 
-Oggigiorno tendiamo a essere superficiali e l’introspezione è fuori moda. In particolare, tendiamo a esorcizzare e anestetizzare le nostre angosce e le nostre debolezze nell’illusione di sconfiggerle. Nulla di più sbagliato. I turbamenti dell’animo sono parte della vita. Accettare la vita significa accettarne sia le gioie che le tristezze. E sono proprio le angoscie più profonde i segnali fondamentali per orientarci dentro di noi e definire il nostro campo di azione, mentale e fisico. La conoscenza è libertà e la libertà dipende dalla conoscenza: meno conosci, più sei schiavo. In conclusione, solo approfondendo la conoscenza di sé possiamo prevenire le influenze indesiderate e ridurre il rischio di commettere errori nella formulazione delle nostre scelte di vita.
+Oggigiorno tendiamo a essere superficiali e l’introspezione è fuori moda. In particolare, tendiamo a esorcizzare e anestetizzare le nostre angosce e le nostre debolezze nell’illusione di sconfiggerle. Ma sono proprio le angoscie più profonde i segnali fondamentali per orientarci dentro di noi e definire il nostro campo di azione, mentale e fisico. La conoscenza è libertà e la libertà dipende dalla conoscenza: meno conosci, più sei schiavo. In conclusione, solo approfondendo la conoscenza di sé possiamo prevenire le influenze indesiderate e ridurre il rischio di commettere errori nella formulazione delle nostre scelte di vita.
 
 <bibliography>
 @misc{gaber,
@@ -38,3 +38,5 @@ Oggigiorno tendiamo a essere superficiali e l’introspezione è fuori moda. In 
   note    = {Dall'album Gaber 96/97},
 }
 <bibliography>
+
+Ogni esistenza è unica e irripetibile, ed è quindi un diario intimo e privato
