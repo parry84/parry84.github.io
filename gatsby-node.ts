@@ -1,5 +1,5 @@
 const path = require("path")
-const noteTemplate = path.resolve(`./src/components/common/Note/Note.tsx`)
+const noteTemplate = path.resolve(`./src/templates/Note/Note.tsx`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
     const { createPage } = actions
