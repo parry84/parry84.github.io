@@ -52,9 +52,6 @@ const Social = () => (
   <Section id="contacts" accent="primary">
     <Container>
       <div className={styles.styledContainer}>
-        <figure className={styles.art}>
-          <StaticImage src="../../images/art/contact.png" placeholder="blurred" alt="Contacts" />
-        </figure>
         <ul className={styles.logoGrid}>
           {[
             ...SOCIALS.map(({ logo, link }, i) => (
