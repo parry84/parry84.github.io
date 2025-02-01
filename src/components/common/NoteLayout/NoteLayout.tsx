@@ -34,7 +34,7 @@ export default function NodeLayout({ title, hero, children }: Props) {
                 <input className="margin-toggle" id="sidenote-7" type="checkbox" />
                 <span className="marginnote">
                   <GatsbyImage image={image} backgroundColor="00ff00" alt="" />
-                  {hero.caption}
+                  <p>{hero.caption}</p>
                 </span>
               </p>
             </section>
