@@ -34,8 +34,8 @@
     "gatsby-plugin-sitemap": "^6.13.1",
     "gatsby-plugin-svgr": "^3.0.0-beta.0",
     "gatsby-remark-bibliography": "git+https://github.com/parry84/gatsby-remark-bibliography.git",
-    "gatsby-remark-images": "^7.13.1",
-    "gatsby-remark-tufte": "github:zygar/gatsby-remark-tufte",
+    "gatsby-remark-images": "^7.13.2",
+    "gatsby-remark-tufte": "github:parry84/gatsby-remark-tufte",
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-remark": "^6.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
@@ -45,12 +45,11 @@
     "react-share": "^5.1.0"
   },
   "devDependencies": {
-    "@types/node": "^22.3.0",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@parcel/watcher-linux-x64-glibc": "2.4.2-alpha.0",
-    "gh-pages": "^6.1.1",
+    "@types/node": "^22.8.7",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "gh-pages": "^6.2.0",
     "prettier": "^3.3.3",
-    "typescript": "^5.5.4"
+    "typescript": "^5.6.3"
   }
 }
