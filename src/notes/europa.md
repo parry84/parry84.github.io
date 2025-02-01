@@ -1,5 +1,5 @@
 ---
-title: La nostra ora più buia
+title: E all’improvviso arrivò il futuro
 slug: europa
 dateCreated: 2023-01-28 19:11
 dateUpdated: 2023-01-28 19:11
@@ -7,13 +7,13 @@ order: 3
 visible: true
 tags:
   - politica
+caption: Autografo di Carlo Magno
 ---
 
 ##
 
-<p class="subtitle">
-La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europa unita, speranza per una nuova epoca di pace, è sotto attacco da [nemici esterni e interni](/notes/woke/), e il fuoco dei suoi ideali sembra morente nell’indifferenza generale. È nostro compito superare questa stanchezza intellettuale e tornare a essere protagonisti del progresso
-</p>
+
+_La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europa unita, speranza per una nuova epoca di pace, è sotto attacco da [nemici esterni e interni](/notes/woke/), e il fuoco dei suoi ideali sembra morente nell’indifferenza generale. È nostro compito superare questa stanchezza intellettuale e tornare a essere protagonisti del progresso._
 
 ##
 
@@ -21,11 +21,9 @@ La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europ
 
 Perché? Perché è un credo che è stato insegnato e dal quale ancora oggi non ci siamo ancora completamente disintossicati. Oggi condanniamo l’aggressione all’Ucraina da parte della Russia (non tutti ahimè), ma difficilmente condanneremmo, per esempio, l’annessione del Sud Tirolo alla fine della Prima Guerra Mondiale. Eppure, su quali basi legale si giustificava l’aggressione all’Austria-Ungheria, costata oltre un milione di morti?
 
-Chiaramente, la speranza per il futuro dell’umanità non sta nelle nazioni e nelle guerre di conquista! l’Unione Europea rappresenta una novità nella Storia: [una libera associazione di Stati democratici](/notes/democrazia/).
+Chiaramente, la speranza per il futuro dell’umanità non sta nelle nazioni e nelle guerre di conquista! l’Unione Europea rappresenta una novità nella Storia: [una libera associazione di Stati democratici](/notes/democrazia/). E per questo oggi molti la odiano: i neofascisti la odiano, Putin la odia, la Cina la odia. Vi è qualcosa di unico nella libertà europea: anche le critiche contro l’Europa sono radicate in questa stessa eredità.
 
-E per questo oggi molti la odiano: i neofascisti la odiano, Putin la odia, la Cina la odia. Vi è qualcosa di unico nella libertà europea: anche le critiche contro l’Europa sono radicate in questa stessa eredità. Oggi osserviamo le mostruosità di questa tendenza anti eurocentrica: quando i talebani sono saliti al potere in Afghanistan, hanno stretto un patto brutale con la Cina. Questo è il nuovo ordine che Putin celebra.
-
-Oggi stiamo vivendo un momento storico molto doloroso. Le società democratiche si trovano in una fase di crisi e varie forme di società illiberali, dalle dittature fasciste agli stati mafiosi, godono di una fase di espansione. Fra di noi serpeggiano dubbi sulla nostra cultura e sulla nostra spiritualità. Il sintomo più evidente di questo declino morale è [l’abbandono del pensiero razionale](/notes/complottismo/), caratteristica differenziante della [nostra civiltà](/notes/occidente/). Stanno ritornando [brutti discorsi](/notes/politicamente-scorretto/) e ruggini nei confronti dei nostri partner europei, spesso alimentati ad arte da attori incuranti delle catastrofiche conseguenze.
+Oggi stiamo vivendo un momento storico molto doloroso. Le società democratiche si trovano in una fase di crisi e varie forme di società illiberali, dalle dittature fasciste agli stati mafiosi, godono di una fase di espansione. Le mostruosità di questa tendenza anti eurocentrica sono alla luce del sole: quando i talebani sono saliti al potere in Afghanistan, hanno stretto un patto brutale con la Cina. Questo è il nuovo ordine che Putin celebra. Ma anche fra di noi serpeggiano dubbi sulla nostra cultura e sulla nostra spiritualità. Il sintomo più evidente di questo declino morale è [l’abbandono del pensiero razionale](/notes/complottismo/), caratteristica differenziante della [nostra civiltà](/notes/occidente/). Stanno ritornando [brutti discorsi](/notes/politicamente-scorretto/) e ruggini nei confronti dei nostri partner europei, spesso alimentati ad arte da attori incuranti delle catastrofiche conseguenze.
 
 Nel 2023 si ricorderà il centesimo anniversario della pubblicazione di _Paneuropa_\cite{coudenhove1928paneuropa}, il libro-manifesto in cui il conte Richard Coudenhove-Kalergi propugnava l’unione degli stati europei come unica possibilità per evitare un’altra guerra mondiale.
 
