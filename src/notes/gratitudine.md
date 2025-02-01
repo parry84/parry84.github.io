@@ -23,7 +23,7 @@ L’invidia è definita come la tendenza a percepire con dispiacere il bene degl
 
 </div>
 
-L’invidia è antica quanto il mondo. Era la motivazione di Caino per uccidere Abele. I politici lo sanno la usano in quanto potente strumento. Se l’uguaglianza nella miseria è considerata più virtuosa della diseguaglianza, sarà facile per un partito o un governo fomentare la violenza della cicala sulla formica mascherandola dietro una ipocrita intenzione di progresso sociale.
+<span class="newthought">L’invidia</span> è antica quanto il mondo. Era la motivazione di Caino per uccidere Abele. I politici lo sanno la usano in quanto potente strumento. Se l’uguaglianza nella miseria è considerata più virtuosa della diseguaglianza, sarà facile per un partito o un governo fomentare la violenza della cicala sulla formica mascherandola dietro una ipocrita intenzione di progresso sociale.
 
 Non si può considerare la redistribuzione del reddito come una forma di generosità. La generosità può dirsi tale solo se personale e volontaria o non è generosità. Non è quello che voti non ti rende una persona altruista, ma è ciò a cui dedichi tempo e risorse che mostra dove sia veramente il tuo cuore. Del resto, per quale motivo sarebbe avidità tenere i propri soldi, ma non sarebbe avidità prendersi quelli guadagnati dagli altri?
 
