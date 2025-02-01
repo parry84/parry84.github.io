@@ -12,7 +12,7 @@ tags:
 ##
 
 <p class="subtitle">
-La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europa unita, speranza per una nuova epoca di pace, è sotto attacco da nemici esterni e interni, e il fuoco dei suoi ideali sembra morente nell’indifferenza generale. È nostro compito superare questa stanchezza intellettuale e tornare a essere protagonisti del progresso
+La nostra storia è costellata di guerre lunghe e atroci. Il sogno di un’Europa unita, speranza per una nuova epoca di pace, è sotto attacco da [nemici esterni e interni](/notes/woke/), e il fuoco dei suoi ideali sembra morente nell’indifferenza generale. È nostro compito superare questa stanchezza intellettuale e tornare a essere protagonisti del progresso
 </p>
 
 ##
@@ -35,7 +35,7 @@ Nel 2023 si ricorderà il centesimo anniversario della pubblicazione di _Paneuro
 
 </div>
 
-Oggi dobbiamo rendere onore alla vituperata memoria di quest’uomo visionario. La nostra _forma mentis_ ci porta a non voler credere in ciò che riteniamo irrazionale e a persistere nella convinzione che solo l’economia fosse il motore della storia. Ma, come è stato scritto\cite{fukuyama2020fine}, è il “desiderio di riconoscimento” il principale componente della trasformazione sociale. La globalizzazione, il processo storico di unificazione in atto dalla fine della Seconda Guerra Mondiale dovrebbe, in teoria, aumentare il benessere e ridurre le tensioni internazionali. Ma esso è accompagnato da un secondo processo che agisce in direzione opposta: il fatto che grandi masse di gente prendono coscienza di questo processo di unificazione si traduce in un incitamento a tutte le force delle comunità culturali esistenti per assicurare ai loro valori tradizionali la parte più larga possibile nello stato finale dell’unificazione. E questo comporta l’aumento dell’instabilità e dei conflitti.
+Oggi dobbiamo rendere onore alla vituperata memoria di quest’uomo visionario. La nostra _forma mentis_ ci porta a non voler credere in ciò che riteniamo irrazionale e a persistere nella convinzione che solo l’economia fosse il motore della storia. Ma, come è stato scritto\cite{fukuyama2020fine}, è il “desiderio di riconoscimento” il principale componente della trasformazione sociale. La globalizzazione, il processo storico di unificazione in atto dalla fine della Seconda Guerra Mondiale dovrebbe, in teoria, aumentare il benessere e [ridurre le tensioni internazionali](/notes/pace/). Ma esso è accompagnato da un secondo processo che agisce in direzione opposta: il fatto che grandi masse di gente prendono coscienza di questo processo di unificazione si traduce in un incitamento a tutte le force delle comunità culturali esistenti per assicurare ai loro valori tradizionali la parte più larga possibile nello stato finale dell’unificazione. E questo comporta l’aumento dell’instabilità e dei conflitti.
 
 Ci si risvegli dunque dal letargo geopolitico e si guardi la realtà per quello che è: pessima, vera e in attesa di risposte. Occorre evitare che la catastrofe del pensiero si evolva in nuova catastrofe politica, proteggendo l’unità e l’eredità moderna e liberale dell’Europa occidentale. Questa “ideologia”, fatta di apertura verso ogni forma di pensiero, è l’unica speranza affinché in futuro diversi comportamenti umani possano fondersi e convivere in equilibrio.
 
