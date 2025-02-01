@@ -78,10 +78,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
-        id: 'GTM-NCXS6P7',
+        id: 'GTM-NTB94DCM',
         includeInDevelopment: true,
-        enableWebVitalsTracking: true,
-        selfHostedOrigin: 'https://keyhzgng.leuw.stape.io',
+        enableWebVitalsTracking: false,
       },
     },
     {
