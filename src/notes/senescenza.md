@@ -30,7 +30,7 @@ Nell’Occidente tecnologicamente avanzato, la morte è un tabù: il solo parlar
 
 Se rinunciamo al tempo, rinunciamo ai nostri progetti, alle nostre emozioni, alle ambizioni di cui sono innervate le nostre giornate e questo forse non è un esito auspicabile. Il tempo conta, noi siamo i nostri progetti e rinunciare ai nostri progetti significa in fondo rinunciare a ciò che noi siamo. Perché è proprio il fatto che noi dobbiamo morire, questa nostra condizione di mortalità, che rende le nostre fragili vite così preziose e inimitabili. È paradossale, sicuramente doloroso, ma probabilmente è proprio così\cite{bonazzi21}.
 
-Vale veramente la pena vivere da malati per morire sani, o è forse meglio vivere da giovani quando siamo realmente vivi? Per qualcuno la vita può avere significato in ogni circostanza, per un’altro è meglio la morte che una vita amara[^4]. Essendo la questione intimamente individuale, è fondamentale che garantire la [libertà  di scelta](/notes/libero/), fra la quantità e la qualità della vita.
+Vale veramente la pena vivere da malati per morire sani, o è forse meglio vivere da giovani quando siamo realmente vivi? Per qualcuno la vita può avere significato in ogni circostanza, per un’altro è _meglio la morte che una vita amara_[^4]. Essendo la questione intimamente individuale, è fondamentale che garantire la [libertà  di scelta](/notes/libero/), fra la quantità e la qualità della vita.
 
 [^4]: Siracide 30,16:17
 
