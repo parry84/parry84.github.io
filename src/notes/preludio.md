@@ -42,11 +42,15 @@ E non era nemmeno necessario che fosse, avrebbe potuto anche non essere. Eppure 
 
 ---
 
+Sembrava una favola romantica, eppure il finale è improvviso e amaro. Nonostante ogni sforzo per creare un ambiente sereno e stipendi adeguati, i collaboratori abbandonano. La disoccupazione è ai minimi eppure l’impopolarità del governo monta. Le guerre. Il fentanyl. La ragione è smarrita di fronte all’irrazionale e affretta spiegazioni econometriche, ma è puro negazionismo. Lo studio della filosofia offre un appiglio al nostro sentirci stranieri nel mondo.
+
 Il nostro tempo è attraversato dallo spirito dell’inquietudine e dell’instabilità. Jorge Luis Borges ha scritto che vivere in un tempo di grandi pericoli e opportunità significa sperimentare sia la tragedia che la commedia, con “l’imminenza di una rivelazione”[^2] nella comprensione di noi stessi e del mondo.
 
 [^2]: Jorge Luis Borges, _Altre inquisizioni_
 
-La fuga davanti al destino, il rifiuto dell’azione nel mondo è un rifiuto che porta alla perdita di sé. Cambiare le cose è in nostro potere, e il compito del cambiamento spetta al pensiero. Le rivoluzioni politiche sono destinate al fallimento, poiché la _forma mentis_ del rivoluzionario è distruttiva: conosce solo i metodi per annientare, non quelli per creare. Una società cambia se cambiano gli individui che la compongono, e non viceversa. La vera rivoluzione è quella interiore.
+La fuga davanti al destino, il rifiuto dell’azione nel mondo è un rifiuto che porta alla perdita di sé[^3]. Cambiare le cose è in nostro potere, e il compito del cambiamento spetta al pensiero. Le rivoluzioni politiche sono destinate al fallimento, poiché la _forma mentis_ del rivoluzionario è distruttiva: conosce solo i metodi per annientare, non quelli per creare. Una società cambia se cambiano gli individui che la compongono, e non viceversa. La vera rivoluzione è quella interiore.
+
+[^3]: Georg Wilhelm Friedrich Hegel, _Fenomenologia dello spirito_
 
 <div class='epigraph'>
 
