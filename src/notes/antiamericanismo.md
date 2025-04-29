@@ -12,7 +12,7 @@ caption: Washington attraversa il fiume Delaware, olio su tela del 1851, opera d
 
 ##
 
-_«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei più fastidiosi è la paura dell’americanismo»_\cite{bontempelli74}. È difficile constatare l’esistenza di un’allucinazione collettiva quando ci si è immersi fino al collo, ma provate ad osservare: tutte le lacrime del mondo, in qualche modo deve essere imputabili degli USA:
+_«Tra i tanti luoghi comuni di natura ossessiva nei quali inciampiamo, uno dei più fastidiosi è la paura dell’americanismo»_\cite{bontempelli74}. È difficile constatare l’esistenza di un’allucinazione collettiva quando ci si è immersi fino al collo, ma provate ad osservare: tutte le lacrime del mondo, in qualche modo devono essere imputabili degli USA:
 
 - se intervengono in una guerra, sono guerrafondai;
 - se però non intervengono, sono isolazionisti;
@@ -33,7 +33,7 @@ Ma l’America, per noi tutti, è un simbolo. È il Paese che ha salvato l’Eur
 
 [^2]: Addendum del 2025. A seguito del recente riposizionamento su una politica estera più isolazionista, emerge con maggior forza l’inettitudine dell’Europa.
 
-Su quest’ultima vicenda noi europei abbiamo trovato un barlume di unità solo grazie alla regia americana. Se fossimo stati abbandonati ai nostri impulsi istintivi, Putin avrebbe già vinto la sua guerra psicologica da un pezzo. E oggi con l’aggressività di stati _orweilliani_ come Cina e Russia, che esportano solo illiberalismo, nessuna strategia geopolitica realistica può rinunciare al campione planetario della libertà[^3].
+Su quest’ultima vicenda noi europei abbiamo trovato un barlume di unità solo grazie alla regia americana. Se fossimo stati abbandonati ai nostri impulsi istintivi, Putin avrebbe già vinto la sua guerra psicologica da un pezzo. E oggi con l’aggressività di stati _orweilliani_ come Cina e Russia, che esportano solo illiberalismo, nessuna strategia geopolitica realistica può rinunciare al campione planetario della libertà[^3]. È dunque fondamentale decostruire l’antiamericanismo oggi stesso.
 
 [^3]: Nel 2007 l’economia americana ed europea erano paritarie, mentre oggi, dopo solo 15 anni, quella americana è raddoppiata mentre quella europea —la medesima [Europa](/notes/europa/) che guarda agli USA con spocchia— è rimasta pressoché invariata. Praticamente siamo [un museo vivente](/notes/regolamentazione/), ma quanto a lungo potrà durare?
 
