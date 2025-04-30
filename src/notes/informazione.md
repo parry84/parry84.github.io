@@ -11,10 +11,11 @@ tags:
 
 ##
 
-<span class="newthought">L’informazione</span> in è crisi oramai da diversi anni. Le tirature sono ridotte ai minimi termini. Gli abbonamenti digitali stentano a decollare. La fiducia dei cittadini nella stampa sta scomparendo. Si cerca di pareggiare i conti esclusivamente comprimendo i costi (ormai un articolo è pagato pochi centesimi a parola). Ma questo porta solo a cadere ulteriormente nella spirale negativa.
-Si potrebbe frettolosamente imputare il 100% della colpa ai giornali: il crollo delle vendite è la giusta punizione per l’attuale qualità scadente della stampa.
+<span class="newthought">L’informazione</span> in è crisi oramai da diversi anni. Le tirature sono ridotte ai minimi termini. Gli abbonamenti digitali stentano a decollare. La fiducia dei cittadini nella stampa sta scomparendo. Si cerca di pareggiare i conti esclusivamente comprimendo i costi (ormai un articolo è pagato pochi centesimi a parola). Ma questo porta solo a cadere ulteriormente nella spirale negativa. Si potrebbe frettolosamente imputare il 100% della colpa ai giornali: il crollo delle vendite è la giusta punizione per l’attuale qualità scadente della stampa.
 
-Io trovo invece che la colpa sia principalmente dei lettori: Internet ci ha abituato al tutto gratis, ma questo ha ucciso la qualità. E i contenuti mediocri, infestati da banner sempre più fastidiosi e invadenti, non sono nemmeno realmente gratis. Perché quando poi facciamo la spesa pagheremo comunque un sovrapprezzo legato alla pubblicità e alla sua intermediazione. Teniamo inoltre a mente che “quando una cosa è gratis, _il prodotto sei tu_”, ovvero il totale ribaltamento del celebre motto:
+Io credo invece che la colpa ricada principalmente sui lettori: Internet ci ha abituato al tutto gratis, ma questo ha ucciso la qualità. E i contenuti mediocri, infestati da banner sempre più fastidiosi e invadenti, non sono nemmeno realmente gratis. Perché quando poi facciamo la spesa pagheremo comunque un sovrapprezzo legato alla pubblicità e alla sua intermediazione. Quando una cosa è gratis, _il prodotto sei tu_[^1], ovvero il totale ribaltamento del celebre motto:
+
+[^1]: La citazione è tratta dal docufilm “The Social Dilemma”
 
 <div class='epigraph'>
 
@@ -32,15 +33,12 @@ Ma l’accesso a una buona informazione è nel proprio interesse, poiché aiuta 
 L’unica soluzione quindi, è che i lettori tornino a investire soldi nella stampa innescando un circolo virtuoso. Questo potrebbe concretizzarsi abbonandosi a una testata oppure sostenendo progetti giornalistici indipendenti.
 E oggi, secondo voi, quali sono le risorse sui cui vale la pena investire?
 
----
+Lato mio, al momento sono abbonato a due quotidiani nazionale e sostengo diversi progetti di divulgazione. Di seguito una selezione di fonti e progetti che ritengo meritevoli:
 
-Lato mio, al momento sono abbonato a due quotidiani nazionale e sostengo tre progetti di divulgazione. Di seguito una selezione di fonti e progetti che ritengo meritevoli:
-
-- Wikipedia. Non ha certo bisogno di presentazioni.
-- L’Avvocato dell'Atomo. Un progetto di divulgazione sull’energia atomica che può essere sostenuto attraverso [Patreon](https://www.patreon.com/nicodaemon).
-- <https://www.cogitoacademy.it/>: il progetto di divulgazione filosifica “pop” di Rick Dufer
+- Wikipedia: non ha certo bisogno di presentazioni.
+- L’Avvocato dell’Atomo: un progetto di divulgazione sull’[energia atomica](/notes/nucleare/) che può essere sostenuto attraverso [Patreon](https://www.patreon.com/nicodaemon).
+- <https://www.cogitoacademy.it/>: il progetto di divulgazione filosofica “pop” di Rick Dufer
 - <https://istitutoliberale.it/>: un Think Tank di orientamento liberale. Rilascia pubblicazioni di semplice lettura, sia gratuite che riservate ai soci.
-- <https://www.nucleareeragione.org/>: un comitato di approfondimento delle tematiche relative all’energia atomica
-- <https://www.pewresearch.org/>: un istituto di indagini sociologiche, con particolare attenzione agli USA.
-- <https://www.visualcapitalist.com/>: infografiche sui principale trend globali.
-- <https://www.worldometers.info/>: statistiche di vario genere in tempo reale.
+- <https://www.nucleareeragione.org/>: un comitato di approfondimento delle tematiche relative all’[energia atomica](/notes/nucleare/).
+- <https://davidedebiasio.com/it/filosofia-fondamenti-e-interpretazioni/>: il progetto Spazi Attorcigliati offre podcast sulla fisica e la [filosofia della scienza](/notes/epistemologia/).
+- <https://www.bachvereniging.nl>. La Nederlandse Bachvereniging è una delle più antiche orchestre al mondo e attraverso il monumentale progetto _All of Bach_ intende rendere disponibile online, in forma gratuita, registrazione ad alta qualità dell’intera opera di [Johann Sebastian Bach](/notes/bach/)
