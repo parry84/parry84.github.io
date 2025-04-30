@@ -1,12 +1,12 @@
 ---
 title: Una fisica senza metafisica?
-slug: filosofia
+slug: epistemologia
 dateCreated: 2024-10-07 21:37
 dateUpdated: 2024-10-07 21:37
 order: 31
 visible: true
 tags:
-  - epistemologia
+  - filosofia
 ---
 
 ##
@@ -19,7 +19,7 @@ Purtroppo l’educazione scolastica, si limita, al massimo, a una rassegna stori
 
 Priva di solide basi sull’argomento, l’opinione pubblica oscilla fra due estremi. Da un lato una sfiducia nella scienza che spinge nell’irrazionalismo o in [atteggiamenti antiscientisti](/notes/complottismo/). All’angolo opposto, ma altrettanto pericoloso, vi è una fede laica nella scienza, considerata infallibile.
 
-I vari tentativi di costruzione di una giustificazione della conoscenza assoluta sono puntualmente naufragati. Dalla Teoria delle Idee di Platone, ai _giudizi sintentici a priori_ di Kant, fino alla legge dialettica di Hegel, nulla ha resistito alla sfida del tempo.
+I vari tentativi di costruzione di una giustificazione della conoscenza assoluta sono puntualmente naufragati. Dalla Teoria delle Idee di Platone, ai _Giudizi Sintentici a Priori_ di Kant, fino alla legge dialettica di Hegel, nulla ha resistito alla sfida del tempo.
 
 Spesso è stato proprio l’avanzamento della scienza a frantumare sistemi filosofici. Ad esempio, come possiamo considerare spazio e tempo come categorie pure dell’intelletto, se la Teoria della Relatività ci insegna che hanno in realtà strutture controintuitive\cite{Reichenbach}?
 
@@ -33,13 +33,13 @@ Ai nostri giorni il materialismo filosofico è talmente pervasivo da essere dato
 
 È quindi impossibile stabilire una demarcazione o un rapporto gerarchico fra scienza e filosofia. E questo intreccio è ancora più evidente nell’indagine delle [strutture fondamentali della realtà](/notes/principio/).
 
-Le teorie scientifiche sono dunque “vere”? La storia ci insegna che concezioni della natura considerate certe e ovvie sono sempre state sgretolate da nuove scoperte e controesempi. Si veda, ad esempio, la meccanica di Netwon, che per secoli è stata considerata una verità indiscutibile, salvo poi constatarne le sue aporie[^3].
+Le teorie scientifiche sono dunque _vere_? La storia ci insegna che concezioni della natura considerate certe e ovvie sono sempre state sgretolate da nuove scoperte e controesempi. Si veda, ad esempio, la meccanica di Netwon, che per secoli è stata considerata una verità indiscutibile, salvo poi constatarne le sue aporie[^3].
 
 [^3]: E i suoi successori, ossia la Teoria della Relatività e la Meccanica Quantistica, presentano a loro volta delle incompatibilità nella formualazione della gravità. Pertanto potrebbero essere rimpazzate in futuro da una nuova teoria più completa, come la Teoria delle Stringhe.
 
 In assenza di giustificazioni filosofiche insuperabili e, applicando un ragionamento _meta-induttivo_ potremmo quindi dire che no, le teorie scientifiche, in senso stretto, non sono _vere_.
 
-Ma le risposte della scienza pur non essendo definitive, e purn non essendo una forma di verità assoluta (in senso filosofico), rimangono tuttavia le migliori risposte di cui disponiamo oggi. E sono il punto di partenza per il proprio miglioramento.
+In assenza di giustificazioni filosofiche insuperabili e applicando un ragionamento meta-induttivo, potremmo quindi dire che no, le teorie scientifiche, in senso stretto, non sono vere. Da tali considerazione non deve però sfociare un relativismo paralizzante: le risposte della scienza, pur non essendo definitive né una forma di verità assoluta in senso filosofico, restano comunque le migliori di cui disponiamo oggi e contengono in sé il seme del proprio miglioramento. La vera saggezza, allora, consiste nel riconoscere che il mondo sarà sempre più vasto di qualsiasi rappresentazione ne possiamo dare — e proprio questa eccedenza, lungi dall’essere un ostacolo, è ciò che alimenta il desiderio di conoscere.
 
 <bibliography>
 @book{Reichenbach,
