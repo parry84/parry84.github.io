@@ -27,4 +27,4 @@ Esempi di questa degenerazione pericolosa si trovano nei vari [complottismi](/no
 
 E oltretutto, dove l’istruzione è gratuita, l’ignoranza è una colpa. Un pensiero maggioritario non è necessariamente corretto, né una scelta della maggioranza è necessariamente una scelta giusta: quante volte prendiamo decisioni sbagliate, persino per noi stessi?
 
-La provocazione, quella vera, non è la becera cassa di risonanza del mal di stomaco sociale, ma è la sottile arte che depone nella nostra mente il malefico tarlo del dubbio. Oggi definirsi politicamente scorretti è talmente abusato che, forse, oramai, la vera trasgressione è essere correttissimi.
+La provocazione, quella vera, non è la becera cassa di risonanza del mal di stomaco sociale, ma è la sottile arte che depone nella nostra mente il malefico tarlo del dubbio. Oggi definirsi politicamente scorretti è talmente abusato che, forse, oramai, la vera trasgressione è essere sfacciatamente corretti.
