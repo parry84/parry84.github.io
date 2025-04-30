@@ -28,7 +28,7 @@ Vi sono infinite situazioni nella vita reale che possono essere viste come istan
 
 - _Risorse naturali_: due o più paesi possono decidere se collaborare per sfruttare le risorse naturali in modo sostenibile o se competere per esaurirle prima degli altri.
 - _Scelte di marketing_: aziende concorrenti possono decidere se investire in pubblicità per “rubarsi” quote di mercato o se evitare di spendere soldi inutilmente.
-- _Cambiamento climatico_: le azioni individuali necessarie ad affrontarlo sono gravose. Il rischio è che gran parte della popolazione sceglierà di lasciare questo fardello agli altri, con il risultato che questo problema globale non verrà affrontato.
+- [_Cambiamento climatico_](/notes/ecologia/): le azioni individuali necessarie ad affrontarlo sono gravose. Il rischio è che gran parte della popolazione sceglierà di lasciare questo fardello agli altri, con il risultato che questo problema globale non verrà affrontato.
 - _Scelta del vaccino_: le persone possono decidere se vaccinarsi o meno contro una malattia contagiosa. Ma se la maggior non lo fa (sulla base di rischi reali [o immaginari](/notes/complottismo/)), la diffusione della malattia sarà più probabile.
 - _Guerra Fredda_: l’equilibrio di Nash comportava l’inevitabilità della corsa agli armamenti, benché questo risultato finale non fosse ottimale per nessuna delle due superpotenze (e per il mondo intero).
 
