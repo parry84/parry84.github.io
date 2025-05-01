@@ -23,20 +23,21 @@ Questi costi operativi includono le spese di ricerca e sviluppo, il mantenimento
 
 Ma, non essendo società di beneficenza e registrando profitti, da qualche parte devono esistere delle entrate. Che infatti esistono e sono nel 99% dei casi generate dalla pubblicità online.
 
-E questa pubblicità online, oltre a essere fastidiosa, è interamente pagata da noi senza nemmeno accorgercene. Sì, perché acquistando i beni sponsorizzati vi è una componente del prezzo aggiuntiva dovuta al marketing. **Quindi, questi servizi web gratis, non sono affatto gratis**, ma li stiamo pagando fino all’ultimo centesimo! E questo modello di business presenta due svantaggi.
+E questa pubblicità online, oltre a essere fastidiosa, è interamente pagata da noi senza nemmeno accorgercene. Sì, perché acquistando i beni sponsorizzati vi è una componente del prezzo aggiuntiva dovuta al marketing. Quindi, questi servizi web gratis, non sono affatto gratis, ma li stiamo pagando fino all’ultimo centesimo! E questo modello di business presenta due svantaggi.
 
 Innanzitutto, che questi costi includono anche la produzione dei contenuti pubblicitari (George Clooney non ha recitato gratis nello spot Martini), quindi in realtà stiamo pagando i servizi “gratis” più di quanto ci costerebbero se non fossero _free_.
 
-Ma soprattutto, questo modello presenta un lato ancora più discutibile: dal punto di vista delle società web, **gli utenti non sono clienti, ma sono il prodotto venduto agli inserzionisti**. E questo porta invariabilmente alla generazione di contenuti di qualità sempre più bassa, alla presenza di _banner_ sempre più invasivi, alla violazione della _privacy_ e al dominio degli algoritmi. Questo fenomeno è particolarmente evidente nei [siti d'informazione e _news_](/notes/giornali/). Dal livello a cui si è degenerati si può sperare che sia giunta la fine di quest’era, per lasciare spazio a modelli più sostenibili.
+Ma soprattutto, questo modello presenta un lato ancora più discutibile: dal punto di vista delle società web, gli utenti non sono clienti, ma sono il prodotto venduto agli inserzionisti. E questo porta invariabilmente alla generazione di contenuti di qualità sempre più bassa, alla presenza di _banner_ sempre più invasivi, alla violazione della _privacy_ e al dominio degli algoritmi. Questo fenomeno è particolarmente evidente nei [siti d’informazione e _news_](/notes/giornali/). Dal livello a cui si è degenerati si può sperare che sia giunta la fine di quest’era, per lasciare spazio a modelli più sostenibili.
 
-<div class="epigraph">
-    <blockquote>
-        <p>«Paghiamo per un buon paio di scarpe, per un buon film o per vedere una partita di calcio. Non si capisce perché non dovremmo pagare per una buona informazione.»</p>
-        <footer>Yuval Noah Harari</footer>
-    </blockquote>
+<div class='epigraph'>
+
+> «Paghiamo per un buon paio di scarpe, per un buon film o per vedere una partita di calcio. Non si capisce perché non dovremmo pagare per una buona informazione.»<footer> — Yuval Noah Harari</footer>
+
 </div>
 
-Non è semplice abbandonare quello a cui siamo abituati. Tuttavia si vedono passi nella direzione giusta, fra cui Netflix e la volontà di Elon Musk di tariffare la spunta blu su Twitter. Lato nostro possiamo accelerare il fenomeno premiando i servizi di qualità a pagamento e rendendo l’_advertising_ sempre più impraticabile mediante tecniche di filtraggio della pubblicità (il cosiddetto "ad blocking").
+Abbandonare le consuetudini radicate non è mai impresa agevole. Eppure, scorgiamo già significativi segnali di cambiamento: Netflix, The New York Times che ha coraggiosamente adottato un rigoroso paywall per il proprio giornalismo di qualità, o Elon Musk che introduce la tariffazione del segno distintivo su Twitter. Dal canto nostro, possiamo accelerare questa evoluzione premiando i servizi di qualità a pagamento e rendendo l’_advertising_ sempre più impraticabile mediante tecniche di filtraggio della pubblicità (il cosiddetto _“ad blocking”_[^1]).
+
+[^1]: Secondo un’analisi basata sul [Dilemma del Prigioniero](/notes/dilemma/), l’equilibrio finale porterebbe all’insostenibilità di un ecosistema internet fondato esclusivamente sulla pubblicità
 
 <bibliography>
 @misc{meta,

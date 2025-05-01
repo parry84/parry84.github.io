@@ -30,7 +30,7 @@ Ma l’accesso a una buona informazione è nel proprio interesse, poiché aiuta 
 
 ## Che fare?
 
-L’unica soluzione quindi, è che i lettori tornino a investire soldi nella stampa innescando un circolo virtuoso. Questo potrebbe concretizzarsi abbonandosi a una testata oppure sostenendo progetti giornalistici indipendenti.
+L’unica soluzione quindi, è che i lettori tornino a [investire soldi nella stampa](/notes/web-a-pagamento/) innescando un circolo virtuoso. Questo potrebbe concretizzarsi abbonandosi a una testata oppure sostenendo progetti giornalistici indipendenti.
 E oggi, secondo voi, quali sono le risorse sui cui vale la pena investire?
 
 Lato mio, al momento sono abbonato a due quotidiani nazionale e sostengo diversi progetti di divulgazione. Di seguito una selezione di fonti e progetti che ritengo meritevoli:
