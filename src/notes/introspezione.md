@@ -26,9 +26,19 @@ La soluzione sta quindi nella profondità del pensiero: incorporiamo condizionam
 
 </div>
 
-Siamo introversi? Estroversi? Modesti? Ambiziosi? Cosa ci rende speciali? Quali sono i nostri limiti? Preferiamo l’adrenalina o una passeggiata in [montagna](/notes/montagna/)? Guardando al passato, cosa ci manca maggiormente? Porsi domande e darsi risposte sincere: non vi è alcuna buona ragione per non essere sinceri con sé stessi.
+Siamo introversi? Estroversi? Modesti? Ambiziosi? Cosa ci rende speciali? Quali sono i nostri limiti? Preferiamo l’adrenalina o una passeggiata in [montagna](/notes/montagna/)?[^1] Guardando al passato, cosa ci manca maggiormente? Porsi domande e darsi risposte sincere: non vi è alcuna buona ragione per non essere sinceri con sé stessi.
+
+[^1]: Ali Binazir ha calcolato approssimativamente la probabilità che possa nascere qualcun altro, nel mondo, identico a voi.
 
 Oggigiorno tendiamo a essere superficiali e l’introspezione è fuori moda. In particolare, tendiamo a esorcizzare e anestetizzare le nostre angosce e le nostre debolezze nell’illusione di sconfiggerle. Ma sono proprio le angoscie più profonde i segnali fondamentali per orientarci dentro di noi e definire il nostro campo di azione, mentale e fisico. La conoscenza è [libertà](/notes/libero/) e la libertà dipende dalla conoscenza: meno conosci, più sei schiavo. In conclusione, solo approfondendo la conoscenza di sé possiamo prevenire le influenze indesiderate e ridurre il rischio di commettere errori nella formulazione delle nostre scelte di vita.
+
+E questo cammino di conoscenza non può che durare per tutta l’esistenza:
+
+<div class='epigraph'>
+
+> «Questo cuore stesso, che pure è il mio, resterà sempre per me indefinibile. L’abisso che c’è fra la certezza che io ho della mia esistenza e il contenuto che tento di dare a questa sicurezza, non sarà mai colmato. Sarò sempre estraneo a me stesso. Nella psicologia, come nella logica, vi sono alcune verità, ma non esiste la verità. Il “conosci te stesso” di Socrate ha lo stesso valore del “sii virtuoso” dei nostri confessionali: allo stesso tempo che una nostalgia rivelano anche un’ignoranza. Sono giuochi sterili intorno a grandi soggetti, e non sono legittimi che nella misura in cui sono approssimativi.» <footer> — Albert Camus, _Il mito di Sisifo_</footer>
+
+</div>
 
 <bibliography>
 @misc{gaber,
