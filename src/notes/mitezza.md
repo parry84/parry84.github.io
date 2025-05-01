@@ -24,7 +24,7 @@ La rabbia è dunque una passione, un’emozione negativa a cui opporre resistenz
 
 È fondamentale non lasciare alle circostanze il potere di suscitare rabbia in noi: arrabbiarsi con una certa situazione non ha nessun impatto sulla situazione stessa. La calma, al contrario, permette agire in maniera giusta e coraggiosa poiché è attenta e cauta e consente alla mente di individuare soluzioni. Trasforma dunque i segnali fisici del’ira in azioni opposte: rilassa il viso, respira profondamente, abbassa la voce e rallenta il passo. Il nostro stato d’animo si adeguerà alla calma che proiettiamo.
 
-Il mite è colui che “lascia essere l’altro quello che è” e, al contrario del prepotente, desidera esprimere se stesso non a scapito dell’altro. Le persone miti —nelle parole di Bobbio[^1]— sono quelle che rendono più abitabile questa “aiuola”.
+Il mite è colui che “lascia essere l’altro quello che è” e, al contrario del prepotente, desidera esprimere sé stesso non a scapito dell’altro. Le persone miti —nelle parole di Bobbio[^1]— sono quelle che rendono più abitabile questa “aiuola”.
 
 [^1]: Norberto Bobbio, _Elogio Della Mitezza_
 

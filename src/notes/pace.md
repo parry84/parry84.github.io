@@ -36,13 +36,13 @@ Dobbiamo quindi mantenere alta la guardia e perseverare nella missione che maggi
 
 ## Mala tempora currunt
 
-Dalla prima stesura di questi appunti, si è posto il tema di un’attualità bruciante. L’invasione russa in Ucraina, i crimini del 7 ottobre, l’aggressività cinese: è chiaro che ci troviamo in tempi difficili. Ah, il sogno della pace! Ci riempiamo tutti la bocca con la parola _“pace”_. Perché tutti quanti vogliamo la pace ma poi stranamente c'è sempre la guerra?
+Dalla prima stesura di questi appunti, si è posto il tema di un’attualità bruciante. L’invasione russa in Ucraina, i crimini del 7 ottobre, l’aggressività cinese: è chiaro che ci troviamo in tempi difficili. Ah, il sogno della pace! Ci riempiamo tutti la bocca con la parola _“pace”_. Perché tutti quanti vogliamo la pace ma poi stranamente c’è sempre la guerra?
 
 Il copione prevederebbe di additare come colpevoli i soliti vecchi alibi dell’industria delle armi e degli interessi economici. Esso ci rassicura, confinando la questione nel perimetro della razionalità. Purtroppo è illusorio e controproducente: nella guerra, la razionalità è ormai fuori dai giochi. I sentimenti negativi, come la paura, l’odio, l’invidia, la rabbia e la violenza hanno un nesso con l’angoscia della morte e questa osservazione apre una prospettiva promettete per capire perché il mondo è così feroce.
 
 In ogni lotta c’è la percezione di poter sconfiggere la morte per mezzo della vittoria. Se prevalgo ho mostrato che sono immune alla morte e che ho sconfitto il tempo. Se questo è ciò che inconsciamente pensiamo, diventa evidente la difficoltà dell’affrancarci dalla necessità titanica di distruggere l’altro.
 
-È l’angoscia della morte il motore della storia personale e della storia pubblica, assieme al suo sinonimo della ricerca del significato dell’esistenza. Ma spetta all’uomo dominare le passioni, poiché l'uomo soggetto alle passioni non appartiene più a se stesso, ma alla sorte, ed è così che le cose vanno più spesso per il peggio che per il meglio.
+È l’angoscia della morte il motore della storia personale e della storia pubblica, assieme al suo sinonimo della ricerca del significato dell’esistenza. Ma spetta all’uomo dominare le passioni, poiché l’uomo soggetto alle passioni non appartiene più a sé stesso, ma alla sorte, ed è così che le cose vanno più spesso per il peggio che per il meglio.
 
 Solo una riflessione sincera e lucida sull’origine più profonda dei nostri pensieri e delle nostre azioni ci può fornire un’arma per contrastare l’irrazionalità incontrollabile. Come osserva Spinoza, _“l’uomo libero, cioè colui che vive sotto la sola guida della ragione, non è guidato dalla Paura della morte, ma desidera direttamente il bene, cioè agire, vivere, conservare il proprio essere”_\cite{spinoza2013}.
 

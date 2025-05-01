@@ -34,7 +34,7 @@ Lungo il cammino dell’esistenza intenzionale la ragione accompagna, ma non bas
 
 <div class='epigraph'>
 
-> «L’anima razionale vede se stessa, articola se stessa, raccoglie il frutto che produce, spazia per il cosmo intero, per il vuoto che lo circonda e per la struttura che lo conforma. Ancora: si protende verso l’infinito dell’eternità, abbraccia e comprende col pensiero la l’alfa e l’omega dell’universo.» <footer> — Marco Aurelio, _Colloqui con sé stesso_, libro XI, 1</footer>
+> «L’anima razionale vede sé stessa, articola sé stessa, raccoglie il frutto che produce, spazia per il cosmo intero, per il vuoto che lo circonda e per la struttura che lo conforma. Ancora: si protende verso l’infinito dell’eternità, abbraccia e comprende col pensiero la l’alfa e l’omega dell’universo.» <footer> — Marco Aurelio, _Colloqui con sé stesso_, libro XI, 1</footer>
 
 </div>
 

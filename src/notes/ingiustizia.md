@@ -29,7 +29,7 @@ caption: 'MARCUS AURELIUS ANTONINUS AUGUSTUS / black and white, Daniel Coulmann'
 
 Questa scuola filosofica ha origine nella Grecia del III secolo a.C. ed è fondata sul principio che, sebbene non abbiamo controllo sulle cose che ci capitano, abbiamo invece controllo sulla nostra reazione a esse.
 
-Oggi molte delle campagne per l’inclusività mirano principalmente alla denuncia, ponendo il sopruso sotto i riflettori. Tuttavia, limitarsi alla sola consapevolezza del problema può solo peggiorare le emozioni tipicamente negative – paura, rabbia, frustrazione, impotenza – che spesso portano a una condizione di depressione o di vittimizzazione. Inoltre, poiché le discriminazioni sono profondamente radicate in tutti gli aspetti della società, difficilmente le persone emarginate potranno aspettarsi una soluzione dal sistema. È quindi importante esplorare strategie basate su se stessi, ed è qui che lo stoicismo viene in aiuto.
+Oggi molte delle campagne per l’inclusività mirano principalmente alla denuncia, ponendo il sopruso sotto i riflettori. Tuttavia, limitarsi alla sola consapevolezza del problema può solo peggiorare le emozioni tipicamente negative – paura, rabbia, frustrazione, impotenza – che spesso portano a una condizione di depressione o di vittimizzazione. Inoltre, poiché le discriminazioni sono profondamente radicate in tutti gli aspetti della società, difficilmente le persone emarginate potranno aspettarsi una soluzione dal sistema. È quindi importante esplorare strategie basate su sé stessi, ed è qui che lo stoicismo viene in aiuto.
 
 <div class='epigraph'>
 

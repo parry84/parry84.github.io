@@ -33,7 +33,7 @@ Dalla natura razionale dell’uomo e dalla sua necessità di realizzazione indiv
 
 Il fatto che civiltà diverse abbiamo diversi sistemi di credenze non implica che il confronto sia insensato, o che non esista un giusto e uno sbagliato. Il relativismo culturale è quindi tanto sciocco quanto una difesa a priori della propria civiltà. E, se guidato dalla ragione, il confronto può essere un prezioso strumento di arricchimento per una o entrambe le parti.
 
-Scegliamo dunque. Scegliamo la libertà individuale, dello spirito e del pensiero. Scegliamo valori solidi e proiettati al futuro. Scegliamo la fiducia nella ragione, nel dialogo e nella democrazia. Questo caratterizza una società in armonia con la realtà, dove ogni individuo può realizzare se stesso, e dove il prossimo è un amico con cui scambiare, a reciproco vantaggio, beni materiali e spirituali.
+Scegliamo dunque. Scegliamo la libertà individuale, dello spirito e del pensiero. Scegliamo valori solidi e proiettati al futuro. Scegliamo la fiducia nella ragione, nel dialogo e nella democrazia. Questo caratterizza una società in armonia con la realtà, dove ogni individuo può realizzare sé stesso, e dove il prossimo è un amico con cui scambiare, a reciproco vantaggio, beni materiali e spirituali.
 
 <bibliography>
 @book{popper2012,

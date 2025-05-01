@@ -36,7 +36,7 @@ Allora, cosa rimane? Dovremmo ascoltare ancora una volta Nagel e il suo Assurdo:
 
 <div class='epigraph'>
 
-> «Getta via tutto, quindi, e tieni ferme solo queste poche cose, e ricorda anche che ciascuno vive solo questo presente, incommensurabilmente breve: il resto è già stato vissuto o è avvolto nell'incertezza. È poca cosa, quindi, ciò che vive ciascuno, ed è poca cosa il cantuccio della terra in cui vive; e poca cosa è anche la più duratura fama postuma: questa fama trasmessa da una generazione all'altra di omuncoli che in un attimo sono morti, e che non conoscono neppure se stessi, figurarsi poi chi è già morto da tanto tempo!» <footer> — Marco Aurelio, _Colloqui con sé stesso_, libro III, 10</footer>
+> «Getta via tutto, quindi, e tieni ferme solo queste poche cose, e ricorda anche che ciascuno vive solo questo presente, incommensurabilmente breve: il resto è già stato vissuto o è avvolto nell’incertezza. È poca cosa, quindi, ciò che vive ciascuno, ed è poca cosa il cantuccio della terra in cui vive; e poca cosa è anche la più duratura fama postuma: questa fama trasmessa da una generazione all’altra di omuncoli che in un attimo sono morti, e che non conoscono neppure sé stessi, figurarsi poi chi è già morto da tanto tempo!» <footer> — Marco Aurelio, _Colloqui con sé stesso_, libro III, 10</footer>
 
 </div>
 

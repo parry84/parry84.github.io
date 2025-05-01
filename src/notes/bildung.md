@@ -26,7 +26,7 @@ Oggi, [in un mondo sempre più complesso](/notes/progresso/), ogni professionist
 - il vantaggio tecnologico dell’Occidente nei confronti del resto del mondo [si è attenuato e continuerà ad attenuarsi](/notes/regolamentazione/);
 - le strategie di contenimento dei _competitor_ internazionali si sono rivelate inefficaci.
 
-Non vi è alcun politico o polemica che possa cambiare queste condizioni esogene. Non resta che accettarle stoicamente e reagire nell’unico modo proficuo: diventando protagonisti di se stessi attraverso un processo di auto-miglioramento continuo, per tutta la vita. Un mercato del lavoro sempre più complesso richiede professionalità di livello sempre più alto. I titoli non sono più una questione binaria (ce l’hai o non ce l’hai), ciò che conta è ciò che puoi offire realmente.
+Non vi è alcun politico o polemica che possa cambiare queste condizioni esogene. Non resta che accettarle stoicamente e reagire nell’unico modo proficuo: diventando protagonisti di sé stessi attraverso un processo di auto-miglioramento continuo, per tutta la vita. Un mercato del lavoro sempre più complesso richiede professionalità di livello sempre più alto. I titoli non sono più una questione binaria (ce l’hai o non ce l’hai), ciò che conta è ciò che puoi offire realmente.
 
 Derek Curtis Bok, presidente dell’Università di Harvard, con estrema onestà intellettuale, ha ammesso che: «Non siamo capaci di prepararvi per quel lavoro che quasi certamente non esisterà più intorno a voi. Ormai il lavoro, a causa dei cambiamenti organizzativi e tecnologici, è soggetto a variazioni rapide e radicali. [...] Noi possiamo soltanto insegnarvi a diventare capaci di imparare, perché dovrete reimparare continuamente».
 
