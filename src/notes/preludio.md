@@ -40,7 +40,9 @@ Lungo il cammino dell’esistenza intenzionale la ragione accompagna, ma non bas
 
 E non era nemmeno necessario che fosse, avrebbe potuto anche non essere. Eppure è. Uno spirito che ha assaporato una tale estasi sente  l’urgenza di comunicarla: il mondo, forse più di quanto creda, ne ha bisogno.
 
-Osserviamo ciò che accade intorno a noi. Una storia d’amore che sembrava una favola romantica, eppure il finale è improvviso e amaro. Nonostante ogni sforzo per creare un ambiente sereno e stipendi adeguati, i collaboratori abbandonano la società. La disoccupazione scende ai minimi storici, ma cresce il malcontento politico. Le guerre. Il fentanyl. La ragione è smarrita di fronte all’irrazionale e affretta spiegazioni econometriche, ma tale riflesso è un negazionismo pericoloso: il rischio è che l’Urlo di Munch interiore si traduca nel Paradosso di Fermi. Lo studio della filosofia offre viceversa un appiglio al nostro sentirci stranieri nel mondo.
+Osserviamo ciò che accade intorno a noi. Una storia d’amore che sembrava una favola romantica, eppure il finale è improvviso e amaro. Nonostante ogni sforzo per creare un ambiente sereno e stipendi adeguati, i collaboratori abbandonano la società. La disoccupazione scende ai minimi storici, ma cresce il malcontento politico. Le guerre[^3]. Il fentanyl. La ragione è smarrita di fronte all’irrazionale e affretta spiegazioni econometriche, ma tale riflesso è un negazionismo pericoloso: il rischio è che l’Urlo di Munch interiore si traduca nel Paradosso di Fermi. Lo studio della filosofia offre viceversa un appiglio al nostro sentirci stranieri nel mondo.
+
+[^3]: Vogliamo credere che i governanti si comportino come agenti razionali, ma sono spesso uomini tristi che, volenti o nolenti, si infilano in imprese ancora più tristi.
 
 Il nostro tempo è attraversato dallo spirito dell’inquietudine e dell’instabilità. Jorge Luis Borges ha scritto che vivere in un tempo di grandi pericoli e opportunità significa sperimentare sia la tragedia che la commedia, con “l’imminenza di una rivelazione”[^3] nella comprensione di sé stessi e del mondo.
 
