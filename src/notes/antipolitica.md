@@ -13,7 +13,7 @@ tags:
 
 <span class="newthought">Il risentimento</span> nei confronti della politica e, in particolar modo, verso gli stipendi dei parlamentari, ha dominato il dibattuto pubblico delle ultime decadi. Questo risentimento è poi sfociato nel trionfo elettorale dell’antipolitica.
 
-È comprensibile essere indignati con la classe politica, dati gli scandali, gli sprechi e —soprattutto— i vent’anni di mancate riforme. Tuttavia, questo fenomeno ha un duplice effetto negativo.
+È comprensibile essere indignati con la classe politica, dati gli scandali, gli sprechi e — soprattutto — i vent’anni di mancate riforme. Tuttavia, questo fenomeno ha un duplice effetto negativo.
 
 In primo luogo, rappresenta una distrazione. Il costo _pro capite_ del parlamento è di circa 25€ all’anno per cittadino. \cite{stipendi23}, Una cifra irrilevante per un paese del G7 (per quanto sia doveroso tenere i costi della politica sotto controllo). Tuttavia monopolizzare il dibattito pubblico su questo aspetto impedisce di approfondire temi molto più significativi, come la [bassa produttività](/notes/progresso/) e l’innovazione stagnante. Questo sbandamento nell’ordine delle priorità indebolisce la [democrazia](/notes/democrazia/).
 
