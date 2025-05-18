@@ -18,12 +18,13 @@ caption: 'M. C. Escher, Relativity, dettaglio. Litografia, 1953'
 
 </div>
 
-Potrebbe sembrare una citazione di Joseph Ratzinger, ma in realtà l’autore è il filosofo liberale Karl Popper\cite{popper2012}.
+Potrebbe sembrare una citazione di Joseph Ratzinger, ma in realtà è il filosofo liberale Karl Popper a scandire questo giudizio\cite{popper2012}.
 
-Oggi questa forma di pensiero sta guadagnando popolarità nella nostra società, ma si tratta di un tradimento della ragione e dell’umanità. Se è vero che il nostro giudizio può sbagliare, una sana consapevolezza socratica della propria ignoranza non implica l’assenza della verità. Possiamo anche pensare che tutto è uguale, che la realtà è un sogno, ci porta a sorridere come Buddha, ma nel momento in cui viviamo nella realtà siamo costretti a comprendere e decidere: giudicare equivale a pensare e vivere.
+E tale ammonimento è più che mai attuale nell’oggi dove questa forma di pensiero guadagna terreno, tradendo la ragione e quindi, dell’uomo stesso. Se è vero che il nostro giudizio può sbagliare, una sana consapevolezza socratica della propria ignoranza non implica l’assenza di una verità. Possiamo anche pensare che tutto è uguale, che la realtà è un sogno: questo ci porta forse a sorridere come il Buddha, ma nel momento in cui viviamo nella realtà siamo costretti a comprendere e decidere: giudicare equivale a pensare e vivere.[^-]
 
-La realtà è un assoluto, l’esistenza è un assoluto, e così una vita umana. La vita, come la morte, è un assoluto e la ragione è lo strumento con cui possiamo comprenderlo.
-Dalla natura razionale dell’uomo e dalla sua necessità di realizzazione individuale, ne segue che anche i valori etici sono oggettivi e assoluti: la vita è un bene, ciò che la minaccia è un male; la libertà è un bene, la schiavitù un male; la giustizia un bene, la prevaricazione un male. Intuitivamente comprendiamo questa verità, oltre che le conseguenze della sua negazione.
+[^-]: Non vi è modo di decostruire la realtà, ma la realtà può, in un solo attimo, decostruire qualunque narrativa.
+
+Non potendo trascendere la nostra natura limitata, siamo chiamati a riconoscere che la realtà è un assoluto, l’esistenza è un assoluto, e così la vita umana. La vita, come la morte, è un assoluto e la ragione è lo strumento attraverso cui possiamo comprenderlo. Dalla natura razionale dell’uomo e dalla sua necessità di realizzazione individuale, ne segue che anche i valori etici sono oggettivi e assoluti: la vita è preferibile alla morte, la salute è preferibile alla malattia, l’abbondanza alla scarsità, la sicurezza al pericolo, la liberà alla tirannia, i diritti egualitari alla discriminazione e al fanatismo, l’alfabetismo all’analfabetimo, la conoscenza all’ignoranza, la felicità alla miseria. Intuitivamente comprendiamo questa verità, oltre che le conseguenze della sua negazione.
 
 <div class='epigraph'>
 
@@ -33,7 +34,7 @@ Dalla natura razionale dell’uomo e dalla sua necessità di realizzazione indiv
 
 Il fatto che civiltà diverse abbiamo diversi sistemi di credenze non implica che il confronto sia insensato, o che non esista un giusto e uno sbagliato. Il relativismo culturale è quindi tanto sciocco quanto una difesa a priori della propria civiltà. E, se guidato dalla ragione, il confronto può essere un prezioso strumento di arricchimento per una o entrambe le parti.
 
-Scegliamo dunque. Scegliamo la libertà individuale, dello spirito e del pensiero. Scegliamo valori solidi e proiettati al futuro. Scegliamo la fiducia nella ragione, nel dialogo e nella democrazia. Questo caratterizza una società in armonia con la realtà, dove ogni individuo può realizzare sé stesso, e dove il prossimo è un amico con cui scambiare, a reciproco vantaggio, beni materiali e spirituali.
+Fuggire dalla scelta è impossibile, poiché anche il non scegliere è una scelta — ma una scelta che ci consegna all’angoscia di una vita inautentica. Scegliamo dunque! Scegliamo la fiducia nella ragione, nel dialogo e nella [democrazia](/notes/democrazia/), scegliamo [la libertà individuale](/notes/libero/), dello spirito e del pensiero. Scegliamo valori solidi e [proiettati al futuro](/notes/progresso/). Questo caratterizza una società in armonia con la realtà, dove ogni individuo può realizzare sé stesso, e dove il prossimo è un nemico ma un compagno di viaggio con cui scambiare, a reciproco vantaggio, beni materiali e spirituali.
 
 <bibliography>
 @book{popper2012,
