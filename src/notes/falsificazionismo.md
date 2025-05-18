@@ -28,7 +28,7 @@ Quali caratteristiche dovrebbe avere una teoria per essere considerata scientifi
 
 </div>
 
-Quindi l'accento non deve essere posto sugli aspetti induttivi, ma su quelli deduttivi. **Una teoria è informativa della realtà solamente se formulata contestualmente a un _falsificatore potenziale_, ovvero un esperimento che potrebbe dimostrarne la falsità**. Quindi la scienza non è verità assoluta (a cui non si giungerà mai), ma un continuo divenire verso di essa ed e costituita in ogni momento dalle teorie non ancora falsificate. Un esempio è costituito dalla relatività di Einstein che supera e comprende quella galileiana.
+Quindi l’accento non deve essere posto sugli aspetti induttivi, ma su quelli deduttivi. **Una teoria è informativa della realtà solamente se formulata contestualmente a un _falsificatore potenziale_, ovvero un esperimento che potrebbe dimostrarne la falsità**. Quindi la scienza non è verità assoluta (a cui non si giungerà mai), ma un continuo divenire verso di essa ed e costituita in ogni momento dalle teorie non ancora falsificate. Un esempio è costituito dalla relatività di Einstein che supera e comprende quella galileiana.
 
 <div class='epigraph'>
 

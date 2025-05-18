@@ -20,7 +20,7 @@ Abbiamo paura a guardare nell’abisso. Forse, inconsciamente, percepiamo la fra
 
 <div class='epigraph'>
 
-> «Ci consideriamo i cavalieri del Santo Contatto, e questa è la menzogna numero due: la verità è che cerchiamo soltanto la gente. Non abbiamo bisogno di altri mondi, ma di specchi. […] ci portiamo dietro esattamente quello che siamo e quando l'altra parte ci svela la nostra verità - il lato che ne teniamo nascosto - non riusciamo ad accettarla!» <footer> — Stanisław Lem, _Solaris_</footer>
+> «Ci consideriamo i cavalieri del Santo Contatto, e questa è la menzogna numero due: la verità è che cerchiamo soltanto la gente. Non abbiamo bisogno di altri mondi, ma di specchi. […] ci portiamo dietro esattamente quello che siamo e quando l’altra parte ci svela la nostra verità - il lato che ne teniamo nascosto - non riusciamo ad accettarla!» <footer> — Stanisław Lem, _Solaris_</footer>
 
 </div>
 
