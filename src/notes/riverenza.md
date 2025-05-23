@@ -11,7 +11,7 @@ tags:
 
 ##
 
-<span class="newthought">Esistere è</span> un fenomeno colossale, e, sin dall’alba dei tempi, l’uomo, scrutando l’orizzonte, si è interrogato sul suo significato più profondo. È stato durante un viaggio in barca lungo il fiume Ogooué (Gabon), a inizio ‘900, quando nella mente di Albert Schweitzer balenarono le parole _“Riverenza per la vita”_\cite{schweitzer}.
+<span class="newthought">Esistere è</span> un fenomeno colossale, e, sin dall’alba dei tempi, l’uomo, scrutando l’orizzonte, si è interrogato sul suo significato più profondo. È stato durante un viaggio in barca lungo il fiume Ogooué (Gabon), a inizio ‘900, quando nella mente di Albert Schweitzer balenarono le seguenti parole, semplici e profonde: _“Riverenza per la vita”_\cite{schweitzer}.
 
 Che significa? Tu dai valore alla tua vita? Vuoi continuare a vivere? Certamente sì! Questa è la consapevolezza basilare immediatamente disponibile alla conoscenza, che accomuna tutti gli esseri viventi: il desiderio di continuare a vivere, _nonostante tutto_. L’uomo con la sua razionalità ascolta il suo cuore, e comprende questa verità: “Io sono la vita che vuole vivere in mezzo alla vita che vuole vivere”.
 
