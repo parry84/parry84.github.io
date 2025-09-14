@@ -12,7 +12,7 @@ caption: 'Maurits Cornelis Escher, Buccia, 1955. Xilografia e xilografia di test
 
 ##
 
-<span class="newthought">La differenza fondamentale</span> tra Bach e il resto della musica, è che indica una strada attraverso cui ogni mortale può congiungersi all’Assoluto.
+<span class="newthought">La differenza fondamentale</span> tra Bach\cite{spotify} e il resto della musica, è che indica una strada attraverso cui ogni mortale può congiungersi all’Assoluto.
 
 L’intero spettro delle emozioni vi è rappresentato, dai picchi di pura e indisturbata gioia alle discese più profonde, e per la maggior parte è, sia rinvigorente e affermante della vita, che trascendente nella sua serenità. Altri compositori offrono intuizioni sullo spirito e sul cuore umano. Ma la musica di Bach riflette l’universo stesso e contiene la Totalità del Tutto, come una biblioteca infinita di Borges condensata in uno spartito.
 
@@ -27,7 +27,7 @@ La musica di Bach è architetturale, ogni nota è essenziale. L’esecuzione ric
 La musica di Bach è senza tempo e viaggerà in eterno nello spazio con le sonde Voyager 1 e 2. Ma allo stesso tempo, oggi, rischiamo seriamente che l’imbarbarimento morale prenda piede sulla Terra, rendendola brutta e invivibile. La vera crisi non è quella dei conti in banca ma quella dell’umanità stessa e della bellezza, da cui la crisi materiale procede. Non siamo più consapevoli della nostra immensa cultura. Apriamo dunque le nostre menti e coltiviamo la bellezza contro l’ignoranza.
 
 <bibliography>
-@online{spotify,
+@misc{spotify,
     title = {Essential Bach},
     date = {2023},
     author = {Emanuele Parrinello},
